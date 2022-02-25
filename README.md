@@ -8,9 +8,9 @@ Bot completo focado em musica para discord.js V13 🎧
 
 Dependencias e ferramentas que você precisará para fazer o bot funcionar corretamente
 
-[FFmpeg](https://www.ffmpeg.org) to process audio
+[FFmpeg](https://www.ffmpeg.org) (para processamento de audio)
 
-[Node JS](https://nodejs.org/en/) (v16) for environment
+[Node JS](https://nodejs.org/en/) (v16)
 
 
 ### ⚙ Configuração
