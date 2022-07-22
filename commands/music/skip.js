@@ -1,6 +1,8 @@
+const { discord } = require('discord.js');
+const { MessageEmbed } = require('discord.js');
 module.exports = {
     name: 'skip',
-    aliases: ['sk', 'pular', 'proximo'],
+    aliases: ['sk', 'pular', 'proximo', 'next'],
     utilisation: '{prefix}skip',
     voiceChannel: true,
 
@@ -11,6 +13,14 @@ module.exports = {
 
         const success = queue.skip();
 
-        return message.channel.send(success ? ` A musica ${queue.current.title} foi pulada ✅` : `algo deu errado ${message.author}. ❌`);
+        const sussembed = new MessageEmbed()
+            .setTitle('SKIP')
+            .setColor('DARK_BLUE')
+            .setTitle(`✅ | A musica ${queue.current.title} foi pulada`)
+        const errorembed = new MessageEmbed()
+            .setTitle('SKIP')
+            .setColor('DARK_RED')
+            .setTitle('❌ | ALGO DEU ERRADO')
+        return message.channel.send(success ? {embeds: [sussembed]} : {embeds: [errorembed]});
     },
 };

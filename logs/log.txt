@@ -1,0 +1,3986 @@
+|--------------------------------------------------------------|
+|  lamborguini Bot log system                                  |
+|  INFO  -> Informações gerais                                 |
+|  ERROR -> Erros gerais                                       |
+|  Formatação da data -> dd-MM-yyyy : UTC +3                   |
+|  Contato do dev:  https://github.com/YuriXbr                 |
+|--------------------------------------------------------------|
+
+AUTO GENERATED MESSAGES:
+=================================================================
+
+
+
+3/7/2022 17:26:27 INFO: Carregando eventos... 
+3/7/2022 17:26:27 INFO: Evento interactionCreate carregado. 
+3/7/2022 17:26:27 INFO: Evento messageCreate carregado. 
+3/7/2022 17:26:27 INFO: Evento ready carregado. 
+3/7/2022 17:26:27 INFO Carregando comandos...
+
+3/7/2022 17:26:27 INFO: Comando avatar carregado.
+3/7/2022 17:26:27 INFO: Comando eval carregado.
+3/7/2022 17:26:27 INFO: Comando football carregado.
+3/7/2022 17:26:27 INFO: Comando help carregado.
+3/7/2022 17:26:27 INFO: Comando modlog carregado.
+3/7/2022 17:26:27 INFO: Comando ping carregado.
+3/7/2022 17:26:27 INFO: Comando snake carregado.
+3/7/2022 17:26:27 INFO: Comando test carregado.
+3/7/2022 17:26:27 INFO: Comando test2 carregado.
+3/7/2022 17:26:27 INFO: Comando testbackup carregado.
+
+3/7/2022 17:26:27 INFO: Comando attack carregado.
+3/7/2022 17:26:27 INFO: Comando dance carregado.
+3/7/2022 17:26:27 INFO: Comando headpat carregado.
+3/7/2022 17:26:27 INFO: Comando hug carregado.
+3/7/2022 17:26:27 INFO: Comando justshiro carregado.
+3/7/2022 17:26:27 INFO: Comando kiss carregado.
+3/7/2022 17:26:27 INFO: Comando smile carregado.
+3/7/2022 17:26:27 INFO: Comando punch carregado.
+
+3/7/2022 17:26:27 INFO: Comando back carregado.
+3/7/2022 17:26:27 INFO: Comando clear carregado.
+3/7/2022 17:26:27 INFO: Comando filter carregado.
+3/7/2022 17:26:27 INFO: Comando loop carregado.
+3/7/2022 17:26:27 INFO: Comando nowplaying carregado.
+3/7/2022 17:26:27 INFO: Comando pause carregado.
+3/7/2022 17:26:27 INFO: Comando play carregado.
+3/7/2022 17:26:27 INFO: Comando playlist carregado.
+3/7/2022 17:26:27 INFO: Comando progress carregado.
+3/7/2022 17:26:27 INFO: Comando queue carregado.
+3/7/2022 17:26:27 INFO: Comando resume carregado.
+3/7/2022 17:26:27 INFO: Comando save carregado.
+3/7/2022 17:26:27 INFO: Comando search carregado.
+3/7/2022 17:26:27 INFO: Comando seek carregado.
+3/7/2022 17:26:27 INFO: Comando shuffle carregado.
+3/7/2022 17:26:27 INFO: Comando skip carregado.
+3/7/2022 17:26:27 INFO: Comando stop carregado.
+3/7/2022 17:26:27 INFO: Comando volume carregado.
+
+3/7/2022 17:26:30 INFO: [TrackAdd] musica Harry Styles - Music For a Sushi Restaurant (Lyrics) foi adicionada na fila
+3/7/2022 17:26:30 INFO: [TrackStart] Musica Harry Styles - Music For a Sushi Restaurant (Lyrics) by The Vibe Guide começou a tocar no canal 🔊Teste Voz
+3/7/2022 17:26:30 INFO: [TrackAdd] musica Ultimate Anime Openings + Endings Compilation FULL SONGS! 8 Hour mix 22 Years of Anime foi adicionada na fila
+3/7/2022 17:26:30 INFO: [TrackAdd] musica Ariana Grande Playlist - Ariana Grande Best Songs - Ariana Grande Greatest Hits Full Album foi adicionada na fila
+3/7/2022 17:26:30 INFO: [TrackStart] Musica Ultimate Anime Openings + Endings Compilation FULL SONGS! 8 Hour mix 22 Years of Anime by Kawai começou a tocar no canal 🔊Teste Voz
+
+
+3/7/2022 19:51:12 INFO: Carregando eventos... 
+3/7/2022 19:51:12 INFO: Evento interactionCreate carregado. 
+3/7/2022 19:51:12 INFO: Evento messageCreate carregado. 
+3/7/2022 19:51:12 INFO: Evento ready carregado. 
+3/7/2022 19:51:12 INFO Carregando comandos...
+
+3/7/2022 19:51:12 INFO: Comando avatar carregado.
+3/7/2022 19:51:12 INFO: Comando eval carregado.
+3/7/2022 19:51:12 INFO: Comando football carregado.
+3/7/2022 19:51:12 INFO: Comando help carregado.
+3/7/2022 19:51:12 INFO: Comando modlog carregado.
+3/7/2022 19:51:12 INFO: Comando ping carregado.
+3/7/2022 19:51:12 INFO: Comando snake carregado.
+3/7/2022 19:51:12 INFO: Comando test carregado.
+3/7/2022 19:51:12 INFO: Comando test2 carregado.
+3/7/2022 19:51:12 INFO: Comando testbackup carregado.
+
+3/7/2022 19:51:12 INFO: Comando attack carregado.
+3/7/2022 19:51:12 INFO: Comando dance carregado.
+3/7/2022 19:51:12 INFO: Comando headpat carregado.
+3/7/2022 19:51:12 INFO: Comando hug carregado.
+3/7/2022 19:51:12 INFO: Comando justshiro carregado.
+3/7/2022 19:51:12 INFO: Comando kiss carregado.
+3/7/2022 19:51:12 INFO: Comando smile carregado.
+3/7/2022 19:51:12 INFO: Comando punch carregado.
+
+3/7/2022 19:51:12 INFO: Comando back carregado.
+3/7/2022 19:51:12 INFO: Comando clear carregado.
+3/7/2022 19:51:12 INFO: Comando filter carregado.
+3/7/2022 19:51:12 INFO: Comando loop carregado.
+3/7/2022 19:51:12 INFO: Comando nowplaying carregado.
+3/7/2022 19:51:12 INFO: Comando pause carregado.
+3/7/2022 19:51:12 INFO: Comando play carregado.
+3/7/2022 19:51:12 INFO: Comando playlist carregado.
+3/7/2022 19:51:12 INFO: Comando progress carregado.
+3/7/2022 19:51:12 INFO: Comando queue carregado.
+3/7/2022 19:51:12 INFO: Comando resume carregado.
+3/7/2022 19:51:12 INFO: Comando save carregado.
+3/7/2022 19:51:12 INFO: Comando search carregado.
+3/7/2022 19:51:12 INFO: Comando seek carregado.
+3/7/2022 19:51:12 INFO: Comando shuffle carregado.
+3/7/2022 19:51:12 INFO: Comando skip carregado.
+3/7/2022 19:51:12 INFO: Comando stop carregado.
+3/7/2022 19:51:12 INFO: Comando volume carregado.
+
+3/7/2022 19:51:15 INFO: [TrackAdd] musica Ultimate Anime Openings + Endings Compilation FULL SONGS! 8 Hour mix 22 Years of Anime foi adicionada na fila
+3/7/2022 19:51:15 INFO: [TrackAdd] musica Ariana Grande Playlist - Ariana Grande Best Songs - Ariana Grande Greatest Hits Full Album foi adicionada na fila
+3/7/2022 19:51:15 INFO: [TrackStart] Musica Ariana Grande Playlist - Ariana Grande Best Songs - Ariana Grande Greatest Hits Full Album by Top Hits Music começou a tocar no canal 🔊Teste Voz
+3/7/2022 19:51:15 INFO: [TrackStart] Musica Ariana Grande Playlist - Ariana Grande Best Songs - Ariana Grande Greatest Hits Full Album by Top Hits Music começou a tocar no canal 🔊Teste Voz
+
+
+3/7/2022 19:52:28 INFO: Carregando eventos... 
+3/7/2022 19:52:28 INFO: Evento interactionCreate carregado. 
+3/7/2022 19:52:28 INFO: Evento messageCreate carregado. 
+3/7/2022 19:52:28 INFO: Evento ready carregado. 
+3/7/2022 19:52:28 INFO Carregando comandos...
+
+3/7/2022 19:52:28 INFO: Comando avatar carregado.
+3/7/2022 19:52:28 INFO: Comando eval carregado.
+3/7/2022 19:52:28 INFO: Comando football carregado.
+3/7/2022 19:52:28 INFO: Comando help carregado.
+3/7/2022 19:52:28 INFO: Comando modlog carregado.
+3/7/2022 19:52:28 INFO: Comando ping carregado.
+3/7/2022 19:52:28 INFO: Comando snake carregado.
+3/7/2022 19:52:28 INFO: Comando test carregado.
+3/7/2022 19:52:28 INFO: Comando test2 carregado.
+3/7/2022 19:52:28 INFO: Comando testbackup carregado.
+
+3/7/2022 19:52:28 INFO: Comando attack carregado.
+3/7/2022 19:52:28 INFO: Comando dance carregado.
+3/7/2022 19:52:28 INFO: Comando headpat carregado.
+3/7/2022 19:52:28 INFO: Comando hug carregado.
+3/7/2022 19:52:28 INFO: Comando justshiro carregado.
+3/7/2022 19:52:28 INFO: Comando kiss carregado.
+3/7/2022 19:52:28 INFO: Comando smile carregado.
+3/7/2022 19:52:28 INFO: Comando punch carregado.
+
+3/7/2022 19:52:28 INFO: Comando back carregado.
+3/7/2022 19:52:28 INFO: Comando clear carregado.
+3/7/2022 19:52:28 INFO: Comando filter carregado.
+3/7/2022 19:52:28 INFO: Comando loop carregado.
+3/7/2022 19:52:28 INFO: Comando nowplaying carregado.
+3/7/2022 19:52:28 INFO: Comando pause carregado.
+3/7/2022 19:52:28 INFO: Comando play carregado.
+3/7/2022 19:52:28 INFO: Comando playlist carregado.
+3/7/2022 19:52:28 INFO: Comando progress carregado.
+3/7/2022 19:52:28 INFO: Comando queue carregado.
+3/7/2022 19:52:28 INFO: Comando resume carregado.
+3/7/2022 19:52:28 INFO: Comando save carregado.
+3/7/2022 19:52:28 INFO: Comando search carregado.
+3/7/2022 19:52:28 INFO: Comando seek carregado.
+3/7/2022 19:52:28 INFO: Comando shuffle carregado.
+3/7/2022 19:52:28 INFO: Comando skip carregado.
+3/7/2022 19:52:28 INFO: Comando stop carregado.
+3/7/2022 19:52:28 INFO: Comando volume carregado.
+
+3/7/2022 19:52:31 INFO: [TrackAdd] musica Ultimate Anime Openings + Endings Compilation FULL SONGS! 8 Hour mix 22 Years of Anime foi adicionada na fila
+3/7/2022 19:52:31 INFO: [TrackStart] Musica Ultimate Anime Openings + Endings Compilation FULL SONGS! 8 Hour mix 22 Years of Anime by Kawai começou a tocar no canal 🔊Teste Voz
+3/7/2022 19:52:31 INFO: [TrackAdd] musica Ariana Grande Playlist - Ariana Grande Best Songs - Ariana Grande Greatest Hits Full Album foi adicionada na fila
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on  error
+>> ERROR CHANNEL:  🔊Teste Voz
+>> ERROR MESSAGE:  aborted
+>> ERROR GENERAL:  Error: aborted
+
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on connection error
+>> ERROR CHANNEL:  🔊Teste Voz
+>> ERROR MESSAGE:  aborted
+>> ERROR GENERAL:  Error: aborted
+
+
+
+4/7/2022 13:32:21 INFO: Carregando eventos... 
+4/7/2022 13:32:21 INFO: Evento interactionCreate carregado. 
+4/7/2022 13:32:21 INFO: Evento messageCreate carregado. 
+4/7/2022 13:32:21 INFO: Evento ready carregado. 
+4/7/2022 13:32:21 INFO Carregando comandos...
+
+4/7/2022 13:32:21 INFO: Comando avatar carregado.
+4/7/2022 13:32:21 INFO: Comando eval carregado.
+4/7/2022 13:32:21 INFO: Comando football carregado.
+4/7/2022 13:32:21 INFO: Comando help carregado.
+4/7/2022 13:32:21 INFO: Comando modlog carregado.
+4/7/2022 13:32:21 INFO: Comando ping carregado.
+4/7/2022 13:32:21 INFO: Comando snake carregado.
+4/7/2022 13:32:21 INFO: Comando test carregado.
+4/7/2022 13:32:21 INFO: Comando test2 carregado.
+4/7/2022 13:32:21 INFO: Comando testbackup carregado.
+
+4/7/2022 13:32:21 INFO: Comando attack carregado.
+4/7/2022 13:32:21 INFO: Comando dance carregado.
+4/7/2022 13:32:21 INFO: Comando headpat carregado.
+4/7/2022 13:32:21 INFO: Comando hug carregado.
+4/7/2022 13:32:21 INFO: Comando justshiro carregado.
+4/7/2022 13:32:21 INFO: Comando kiss carregado.
+4/7/2022 13:32:21 INFO: Comando smile carregado.
+4/7/2022 13:32:21 INFO: Comando punch carregado.
+
+4/7/2022 13:32:21 INFO: Comando back carregado.
+4/7/2022 13:32:21 INFO: Comando clear carregado.
+4/7/2022 13:32:21 INFO: Comando filter carregado.
+4/7/2022 13:32:21 INFO: Comando loop carregado.
+4/7/2022 13:32:21 INFO: Comando nowplaying carregado.
+4/7/2022 13:32:21 INFO: Comando pause carregado.
+4/7/2022 13:32:21 INFO: Comando play carregado.
+4/7/2022 13:32:21 INFO: Comando playlist carregado.
+4/7/2022 13:32:21 INFO: Comando progress carregado.
+4/7/2022 13:32:21 INFO: Comando queue carregado.
+4/7/2022 13:32:21 INFO: Comando resume carregado.
+4/7/2022 13:32:21 INFO: Comando save carregado.
+4/7/2022 13:32:21 INFO: Comando search carregado.
+4/7/2022 13:32:21 INFO: Comando seek carregado.
+4/7/2022 13:32:21 INFO: Comando shuffle carregado.
+4/7/2022 13:32:21 INFO: Comando skip carregado.
+4/7/2022 13:32:21 INFO: Comando stop carregado.
+4/7/2022 13:32:21 INFO: Comando volume carregado.
+
+
+
+5/7/2022 19:6:16 INFO: Carregando eventos... 
+5/7/2022 19:6:16 INFO: Evento interactionCreate carregado. 
+5/7/2022 19:6:16 INFO: Evento messageCreate carregado. 
+5/7/2022 19:6:16 INFO: Evento ready carregado. 
+5/7/2022 19:6:16 INFO Carregando comandos...
+
+5/7/2022 19:6:16 INFO: Comando avatar carregado.
+5/7/2022 19:6:16 INFO: Comando eval carregado.
+5/7/2022 19:6:16 INFO: Comando football carregado.
+5/7/2022 19:6:16 INFO: Comando help carregado.
+5/7/2022 19:6:16 INFO: Comando modlog carregado.
+5/7/2022 19:6:16 INFO: Comando ping carregado.
+5/7/2022 19:6:16 INFO: Comando snake carregado.
+5/7/2022 19:6:16 INFO: Comando test carregado.
+5/7/2022 19:6:16 INFO: Comando test2 carregado.
+5/7/2022 19:6:16 INFO: Comando testbackup carregado.
+
+5/7/2022 19:6:16 INFO: Comando attack carregado.
+5/7/2022 19:6:16 INFO: Comando dance carregado.
+5/7/2022 19:6:16 INFO: Comando headpat carregado.
+5/7/2022 19:6:16 INFO: Comando hug carregado.
+5/7/2022 19:6:16 INFO: Comando justshiro carregado.
+5/7/2022 19:6:16 INFO: Comando kiss carregado.
+5/7/2022 19:6:16 INFO: Comando smile carregado.
+5/7/2022 19:6:16 INFO: Comando punch carregado.
+
+5/7/2022 19:6:16 INFO: Comando back carregado.
+5/7/2022 19:6:16 INFO: Comando clear carregado.
+5/7/2022 19:6:16 INFO: Comando filter carregado.
+5/7/2022 19:6:16 INFO: Comando loop carregado.
+5/7/2022 19:6:16 INFO: Comando nowplaying carregado.
+5/7/2022 19:6:16 INFO: Comando pause carregado.
+5/7/2022 19:6:16 INFO: Comando play carregado.
+5/7/2022 19:6:16 INFO: Comando playlist carregado.
+5/7/2022 19:6:16 INFO: Comando progress carregado.
+5/7/2022 19:6:16 INFO: Comando queue carregado.
+5/7/2022 19:6:16 INFO: Comando resume carregado.
+5/7/2022 19:6:16 INFO: Comando save carregado.
+5/7/2022 19:6:16 INFO: Comando search carregado.
+5/7/2022 19:6:16 INFO: Comando seek carregado.
+5/7/2022 19:6:16 INFO: Comando shuffle carregado.
+5/7/2022 19:6:16 INFO: Comando skip carregado.
+5/7/2022 19:6:16 INFO: Comando stop carregado.
+5/7/2022 19:6:16 INFO: Comando volume carregado.
+
+5/7/2022 19:6:21 INFO: [TrackAdd] musica NANDO MOURA FICA 300% INDIGNADO COM BONECO QUE NÃO TEM PIRU (POOP) foi adicionada na fila
+5/7/2022 19:6:21 INFO: [TrackStart] Musica NANDO MOURA FICA 300% INDIGNADO COM BONECO QUE NÃO TEM PIRU (POOP) by Doggy Poop シ começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+5/7/2022 19:6:21 INFO: [TrackAdd] musica Red Hot Chili Peppers - Otherside [Official Music Video] foi adicionada na fila
+5/7/2022 19:6:21 INFO: [TrackAdd] musica Stairway to Heaven (Remaster) foi adicionada na fila
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Stairway to Heaven (Remaster) by Led Zeppelin - Topic começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackAdd] musica Arctic Monkeys - Best Tracks foi adicionada na fila
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Arctic Monkeys - Best Tracks by b a y a b a s começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Arctic Monkeys - Best Tracks by b a y a b a s começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Dias De Luta, Dias De Gloria by Charlie Brown Jr. começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Californication by Red Hot Chili Peppers começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Start Me Up - Remastered 2009 by The Rolling Stones começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Psycho Killer by Talking Heads começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Scar Tissue by Red Hot Chili Peppers começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Seven Nation Army by The White Stripes começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Girls Just Want to Have Fun by Cyndi Lauper começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica It's My Life by Bon Jovi começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Rock And Roll All Nite by KISS começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Under the Bridge by Red Hot Chili Peppers começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Otherside by Red Hot Chili Peppers começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Thriller - Single Version by Michael Jackson começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Basket Case by Green Day começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica I Was Made For Lovin' You by KISS começou a tocar no canal 🎮┇Jogos
+5/7/2022 19:6:21 INFO: [TrackStart] Musica Take on Me by a-ha começou a tocar no canal 🎮┇Jogos
+
+
+7/7/2022 13:28:9 INFO: Carregando eventos... 
+7/7/2022 13:28:9 INFO: Evento interactionCreate carregado. 
+7/7/2022 13:28:9 INFO: Evento messageCreate carregado. 
+7/7/2022 13:28:9 INFO: Evento ready carregado. 
+7/7/2022 13:28:9 INFO Carregando comandos...
+
+7/7/2022 13:28:9 INFO: Comando avatar carregado.
+7/7/2022 13:28:9 INFO: Comando eval carregado.
+7/7/2022 13:28:9 INFO: Comando football carregado.
+7/7/2022 13:28:9 INFO: Comando help carregado.
+7/7/2022 13:28:9 INFO: Comando modlog carregado.
+7/7/2022 13:28:9 INFO: Comando ping carregado.
+7/7/2022 13:28:9 INFO: Comando snake carregado.
+7/7/2022 13:28:9 INFO: Comando test carregado.
+7/7/2022 13:28:9 INFO: Comando test2 carregado.
+7/7/2022 13:28:9 INFO: Comando testbackup carregado.
+
+7/7/2022 13:28:9 INFO: Comando attack carregado.
+7/7/2022 13:28:9 INFO: Comando dance carregado.
+7/7/2022 13:28:9 INFO: Comando headpat carregado.
+7/7/2022 13:28:9 INFO: Comando hug carregado.
+7/7/2022 13:28:9 INFO: Comando justshiro carregado.
+7/7/2022 13:28:9 INFO: Comando kiss carregado.
+7/7/2022 13:28:9 INFO: Comando smile carregado.
+7/7/2022 13:28:9 INFO: Comando punch carregado.
+
+7/7/2022 13:28:9 INFO: Comando back carregado.
+7/7/2022 13:28:9 INFO: Comando clear carregado.
+7/7/2022 13:28:9 INFO: Comando filter carregado.
+7/7/2022 13:28:9 INFO: Comando loop carregado.
+7/7/2022 13:28:9 INFO: Comando nowplaying carregado.
+7/7/2022 13:28:9 INFO: Comando pause carregado.
+7/7/2022 13:28:9 INFO: Comando play carregado.
+7/7/2022 13:28:9 INFO: Comando playlist carregado.
+7/7/2022 13:28:9 INFO: Comando progress carregado.
+7/7/2022 13:28:9 INFO: Comando queue carregado.
+7/7/2022 13:28:9 INFO: Comando resume carregado.
+7/7/2022 13:28:9 INFO: Comando save carregado.
+7/7/2022 13:28:9 INFO: Comando search carregado.
+7/7/2022 13:28:9 INFO: Comando seek carregado.
+7/7/2022 13:28:9 INFO: Comando shuffle carregado.
+7/7/2022 13:28:9 INFO: Comando skip carregado.
+7/7/2022 13:28:9 INFO: Comando stop carregado.
+7/7/2022 13:28:9 INFO: Comando volume carregado.
+
+7/7/2022 13:28:16 INFO: [TrackStart] Musica Dias De Luta, Dias De Gloria by Charlie Brown Jr. começou a tocar no canal 🎮┇Jogos
+7/7/2022 13:28:16 INFO: [TrackStart] Musica Californication by Red Hot Chili Peppers começou a tocar no canal 🎮┇Jogos
+7/7/2022 13:28:16 INFO: [TrackStart] Musica T.N.T. by AC/DC começou a tocar no canal 🎮┇Jogos
+7/7/2022 13:28:16 INFO: [TrackStart] Musica Paradise City by Guns N' Roses começou a tocar no canal 🎮┇Jogos
+<<---------------- NEW ERROR ----------------->>
+
+
+7/7/2022 19:31:12 INFO: Carregando eventos... 
+7/7/2022 19:31:12 INFO: Evento interactionCreate carregado. 
+7/7/2022 19:31:12 INFO: Evento messageCreate carregado. 
+7/7/2022 19:31:12 INFO: Evento ready carregado. 
+7/7/2022 19:31:12 INFO Carregando comandos...
+
+7/7/2022 19:31:12 INFO: Comando avatar carregado.
+7/7/2022 19:31:12 INFO: Comando eval carregado.
+7/7/2022 19:31:12 INFO: Comando football carregado.
+7/7/2022 19:31:12 INFO: Comando help carregado.
+7/7/2022 19:31:12 INFO: Comando modlog carregado.
+7/7/2022 19:31:12 INFO: Comando ping carregado.
+7/7/2022 19:31:12 INFO: Comando snake carregado.
+7/7/2022 19:31:12 INFO: Comando test carregado.
+7/7/2022 19:31:12 INFO: Comando test2 carregado.
+7/7/2022 19:31:12 INFO: Comando testbackup carregado.
+
+7/7/2022 19:31:12 INFO: Comando attack carregado.
+7/7/2022 19:31:12 INFO: Comando dance carregado.
+7/7/2022 19:31:12 INFO: Comando headpat carregado.
+7/7/2022 19:31:12 INFO: Comando hug carregado.
+7/7/2022 19:31:12 INFO: Comando justshiro carregado.
+7/7/2022 19:31:12 INFO: Comando kiss carregado.
+7/7/2022 19:31:12 INFO: Comando smile carregado.
+7/7/2022 19:31:12 INFO: Comando punch carregado.
+
+7/7/2022 19:31:12 INFO: Comando back carregado.
+7/7/2022 19:31:12 INFO: Comando clear carregado.
+7/7/2022 19:31:12 INFO: Comando filter carregado.
+7/7/2022 19:31:12 INFO: Comando loop carregado.
+7/7/2022 19:31:12 INFO: Comando nowplaying carregado.
+7/7/2022 19:31:12 INFO: Comando pause carregado.
+7/7/2022 19:31:12 INFO: Comando play carregado.
+7/7/2022 19:31:12 INFO: Comando playlist carregado.
+7/7/2022 19:31:12 INFO: Comando progress carregado.
+7/7/2022 19:31:12 INFO: Comando queue carregado.
+7/7/2022 19:31:12 INFO: Comando resume carregado.
+7/7/2022 19:31:12 INFO: Comando save carregado.
+7/7/2022 19:31:12 INFO: Comando search carregado.
+7/7/2022 19:31:12 INFO: Comando seek carregado.
+7/7/2022 19:31:12 INFO: Comando shuffle carregado.
+7/7/2022 19:31:12 INFO: Comando skip carregado.
+7/7/2022 19:31:12 INFO: Comando stop carregado.
+7/7/2022 19:31:12 INFO: Comando volume carregado.
+
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Dias De Luta, Dias De Gloria by Charlie Brown Jr. começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Californication by Red Hot Chili Peppers começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Whip It by DEVO começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Here I Am (Rock You Like A Hurricane) by George Lynch começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Pink as Floyd by Red Hot Chili Peppers começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Take on Me by a-ha começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Under the Bridge by Red Hot Chili Peppers começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica You Give Love A Bad Name by Bon Jovi começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Psycho Killer by Talking Heads começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica By the Way by Red Hot Chili Peppers começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Hotel California - 2013 Remaster by Eagles começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Rock And Roll All Nite by KISS começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Thunderstruck by AC/DC começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Rock 'N' Roll All Nite - Live by KISS começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Rock and Roll - Remaster by Led Zeppelin começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Hooked On A Feeling by Blue Swede começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Whole Lotta Love - 1990 Remaster by Led Zeppelin começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Hot Hot Hot by Buster Poindexter And His Banshees Of Blue começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica João e Maria by Chico Buarque começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica T.N.T. by AC/DC começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Sweet Dreams (Are Made of This) - Remastered by Eurythmics começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Live And Let Die by Guns N' Roses começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackStart] Musica Meu Sangue Ferve For Você by Sidney Magal começou a tocar no canal 🎮┇Jogos
+7/7/2022 19:31:19 INFO: [TrackAdd] musica OneRepublic - I Ain’t Worried (From “Top Gun: Maverick”) [Official Music Video] foi adicionada na fila
+7/7/2022 19:31:19 INFO: [TrackAdd] musica OneRepublic - I Ain’t Worried (From “Top Gun: Maverick”) [Official Music Video] foi adicionada na fila
+
+
+8/7/2022 14:24:33 INFO: Carregando eventos... 
+8/7/2022 14:24:33 INFO: Evento interactionCreate carregado. 
+8/7/2022 14:24:33 INFO: Evento messageCreate carregado. 
+8/7/2022 14:24:33 INFO: Evento ready carregado. 
+8/7/2022 14:24:33 INFO Carregando comandos...
+
+8/7/2022 14:24:33 INFO: Comando avatar carregado.
+8/7/2022 14:24:33 INFO: Comando eval carregado.
+8/7/2022 14:24:33 INFO: Comando football carregado.
+8/7/2022 14:24:33 INFO: Comando help carregado.
+8/7/2022 14:24:33 INFO: Comando modlog carregado.
+8/7/2022 14:24:33 INFO: Comando ping carregado.
+8/7/2022 14:24:33 INFO: Comando snake carregado.
+8/7/2022 14:24:33 INFO: Comando test carregado.
+8/7/2022 14:24:33 INFO: Comando test2 carregado.
+8/7/2022 14:24:33 INFO: Comando testbackup carregado.
+
+8/7/2022 14:24:33 INFO: Comando attack carregado.
+8/7/2022 14:24:33 INFO: Comando dance carregado.
+8/7/2022 14:24:33 INFO: Comando headpat carregado.
+8/7/2022 14:24:33 INFO: Comando hug carregado.
+8/7/2022 14:24:33 INFO: Comando justshiro carregado.
+8/7/2022 14:24:33 INFO: Comando kiss carregado.
+8/7/2022 14:24:33 INFO: Comando smile carregado.
+8/7/2022 14:24:33 INFO: Comando punch carregado.
+
+8/7/2022 14:24:33 INFO: Comando back carregado.
+8/7/2022 14:24:33 INFO: Comando clear carregado.
+8/7/2022 14:24:33 INFO: Comando filter carregado.
+8/7/2022 14:24:33 INFO: Comando loop carregado.
+8/7/2022 14:24:33 INFO: Comando nowplaying carregado.
+8/7/2022 14:24:33 INFO: Comando pause carregado.
+8/7/2022 14:24:33 INFO: Comando play carregado.
+8/7/2022 14:24:33 INFO: Comando playlist carregado.
+8/7/2022 14:24:33 INFO: Comando progress carregado.
+8/7/2022 14:24:33 INFO: Comando queue carregado.
+8/7/2022 14:24:33 INFO: Comando resume carregado.
+8/7/2022 14:24:33 INFO: Comando save carregado.
+8/7/2022 14:24:33 INFO: Comando search carregado.
+8/7/2022 14:24:33 INFO: Comando seek carregado.
+8/7/2022 14:24:33 INFO: Comando shuffle carregado.
+8/7/2022 14:24:33 INFO: Comando skip carregado.
+8/7/2022 14:24:33 INFO: Comando stop carregado.
+8/7/2022 14:24:33 INFO: Comando volume carregado.
+
+
+
+9/7/2022 17:34:36 INFO: Carregando eventos... 
+9/7/2022 17:34:36 INFO: Evento interactionCreate carregado. 
+9/7/2022 17:34:36 INFO: Evento messageCreate carregado. 
+9/7/2022 17:34:36 INFO: Evento ready carregado. 
+9/7/2022 17:34:36 INFO Carregando comandos...
+
+9/7/2022 17:34:36 INFO: Comando avatar carregado.
+9/7/2022 17:34:36 INFO: Comando eval carregado.
+9/7/2022 17:34:36 INFO: Comando football carregado.
+9/7/2022 17:34:36 INFO: Comando help carregado.
+9/7/2022 17:34:36 INFO: Comando modlog carregado.
+9/7/2022 17:34:36 INFO: Comando ping carregado.
+9/7/2022 17:34:36 INFO: Comando snake carregado.
+9/7/2022 17:34:36 INFO: Comando test carregado.
+9/7/2022 17:34:36 INFO: Comando test2 carregado.
+9/7/2022 17:34:36 INFO: Comando testbackup carregado.
+
+9/7/2022 17:34:36 INFO: Comando attack carregado.
+9/7/2022 17:34:36 INFO: Comando dance carregado.
+9/7/2022 17:34:36 INFO: Comando headpat carregado.
+9/7/2022 17:34:36 INFO: Comando hug carregado.
+9/7/2022 17:34:36 INFO: Comando justshiro carregado.
+9/7/2022 17:34:36 INFO: Comando kiss carregado.
+9/7/2022 17:34:36 INFO: Comando smile carregado.
+9/7/2022 17:34:36 INFO: Comando punch carregado.
+
+9/7/2022 17:34:36 INFO: Comando back carregado.
+9/7/2022 17:34:36 INFO: Comando clear carregado.
+9/7/2022 17:34:36 INFO: Comando filter carregado.
+9/7/2022 17:34:36 INFO: Comando loop carregado.
+9/7/2022 17:34:36 INFO: Comando nowplaying carregado.
+9/7/2022 17:34:36 INFO: Comando pause carregado.
+9/7/2022 17:34:36 INFO: Comando play carregado.
+9/7/2022 17:34:36 INFO: Comando playlist carregado.
+9/7/2022 17:34:36 INFO: Comando progress carregado.
+9/7/2022 17:34:36 INFO: Comando queue carregado.
+9/7/2022 17:34:36 INFO: Comando resume carregado.
+9/7/2022 17:34:36 INFO: Comando save carregado.
+9/7/2022 17:34:36 INFO: Comando search carregado.
+9/7/2022 17:34:36 INFO: Comando seek carregado.
+9/7/2022 17:34:36 INFO: Comando shuffle carregado.
+9/7/2022 17:34:36 INFO: Comando skip carregado.
+9/7/2022 17:34:36 INFO: Comando stop carregado.
+9/7/2022 17:34:36 INFO: Comando volume carregado.
+
+
+
+10/7/2022 7:3:18 INFO: Carregando eventos... 
+10/7/2022 7:3:18 INFO: Evento interactionCreate carregado. 
+10/7/2022 7:3:18 INFO: Evento messageCreate carregado. 
+10/7/2022 7:3:18 INFO: Evento ready carregado. 
+10/7/2022 7:3:18 INFO Carregando comandos...
+
+10/7/2022 7:3:18 INFO: Comando avatar carregado.
+10/7/2022 7:3:18 INFO: Comando eval carregado.
+10/7/2022 7:3:18 INFO: Comando football carregado.
+10/7/2022 7:3:18 INFO: Comando help carregado.
+10/7/2022 7:3:18 INFO: Comando modlog carregado.
+10/7/2022 7:3:18 INFO: Comando ping carregado.
+10/7/2022 7:3:18 INFO: Comando snake carregado.
+10/7/2022 7:3:18 INFO: Comando test carregado.
+10/7/2022 7:3:18 INFO: Comando test2 carregado.
+10/7/2022 7:3:18 INFO: Comando testbackup carregado.
+
+10/7/2022 7:3:18 INFO: Comando attack carregado.
+10/7/2022 7:3:18 INFO: Comando dance carregado.
+10/7/2022 7:3:18 INFO: Comando headpat carregado.
+10/7/2022 7:3:18 INFO: Comando hug carregado.
+10/7/2022 7:3:18 INFO: Comando justshiro carregado.
+10/7/2022 7:3:18 INFO: Comando kiss carregado.
+10/7/2022 7:3:18 INFO: Comando smile carregado.
+10/7/2022 7:3:18 INFO: Comando punch carregado.
+
+10/7/2022 7:3:18 INFO: Comando back carregado.
+10/7/2022 7:3:18 INFO: Comando clear carregado.
+10/7/2022 7:3:18 INFO: Comando filter carregado.
+10/7/2022 7:3:18 INFO: Comando loop carregado.
+10/7/2022 7:3:18 INFO: Comando nowplaying carregado.
+10/7/2022 7:3:18 INFO: Comando pause carregado.
+10/7/2022 7:3:18 INFO: Comando play carregado.
+10/7/2022 7:3:18 INFO: Comando playlist carregado.
+10/7/2022 7:3:18 INFO: Comando progress carregado.
+10/7/2022 7:3:18 INFO: Comando queue carregado.
+10/7/2022 7:3:18 INFO: Comando resume carregado.
+10/7/2022 7:3:18 INFO: Comando save carregado.
+10/7/2022 7:3:18 INFO: Comando search carregado.
+10/7/2022 7:3:18 INFO: Comando seek carregado.
+10/7/2022 7:3:18 INFO: Comando shuffle carregado.
+10/7/2022 7:3:18 INFO: Comando skip carregado.
+10/7/2022 7:3:18 INFO: Comando stop carregado.
+10/7/2022 7:3:18 INFO: Comando volume carregado.
+
+
+
+10/7/2022 12:34:56 INFO: Carregando eventos... 
+10/7/2022 12:34:56 INFO: Evento interactionCreate carregado. 
+10/7/2022 12:34:56 INFO: Evento messageCreate carregado. 
+10/7/2022 12:34:56 INFO: Evento ready carregado. 
+10/7/2022 12:34:56 INFO Carregando comandos...
+
+10/7/2022 12:34:56 INFO: Comando avatar carregado.
+10/7/2022 12:34:56 INFO: Comando eval carregado.
+10/7/2022 12:34:56 INFO: Comando football carregado.
+10/7/2022 12:34:56 INFO: Comando help carregado.
+10/7/2022 12:34:56 INFO: Comando modlog carregado.
+10/7/2022 12:34:56 INFO: Comando ping carregado.
+10/7/2022 12:34:56 INFO: Comando snake carregado.
+10/7/2022 12:34:56 INFO: Comando test carregado.
+10/7/2022 12:34:56 INFO: Comando test2 carregado.
+10/7/2022 12:34:56 INFO: Comando testbackup carregado.
+
+10/7/2022 12:34:56 INFO: Comando attack carregado.
+10/7/2022 12:34:56 INFO: Comando dance carregado.
+10/7/2022 12:34:56 INFO: Comando headpat carregado.
+10/7/2022 12:34:56 INFO: Comando hug carregado.
+10/7/2022 12:34:56 INFO: Comando justshiro carregado.
+10/7/2022 12:34:56 INFO: Comando kiss carregado.
+10/7/2022 12:34:56 INFO: Comando smile carregado.
+10/7/2022 12:34:56 INFO: Comando punch carregado.
+
+10/7/2022 12:34:56 INFO: Comando back carregado.
+10/7/2022 12:34:56 INFO: Comando clear carregado.
+10/7/2022 12:34:56 INFO: Comando filter carregado.
+10/7/2022 12:34:56 INFO: Comando loop carregado.
+10/7/2022 12:34:56 INFO: Comando nowplaying carregado.
+10/7/2022 12:34:56 INFO: Comando pause carregado.
+10/7/2022 12:34:56 INFO: Comando play carregado.
+10/7/2022 12:34:56 INFO: Comando playlist carregado.
+10/7/2022 12:34:56 INFO: Comando progress carregado.
+10/7/2022 12:34:56 INFO: Comando queue carregado.
+10/7/2022 12:34:56 INFO: Comando resume carregado.
+10/7/2022 12:34:56 INFO: Comando save carregado.
+10/7/2022 12:34:56 INFO: Comando search carregado.
+10/7/2022 12:34:56 INFO: Comando seek carregado.
+10/7/2022 12:34:56 INFO: Comando shuffle carregado.
+10/7/2022 12:34:56 INFO: Comando skip carregado.
+10/7/2022 12:34:56 INFO: Comando stop carregado.
+10/7/2022 12:34:56 INFO: Comando volume carregado.
+
+10/7/2022 12:35:6 INFO: [TrackAdd] musica Minecraft But It Gets REALISTIC! foi adicionada na fila
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on  error
+>> ERROR CHANNEL:  🎮┇Jogos
+>> ERROR MESSAGE:  aborted
+>> ERROR GENERAL:  Error: aborted
+
+<<---------------- NEW ERROR ----------------->>
+
+
+10/7/2022 12:36:36 INFO: Carregando eventos... 
+10/7/2022 12:36:36 INFO: Evento interactionCreate carregado. 
+10/7/2022 12:36:36 INFO: Evento messageCreate carregado. 
+10/7/2022 12:36:36 INFO: Evento ready carregado. 
+10/7/2022 12:36:36 INFO Carregando comandos...
+
+10/7/2022 12:36:36 INFO: Comando avatar carregado.
+10/7/2022 12:36:36 INFO: Comando eval carregado.
+10/7/2022 12:36:36 INFO: Comando football carregado.
+10/7/2022 12:36:36 INFO: Comando help carregado.
+10/7/2022 12:36:36 INFO: Comando modlog carregado.
+10/7/2022 12:36:36 INFO: Comando ping carregado.
+10/7/2022 12:36:36 INFO: Comando snake carregado.
+10/7/2022 12:36:36 INFO: Comando test carregado.
+10/7/2022 12:36:36 INFO: Comando test2 carregado.
+10/7/2022 12:36:36 INFO: Comando testbackup carregado.
+
+10/7/2022 12:36:36 INFO: Comando attack carregado.
+10/7/2022 12:36:36 INFO: Comando dance carregado.
+10/7/2022 12:36:36 INFO: Comando headpat carregado.
+10/7/2022 12:36:36 INFO: Comando hug carregado.
+10/7/2022 12:36:36 INFO: Comando justshiro carregado.
+10/7/2022 12:36:36 INFO: Comando kiss carregado.
+10/7/2022 12:36:36 INFO: Comando smile carregado.
+10/7/2022 12:36:36 INFO: Comando punch carregado.
+
+10/7/2022 12:36:36 INFO: Comando back carregado.
+10/7/2022 12:36:36 INFO: Comando clear carregado.
+10/7/2022 12:36:36 INFO: Comando filter carregado.
+10/7/2022 12:36:36 INFO: Comando loop carregado.
+10/7/2022 12:36:36 INFO: Comando nowplaying carregado.
+10/7/2022 12:36:36 INFO: Comando pause carregado.
+10/7/2022 12:36:36 INFO: Comando play carregado.
+10/7/2022 12:36:36 INFO: Comando playlist carregado.
+10/7/2022 12:36:36 INFO: Comando progress carregado.
+10/7/2022 12:36:36 INFO: Comando queue carregado.
+10/7/2022 12:36:36 INFO: Comando resume carregado.
+10/7/2022 12:36:36 INFO: Comando save carregado.
+10/7/2022 12:36:36 INFO: Comando search carregado.
+10/7/2022 12:36:36 INFO: Comando seek carregado.
+10/7/2022 12:36:36 INFO: Comando shuffle carregado.
+10/7/2022 12:36:36 INFO: Comando skip carregado.
+10/7/2022 12:36:36 INFO: Comando stop carregado.
+10/7/2022 12:36:36 INFO: Comando volume carregado.
+
+
+
+10/7/2022 12:52:35 INFO: Carregando eventos... 
+10/7/2022 12:52:35 INFO: Evento interactionCreate carregado. 
+10/7/2022 12:52:35 INFO: Evento messageCreate carregado. 
+10/7/2022 12:52:35 INFO: Evento ready carregado. 
+10/7/2022 12:52:35 INFO Carregando comandos...
+
+10/7/2022 12:52:35 INFO: Comando avatar carregado.
+10/7/2022 12:52:35 INFO: Comando eval carregado.
+10/7/2022 12:52:35 INFO: Comando football carregado.
+10/7/2022 12:52:35 INFO: Comando help carregado.
+10/7/2022 12:52:35 INFO: Comando modlog carregado.
+10/7/2022 12:52:35 INFO: Comando ping carregado.
+10/7/2022 12:52:35 INFO: Comando snake carregado.
+10/7/2022 12:52:35 INFO: Comando test carregado.
+10/7/2022 12:52:35 INFO: Comando test2 carregado.
+10/7/2022 12:52:35 INFO: Comando testbackup carregado.
+
+10/7/2022 12:52:35 INFO: Comando attack carregado.
+10/7/2022 12:52:35 INFO: Comando dance carregado.
+10/7/2022 12:52:35 INFO: Comando headpat carregado.
+10/7/2022 12:52:35 INFO: Comando hug carregado.
+10/7/2022 12:52:35 INFO: Comando justshiro carregado.
+10/7/2022 12:52:35 INFO: Comando kiss carregado.
+10/7/2022 12:52:35 INFO: Comando smile carregado.
+10/7/2022 12:52:35 INFO: Comando punch carregado.
+
+10/7/2022 12:52:35 INFO: Comando back carregado.
+10/7/2022 12:52:35 INFO: Comando clear carregado.
+10/7/2022 12:52:35 INFO: Comando filter carregado.
+10/7/2022 12:52:35 INFO: Comando loop carregado.
+10/7/2022 12:52:35 INFO: Comando nowplaying carregado.
+10/7/2022 12:52:35 INFO: Comando pause carregado.
+10/7/2022 12:52:35 INFO: Comando play carregado.
+10/7/2022 12:52:35 INFO: Comando playlist carregado.
+10/7/2022 12:52:35 INFO: Comando progress carregado.
+10/7/2022 12:52:35 INFO: Comando queue carregado.
+10/7/2022 12:52:35 INFO: Comando resume carregado.
+10/7/2022 12:52:35 INFO: Comando save carregado.
+10/7/2022 12:52:35 INFO: Comando search carregado.
+10/7/2022 12:52:35 INFO: Comando seek carregado.
+10/7/2022 12:52:35 INFO: Comando shuffle carregado.
+10/7/2022 12:52:35 INFO: Comando skip carregado.
+10/7/2022 12:52:35 INFO: Comando stop carregado.
+10/7/2022 12:52:35 INFO: Comando volume carregado.
+
+
+
+10/7/2022 12:52:52 INFO: Carregando eventos... 
+10/7/2022 12:52:52 INFO: Evento interactionCreate carregado. 
+10/7/2022 12:52:52 INFO: Evento messageCreate carregado. 
+10/7/2022 12:52:52 INFO: Evento ready carregado. 
+10/7/2022 12:52:52 INFO Carregando comandos...
+
+10/7/2022 12:52:52 INFO: Comando avatar carregado.
+10/7/2022 12:52:52 INFO: Comando eval carregado.
+10/7/2022 12:52:52 INFO: Comando football carregado.
+10/7/2022 12:52:52 INFO: Comando help carregado.
+10/7/2022 12:52:52 INFO: Comando modlog carregado.
+10/7/2022 12:52:52 INFO: Comando ping carregado.
+10/7/2022 12:52:52 INFO: Comando snake carregado.
+10/7/2022 12:52:52 INFO: Comando test carregado.
+10/7/2022 12:52:52 INFO: Comando test2 carregado.
+10/7/2022 12:52:52 INFO: Comando testbackup carregado.
+
+10/7/2022 12:52:52 INFO: Comando attack carregado.
+10/7/2022 12:52:52 INFO: Comando dance carregado.
+10/7/2022 12:52:52 INFO: Comando headpat carregado.
+10/7/2022 12:52:52 INFO: Comando hug carregado.
+10/7/2022 12:52:52 INFO: Comando justshiro carregado.
+10/7/2022 12:52:52 INFO: Comando kiss carregado.
+10/7/2022 12:52:52 INFO: Comando smile carregado.
+10/7/2022 12:52:52 INFO: Comando punch carregado.
+
+10/7/2022 12:52:52 INFO: Comando back carregado.
+10/7/2022 12:52:52 INFO: Comando clear carregado.
+10/7/2022 12:52:52 INFO: Comando filter carregado.
+10/7/2022 12:52:52 INFO: Comando loop carregado.
+10/7/2022 12:52:52 INFO: Comando nowplaying carregado.
+10/7/2022 12:52:52 INFO: Comando pause carregado.
+10/7/2022 12:52:52 INFO: Comando play carregado.
+10/7/2022 12:52:52 INFO: Comando playlist carregado.
+10/7/2022 12:52:52 INFO: Comando progress carregado.
+10/7/2022 12:52:52 INFO: Comando queue carregado.
+10/7/2022 12:52:52 INFO: Comando resume carregado.
+10/7/2022 12:52:52 INFO: Comando save carregado.
+10/7/2022 12:52:52 INFO: Comando search carregado.
+10/7/2022 12:52:52 INFO: Comando seek carregado.
+10/7/2022 12:52:52 INFO: Comando shuffle carregado.
+10/7/2022 12:52:52 INFO: Comando skip carregado.
+10/7/2022 12:52:52 INFO: Comando stop carregado.
+10/7/2022 12:52:52 INFO: Comando volume carregado.
+
+
+
+10/7/2022 12:56:2 INFO: Carregando eventos... 
+10/7/2022 12:56:2 INFO: Evento interactionCreate carregado. 
+10/7/2022 12:56:2 INFO: Evento messageCreate carregado. 
+10/7/2022 12:56:2 INFO: Evento ready carregado. 
+10/7/2022 12:56:2 INFO Carregando comandos...
+
+10/7/2022 12:56:2 INFO: Comando avatar carregado.
+10/7/2022 12:56:2 INFO: Comando eval carregado.
+10/7/2022 12:56:2 INFO: Comando football carregado.
+10/7/2022 12:56:2 INFO: Comando help carregado.
+10/7/2022 12:56:2 INFO: Comando modlog carregado.
+10/7/2022 12:56:2 INFO: Comando ping carregado.
+10/7/2022 12:56:2 INFO: Comando snake carregado.
+10/7/2022 12:56:2 INFO: Comando test carregado.
+10/7/2022 12:56:2 INFO: Comando test2 carregado.
+10/7/2022 12:56:2 INFO: Comando testbackup carregado.
+
+10/7/2022 12:56:2 INFO: Comando attack carregado.
+10/7/2022 12:56:2 INFO: Comando dance carregado.
+10/7/2022 12:56:2 INFO: Comando headpat carregado.
+10/7/2022 12:56:2 INFO: Comando hug carregado.
+10/7/2022 12:56:2 INFO: Comando justshiro carregado.
+10/7/2022 12:56:2 INFO: Comando kiss carregado.
+10/7/2022 12:56:2 INFO: Comando smile carregado.
+10/7/2022 12:56:2 INFO: Comando punch carregado.
+
+10/7/2022 12:56:2 INFO: Comando back carregado.
+10/7/2022 12:56:2 INFO: Comando clear carregado.
+10/7/2022 12:56:2 INFO: Comando filter carregado.
+10/7/2022 12:56:2 INFO: Comando loop carregado.
+10/7/2022 12:56:2 INFO: Comando nowplaying carregado.
+10/7/2022 12:56:2 INFO: Comando pause carregado.
+10/7/2022 12:56:2 INFO: Comando play carregado.
+10/7/2022 12:56:2 INFO: Comando playlist carregado.
+10/7/2022 12:56:2 INFO: Comando progress carregado.
+10/7/2022 12:56:2 INFO: Comando queue carregado.
+10/7/2022 12:56:2 INFO: Comando resume carregado.
+10/7/2022 12:56:2 INFO: Comando save carregado.
+10/7/2022 12:56:2 INFO: Comando search carregado.
+10/7/2022 12:56:2 INFO: Comando seek carregado.
+10/7/2022 12:56:2 INFO: Comando shuffle carregado.
+10/7/2022 12:56:2 INFO: Comando skip carregado.
+10/7/2022 12:56:2 INFO: Comando stop carregado.
+10/7/2022 12:56:2 INFO: Comando volume carregado.
+
+
+
+10/7/2022 12:56:22 INFO: Carregando eventos... 
+10/7/2022 12:56:22 INFO: Evento interactionCreate carregado. 
+10/7/2022 12:56:22 INFO: Evento messageCreate carregado. 
+10/7/2022 12:56:22 INFO: Evento ready carregado. 
+10/7/2022 12:56:22 INFO Carregando comandos...
+
+10/7/2022 12:56:22 INFO: Comando avatar carregado.
+10/7/2022 12:56:22 INFO: Comando eval carregado.
+10/7/2022 12:56:22 INFO: Comando football carregado.
+10/7/2022 12:56:22 INFO: Comando help carregado.
+10/7/2022 12:56:22 INFO: Comando modlog carregado.
+10/7/2022 12:56:22 INFO: Comando ping carregado.
+10/7/2022 12:56:22 INFO: Comando snake carregado.
+10/7/2022 12:56:22 INFO: Comando test carregado.
+10/7/2022 12:56:22 INFO: Comando test2 carregado.
+10/7/2022 12:56:22 INFO: Comando testbackup carregado.
+
+10/7/2022 12:56:22 INFO: Comando attack carregado.
+10/7/2022 12:56:22 INFO: Comando dance carregado.
+10/7/2022 12:56:22 INFO: Comando headpat carregado.
+10/7/2022 12:56:22 INFO: Comando hug carregado.
+10/7/2022 12:56:22 INFO: Comando justshiro carregado.
+10/7/2022 12:56:22 INFO: Comando kiss carregado.
+10/7/2022 12:56:22 INFO: Comando smile carregado.
+10/7/2022 12:56:22 INFO: Comando punch carregado.
+
+10/7/2022 12:56:22 INFO: Comando back carregado.
+10/7/2022 12:56:22 INFO: Comando clear carregado.
+10/7/2022 12:56:22 INFO: Comando filter carregado.
+10/7/2022 12:56:22 INFO: Comando loop carregado.
+10/7/2022 12:56:22 INFO: Comando nowplaying carregado.
+10/7/2022 12:56:22 INFO: Comando pause carregado.
+10/7/2022 12:56:22 INFO: Comando play carregado.
+10/7/2022 12:56:22 INFO: Comando playlist carregado.
+10/7/2022 12:56:22 INFO: Comando progress carregado.
+10/7/2022 12:56:22 INFO: Comando queue carregado.
+10/7/2022 12:56:22 INFO: Comando resume carregado.
+10/7/2022 12:56:22 INFO: Comando save carregado.
+10/7/2022 12:56:22 INFO: Comando search carregado.
+10/7/2022 12:56:22 INFO: Comando seek carregado.
+10/7/2022 12:56:22 INFO: Comando shuffle carregado.
+10/7/2022 12:56:22 INFO: Comando skip carregado.
+10/7/2022 12:56:22 INFO: Comando stop carregado.
+10/7/2022 12:56:22 INFO: Comando volume carregado.
+
+10/7/2022 12:56:24 INFO: [TrackStart] Musica Sweet Child O' Mine by Guns N' Roses começou a tocar no canal 🎮┇Jogos
+<<---------------- NEW ERROR ----------------->>
+
+
+10/7/2022 12:59:52 INFO: Carregando eventos... 
+10/7/2022 12:59:52 INFO: Evento interactionCreate carregado. 
+10/7/2022 12:59:52 INFO: Evento messageCreate carregado. 
+10/7/2022 12:59:52 INFO: Evento ready carregado. 
+10/7/2022 12:59:52 INFO Carregando comandos...
+
+10/7/2022 12:59:52 INFO: Comando avatar carregado.
+10/7/2022 12:59:52 INFO: Comando eval carregado.
+10/7/2022 12:59:52 INFO: Comando football carregado.
+10/7/2022 12:59:52 INFO: Comando help carregado.
+10/7/2022 12:59:52 INFO: Comando modlog carregado.
+10/7/2022 12:59:52 INFO: Comando ping carregado.
+10/7/2022 12:59:52 INFO: Comando snake carregado.
+10/7/2022 12:59:52 INFO: Comando test carregado.
+10/7/2022 12:59:52 INFO: Comando test2 carregado.
+10/7/2022 12:59:52 INFO: Comando testbackup carregado.
+
+10/7/2022 12:59:52 INFO: Comando attack carregado.
+10/7/2022 12:59:52 INFO: Comando dance carregado.
+10/7/2022 12:59:52 INFO: Comando headpat carregado.
+10/7/2022 12:59:52 INFO: Comando hug carregado.
+10/7/2022 12:59:52 INFO: Comando justshiro carregado.
+10/7/2022 12:59:52 INFO: Comando kiss carregado.
+10/7/2022 12:59:52 INFO: Comando smile carregado.
+10/7/2022 12:59:52 INFO: Comando punch carregado.
+
+10/7/2022 12:59:52 INFO: Comando back carregado.
+10/7/2022 12:59:52 INFO: Comando clear carregado.
+10/7/2022 12:59:52 INFO: Comando filter carregado.
+10/7/2022 12:59:52 INFO: Comando loop carregado.
+10/7/2022 12:59:52 INFO: Comando nowplaying carregado.
+10/7/2022 12:59:52 INFO: Comando pause carregado.
+10/7/2022 12:59:52 INFO: Comando play carregado.
+10/7/2022 12:59:52 INFO: Comando playlist carregado.
+10/7/2022 12:59:52 INFO: Comando progress carregado.
+10/7/2022 12:59:52 INFO: Comando queue carregado.
+10/7/2022 12:59:52 INFO: Comando resume carregado.
+10/7/2022 12:59:52 INFO: Comando save carregado.
+10/7/2022 12:59:52 INFO: Comando search carregado.
+10/7/2022 12:59:52 INFO: Comando seek carregado.
+10/7/2022 12:59:52 INFO: Comando shuffle carregado.
+10/7/2022 12:59:52 INFO: Comando skip carregado.
+10/7/2022 12:59:52 INFO: Comando stop carregado.
+10/7/2022 12:59:52 INFO: Comando volume carregado.
+
+
+
+10/7/2022 13:3:30 INFO: Carregando eventos... 
+10/7/2022 13:3:30 INFO: Evento interactionCreate carregado. 
+10/7/2022 13:3:30 INFO: Evento messageCreate carregado. 
+10/7/2022 13:3:30 INFO: Evento ready carregado. 
+10/7/2022 13:3:30 INFO Carregando comandos...
+
+10/7/2022 13:3:30 INFO: Comando avatar carregado.
+10/7/2022 13:3:30 INFO: Comando eval carregado.
+10/7/2022 13:3:30 INFO: Comando football carregado.
+10/7/2022 13:3:30 INFO: Comando help carregado.
+10/7/2022 13:3:30 INFO: Comando modlog carregado.
+10/7/2022 13:3:30 INFO: Comando ping carregado.
+10/7/2022 13:3:30 INFO: Comando snake carregado.
+10/7/2022 13:3:30 INFO: Comando test carregado.
+10/7/2022 13:3:30 INFO: Comando test2 carregado.
+10/7/2022 13:3:30 INFO: Comando testbackup carregado.
+
+10/7/2022 13:3:30 INFO: Comando attack carregado.
+10/7/2022 13:3:30 INFO: Comando dance carregado.
+10/7/2022 13:3:30 INFO: Comando headpat carregado.
+10/7/2022 13:3:30 INFO: Comando hug carregado.
+10/7/2022 13:3:30 INFO: Comando justshiro carregado.
+10/7/2022 13:3:30 INFO: Comando kiss carregado.
+10/7/2022 13:3:30 INFO: Comando smile carregado.
+10/7/2022 13:3:30 INFO: Comando punch carregado.
+
+10/7/2022 13:3:30 INFO: Comando back carregado.
+10/7/2022 13:3:30 INFO: Comando clear carregado.
+10/7/2022 13:3:30 INFO: Comando filter carregado.
+10/7/2022 13:3:30 INFO: Comando loop carregado.
+10/7/2022 13:3:30 INFO: Comando nowplaying carregado.
+10/7/2022 13:3:30 INFO: Comando pause carregado.
+10/7/2022 13:3:30 INFO: Comando play carregado.
+10/7/2022 13:3:30 INFO: Comando playlist carregado.
+10/7/2022 13:3:30 INFO: Comando progress carregado.
+10/7/2022 13:3:30 INFO: Comando queue carregado.
+10/7/2022 13:3:30 INFO: Comando resume carregado.
+10/7/2022 13:3:30 INFO: Comando save carregado.
+10/7/2022 13:3:30 INFO: Comando search carregado.
+10/7/2022 13:3:30 INFO: Comando seek carregado.
+10/7/2022 13:3:30 INFO: Comando shuffle carregado.
+10/7/2022 13:3:30 INFO: Comando skip carregado.
+10/7/2022 13:3:30 INFO: Comando stop carregado.
+10/7/2022 13:3:30 INFO: Comando volume carregado.
+
+
+
+10/7/2022 13:5:7 INFO: Carregando eventos... 
+10/7/2022 13:5:7 INFO: Evento interactionCreate carregado. 
+10/7/2022 13:5:7 INFO: Evento messageCreate carregado. 
+10/7/2022 13:5:7 INFO: Evento ready carregado. 
+10/7/2022 13:5:7 INFO Carregando comandos...
+
+10/7/2022 13:5:7 INFO: Comando avatar carregado.
+10/7/2022 13:5:7 INFO: Comando eval carregado.
+10/7/2022 13:5:7 INFO: Comando football carregado.
+10/7/2022 13:5:7 INFO: Comando help carregado.
+10/7/2022 13:5:7 INFO: Comando modlog carregado.
+10/7/2022 13:5:7 INFO: Comando ping carregado.
+10/7/2022 13:5:7 INFO: Comando snake carregado.
+10/7/2022 13:5:7 INFO: Comando test carregado.
+10/7/2022 13:5:7 INFO: Comando test2 carregado.
+10/7/2022 13:5:7 INFO: Comando testbackup carregado.
+
+10/7/2022 13:5:7 INFO: Comando attack carregado.
+10/7/2022 13:5:7 INFO: Comando dance carregado.
+10/7/2022 13:5:7 INFO: Comando headpat carregado.
+10/7/2022 13:5:7 INFO: Comando hug carregado.
+10/7/2022 13:5:7 INFO: Comando justshiro carregado.
+10/7/2022 13:5:7 INFO: Comando kiss carregado.
+10/7/2022 13:5:7 INFO: Comando smile carregado.
+10/7/2022 13:5:7 INFO: Comando punch carregado.
+
+10/7/2022 13:5:7 INFO: Comando back carregado.
+10/7/2022 13:5:7 INFO: Comando clear carregado.
+10/7/2022 13:5:7 INFO: Comando filter carregado.
+10/7/2022 13:5:7 INFO: Comando loop carregado.
+10/7/2022 13:5:7 INFO: Comando nowplaying carregado.
+10/7/2022 13:5:7 INFO: Comando pause carregado.
+10/7/2022 13:5:7 INFO: Comando play carregado.
+10/7/2022 13:5:7 INFO: Comando playlist carregado.
+10/7/2022 13:5:7 INFO: Comando progress carregado.
+10/7/2022 13:5:7 INFO: Comando queue carregado.
+10/7/2022 13:5:7 INFO: Comando resume carregado.
+10/7/2022 13:5:7 INFO: Comando save carregado.
+10/7/2022 13:5:7 INFO: Comando search carregado.
+10/7/2022 13:5:7 INFO: Comando seek carregado.
+10/7/2022 13:5:7 INFO: Comando shuffle carregado.
+10/7/2022 13:5:7 INFO: Comando skip carregado.
+10/7/2022 13:5:7 INFO: Comando stop carregado.
+10/7/2022 13:5:7 INFO: Comando volume carregado.
+
+
+
+10/7/2022 13:7:4 INFO: Carregando eventos... 
+10/7/2022 13:7:4 INFO: Evento interactionCreate carregado. 
+10/7/2022 13:7:4 INFO: Evento messageCreate carregado. 
+10/7/2022 13:7:4 INFO: Evento ready carregado. 
+10/7/2022 13:7:4 INFO Carregando comandos...
+
+10/7/2022 13:7:4 INFO: Comando avatar carregado.
+10/7/2022 13:7:4 INFO: Comando eval carregado.
+10/7/2022 13:7:4 INFO: Comando football carregado.
+10/7/2022 13:7:4 INFO: Comando help carregado.
+10/7/2022 13:7:4 INFO: Comando modlog carregado.
+10/7/2022 13:7:4 INFO: Comando ping carregado.
+10/7/2022 13:7:4 INFO: Comando snake carregado.
+10/7/2022 13:7:4 INFO: Comando test carregado.
+10/7/2022 13:7:4 INFO: Comando test2 carregado.
+10/7/2022 13:7:4 INFO: Comando testbackup carregado.
+
+10/7/2022 13:7:4 INFO: Comando attack carregado.
+10/7/2022 13:7:4 INFO: Comando dance carregado.
+10/7/2022 13:7:4 INFO: Comando headpat carregado.
+10/7/2022 13:7:4 INFO: Comando hug carregado.
+10/7/2022 13:7:4 INFO: Comando justshiro carregado.
+10/7/2022 13:7:4 INFO: Comando kiss carregado.
+10/7/2022 13:7:4 INFO: Comando smile carregado.
+10/7/2022 13:7:4 INFO: Comando punch carregado.
+
+10/7/2022 13:7:4 INFO: Comando back carregado.
+10/7/2022 13:7:4 INFO: Comando clear carregado.
+10/7/2022 13:7:4 INFO: Comando filter carregado.
+10/7/2022 13:7:4 INFO: Comando loop carregado.
+10/7/2022 13:7:4 INFO: Comando nowplaying carregado.
+10/7/2022 13:7:4 INFO: Comando pause carregado.
+10/7/2022 13:7:4 INFO: Comando play carregado.
+10/7/2022 13:7:4 INFO: Comando playlist carregado.
+10/7/2022 13:7:4 INFO: Comando progress carregado.
+10/7/2022 13:7:4 INFO: Comando queue carregado.
+10/7/2022 13:7:4 INFO: Comando resume carregado.
+10/7/2022 13:7:4 INFO: Comando save carregado.
+10/7/2022 13:7:4 INFO: Comando search carregado.
+10/7/2022 13:7:4 INFO: Comando seek carregado.
+10/7/2022 13:7:4 INFO: Comando shuffle carregado.
+10/7/2022 13:7:4 INFO: Comando skip carregado.
+10/7/2022 13:7:4 INFO: Comando stop carregado.
+10/7/2022 13:7:4 INFO: Comando volume carregado.
+
+
+
+10/7/2022 13:7:24 INFO: Carregando eventos... 
+10/7/2022 13:7:24 INFO: Evento interactionCreate carregado. 
+10/7/2022 13:7:24 INFO: Evento messageCreate carregado. 
+10/7/2022 13:7:24 INFO: Evento ready carregado. 
+10/7/2022 13:7:24 INFO Carregando comandos...
+
+10/7/2022 13:7:24 INFO: Comando avatar carregado.
+10/7/2022 13:7:24 INFO: Comando eval carregado.
+10/7/2022 13:7:24 INFO: Comando football carregado.
+10/7/2022 13:7:24 INFO: Comando help carregado.
+10/7/2022 13:7:24 INFO: Comando modlog carregado.
+10/7/2022 13:7:24 INFO: Comando ping carregado.
+10/7/2022 13:7:24 INFO: Comando snake carregado.
+10/7/2022 13:7:24 INFO: Comando test carregado.
+10/7/2022 13:7:24 INFO: Comando test2 carregado.
+10/7/2022 13:7:24 INFO: Comando testbackup carregado.
+
+10/7/2022 13:7:24 INFO: Comando attack carregado.
+10/7/2022 13:7:24 INFO: Comando dance carregado.
+10/7/2022 13:7:24 INFO: Comando headpat carregado.
+10/7/2022 13:7:24 INFO: Comando hug carregado.
+10/7/2022 13:7:24 INFO: Comando justshiro carregado.
+10/7/2022 13:7:24 INFO: Comando kiss carregado.
+10/7/2022 13:7:24 INFO: Comando smile carregado.
+10/7/2022 13:7:24 INFO: Comando punch carregado.
+
+10/7/2022 13:7:24 INFO: Comando back carregado.
+10/7/2022 13:7:24 INFO: Comando clear carregado.
+10/7/2022 13:7:24 INFO: Comando filter carregado.
+10/7/2022 13:7:24 INFO: Comando loop carregado.
+10/7/2022 13:7:24 INFO: Comando nowplaying carregado.
+10/7/2022 13:7:24 INFO: Comando pause carregado.
+10/7/2022 13:7:24 INFO: Comando play carregado.
+10/7/2022 13:7:24 INFO: Comando playlist carregado.
+10/7/2022 13:7:24 INFO: Comando progress carregado.
+10/7/2022 13:7:24 INFO: Comando queue carregado.
+10/7/2022 13:7:24 INFO: Comando resume carregado.
+10/7/2022 13:7:24 INFO: Comando save carregado.
+10/7/2022 13:7:24 INFO: Comando search carregado.
+10/7/2022 13:7:24 INFO: Comando seek carregado.
+10/7/2022 13:7:24 INFO: Comando shuffle carregado.
+10/7/2022 13:7:24 INFO: Comando skip carregado.
+10/7/2022 13:7:24 INFO: Comando stop carregado.
+10/7/2022 13:7:24 INFO: Comando volume carregado.
+
+
+
+10/7/2022 13:10:59 INFO: Carregando eventos... 
+10/7/2022 13:10:59 INFO: Evento interactionCreate carregado. 
+10/7/2022 13:10:59 INFO: Evento messageCreate carregado. 
+10/7/2022 13:10:59 INFO: Evento ready carregado. 
+10/7/2022 13:10:59 INFO Carregando comandos...
+
+10/7/2022 13:10:59 INFO: Comando avatar carregado.
+10/7/2022 13:10:59 INFO: Comando eval carregado.
+10/7/2022 13:10:59 INFO: Comando football carregado.
+10/7/2022 13:10:59 INFO: Comando help carregado.
+10/7/2022 13:10:59 INFO: Comando modlog carregado.
+10/7/2022 13:10:59 INFO: Comando ping carregado.
+10/7/2022 13:10:59 INFO: Comando snake carregado.
+10/7/2022 13:10:59 INFO: Comando test carregado.
+10/7/2022 13:10:59 INFO: Comando test2 carregado.
+10/7/2022 13:10:59 INFO: Comando testbackup carregado.
+
+10/7/2022 13:10:59 INFO: Comando attack carregado.
+10/7/2022 13:10:59 INFO: Comando dance carregado.
+10/7/2022 13:10:59 INFO: Comando headpat carregado.
+10/7/2022 13:10:59 INFO: Comando hug carregado.
+10/7/2022 13:10:59 INFO: Comando justshiro carregado.
+10/7/2022 13:10:59 INFO: Comando kiss carregado.
+10/7/2022 13:10:59 INFO: Comando smile carregado.
+10/7/2022 13:10:59 INFO: Comando punch carregado.
+
+10/7/2022 13:10:59 INFO: Comando back carregado.
+10/7/2022 13:10:59 INFO: Comando clear carregado.
+10/7/2022 13:10:59 INFO: Comando filter carregado.
+10/7/2022 13:10:59 INFO: Comando loop carregado.
+10/7/2022 13:10:59 INFO: Comando nowplaying carregado.
+10/7/2022 13:10:59 INFO: Comando pause carregado.
+10/7/2022 13:10:59 INFO: Comando play carregado.
+10/7/2022 13:10:59 INFO: Comando playlist carregado.
+10/7/2022 13:10:59 INFO: Comando progress carregado.
+10/7/2022 13:10:59 INFO: Comando queue carregado.
+10/7/2022 13:10:59 INFO: Comando resume carregado.
+10/7/2022 13:10:59 INFO: Comando save carregado.
+10/7/2022 13:10:59 INFO: Comando search carregado.
+10/7/2022 13:10:59 INFO: Comando seek carregado.
+10/7/2022 13:10:59 INFO: Comando shuffle carregado.
+10/7/2022 13:10:59 INFO: Comando skip carregado.
+10/7/2022 13:10:59 INFO: Comando stop carregado.
+10/7/2022 13:10:59 INFO: Comando volume carregado.
+
+10/7/2022 13:11:1 INFO: [TrackStart] Musica Californication by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:11:1 INFO: [TrackStart] Musica Rock And Roll All Nite by temp disabled começou a tocar no canal 🎮┇Jogos
+
+
+10/7/2022 13:17:44 INFO: Carregando eventos... 
+10/7/2022 13:17:44 INFO: Evento interactionCreate carregado. 
+10/7/2022 13:17:44 INFO: Evento messageCreate carregado. 
+10/7/2022 13:17:44 INFO: Evento ready carregado. 
+10/7/2022 13:17:44 INFO Carregando comandos...
+
+10/7/2022 13:17:44 INFO: Comando avatar carregado.
+10/7/2022 13:17:44 INFO: Comando eval carregado.
+10/7/2022 13:17:44 INFO: Comando football carregado.
+10/7/2022 13:17:44 INFO: Comando help carregado.
+10/7/2022 13:17:44 INFO: Comando modlog carregado.
+10/7/2022 13:17:44 INFO: Comando ping carregado.
+10/7/2022 13:17:44 INFO: Comando snake carregado.
+10/7/2022 13:17:44 INFO: Comando test carregado.
+10/7/2022 13:17:44 INFO: Comando test2 carregado.
+10/7/2022 13:17:44 INFO: Comando testbackup carregado.
+
+10/7/2022 13:17:44 INFO: Comando attack carregado.
+10/7/2022 13:17:44 INFO: Comando dance carregado.
+10/7/2022 13:17:44 INFO: Comando headpat carregado.
+10/7/2022 13:17:44 INFO: Comando hug carregado.
+10/7/2022 13:17:44 INFO: Comando justshiro carregado.
+10/7/2022 13:17:44 INFO: Comando kiss carregado.
+10/7/2022 13:17:44 INFO: Comando smile carregado.
+10/7/2022 13:17:44 INFO: Comando punch carregado.
+
+10/7/2022 13:17:44 INFO: Comando back carregado.
+10/7/2022 13:17:44 INFO: Comando clear carregado.
+10/7/2022 13:17:44 INFO: Comando filter carregado.
+10/7/2022 13:17:44 INFO: Comando loop carregado.
+10/7/2022 13:17:44 INFO: Comando nowplaying carregado.
+10/7/2022 13:17:44 INFO: Comando pause carregado.
+10/7/2022 13:17:44 INFO: Comando play carregado.
+10/7/2022 13:17:44 INFO: Comando playlist carregado.
+10/7/2022 13:17:44 INFO: Comando progress carregado.
+10/7/2022 13:17:44 INFO: Comando queue carregado.
+10/7/2022 13:17:44 INFO: Comando resume carregado.
+10/7/2022 13:17:44 INFO: Comando save carregado.
+10/7/2022 13:17:44 INFO: Comando search carregado.
+10/7/2022 13:17:44 INFO: Comando seek carregado.
+10/7/2022 13:17:44 INFO: Comando shuffle carregado.
+10/7/2022 13:17:44 INFO: Comando skip carregado.
+10/7/2022 13:17:44 INFO: Comando stop carregado.
+10/7/2022 13:17:44 INFO: Comando volume carregado.
+
+
+
+10/7/2022 13:20:3 INFO: Carregando eventos... 
+10/7/2022 13:20:3 INFO: Evento interactionCreate carregado. 
+10/7/2022 13:20:3 INFO: Evento messageCreate carregado. 
+10/7/2022 13:20:3 INFO: Evento ready carregado. 
+10/7/2022 13:20:3 INFO Carregando comandos...
+
+10/7/2022 13:20:3 INFO: Comando avatar carregado.
+10/7/2022 13:20:3 INFO: Comando eval carregado.
+10/7/2022 13:20:3 INFO: Comando football carregado.
+10/7/2022 13:20:3 INFO: Comando help carregado.
+10/7/2022 13:20:3 INFO: Comando modlog carregado.
+10/7/2022 13:20:3 INFO: Comando ping carregado.
+10/7/2022 13:20:3 INFO: Comando snake carregado.
+10/7/2022 13:20:3 INFO: Comando test carregado.
+10/7/2022 13:20:3 INFO: Comando test2 carregado.
+10/7/2022 13:20:3 INFO: Comando testbackup carregado.
+
+10/7/2022 13:20:3 INFO: Comando attack carregado.
+10/7/2022 13:20:3 INFO: Comando dance carregado.
+10/7/2022 13:20:3 INFO: Comando headpat carregado.
+10/7/2022 13:20:3 INFO: Comando hug carregado.
+10/7/2022 13:20:3 INFO: Comando justshiro carregado.
+10/7/2022 13:20:3 INFO: Comando kiss carregado.
+10/7/2022 13:20:3 INFO: Comando smile carregado.
+10/7/2022 13:20:3 INFO: Comando punch carregado.
+
+10/7/2022 13:20:3 INFO: Comando back carregado.
+10/7/2022 13:20:3 INFO: Comando clear carregado.
+10/7/2022 13:20:3 INFO: Comando filter carregado.
+10/7/2022 13:20:3 INFO: Comando loop carregado.
+10/7/2022 13:20:3 INFO: Comando nowplaying carregado.
+10/7/2022 13:20:3 INFO: Comando pause carregado.
+10/7/2022 13:20:3 INFO: Comando play carregado.
+10/7/2022 13:20:3 INFO: Comando playlist carregado.
+10/7/2022 13:20:3 INFO: Comando progress carregado.
+10/7/2022 13:20:3 INFO: Comando queue carregado.
+10/7/2022 13:20:3 INFO: Comando resume carregado.
+10/7/2022 13:20:3 INFO: Comando save carregado.
+10/7/2022 13:20:3 INFO: Comando search carregado.
+10/7/2022 13:20:3 INFO: Comando seek carregado.
+10/7/2022 13:20:3 INFO: Comando shuffle carregado.
+10/7/2022 13:20:3 INFO: Comando skip carregado.
+10/7/2022 13:20:3 INFO: Comando stop carregado.
+10/7/2022 13:20:3 INFO: Comando volume carregado.
+
+10/7/2022 13:20:5 INFO: [TrackStart] Musica Californication by temp disabled começou a tocar no canal 🎮┇Jogos
+
+
+10/7/2022 13:25:18 INFO: Carregando eventos... 
+10/7/2022 13:25:18 INFO: Evento interactionCreate carregado. 
+10/7/2022 13:25:18 INFO: Evento messageCreate carregado. 
+10/7/2022 13:25:18 INFO: Evento ready carregado. 
+10/7/2022 13:25:18 INFO Carregando comandos...
+
+10/7/2022 13:25:18 INFO: Comando avatar carregado.
+10/7/2022 13:25:18 INFO: Comando eval carregado.
+10/7/2022 13:25:18 INFO: Comando football carregado.
+10/7/2022 13:25:18 INFO: Comando help carregado.
+10/7/2022 13:25:18 INFO: Comando modlog carregado.
+10/7/2022 13:25:18 INFO: Comando ping carregado.
+10/7/2022 13:25:18 INFO: Comando snake carregado.
+10/7/2022 13:25:18 INFO: Comando test carregado.
+10/7/2022 13:25:18 INFO: Comando test2 carregado.
+10/7/2022 13:25:18 INFO: Comando testbackup carregado.
+
+10/7/2022 13:25:18 INFO: Comando attack carregado.
+10/7/2022 13:25:18 INFO: Comando dance carregado.
+10/7/2022 13:25:18 INFO: Comando headpat carregado.
+10/7/2022 13:25:18 INFO: Comando hug carregado.
+10/7/2022 13:25:18 INFO: Comando justshiro carregado.
+10/7/2022 13:25:18 INFO: Comando kiss carregado.
+10/7/2022 13:25:18 INFO: Comando smile carregado.
+10/7/2022 13:25:18 INFO: Comando punch carregado.
+
+10/7/2022 13:25:18 INFO: Comando back carregado.
+10/7/2022 13:25:18 INFO: Comando clear carregado.
+10/7/2022 13:25:18 INFO: Comando filter carregado.
+10/7/2022 13:25:18 INFO: Comando loop carregado.
+10/7/2022 13:25:18 INFO: Comando nowplaying carregado.
+10/7/2022 13:25:18 INFO: Comando pause carregado.
+10/7/2022 13:25:18 INFO: Comando play carregado.
+10/7/2022 13:25:18 INFO: Comando playlist carregado.
+10/7/2022 13:25:18 INFO: Comando progress carregado.
+10/7/2022 13:25:18 INFO: Comando queue carregado.
+10/7/2022 13:25:18 INFO: Comando resume carregado.
+10/7/2022 13:25:18 INFO: Comando save carregado.
+10/7/2022 13:25:18 INFO: Comando search carregado.
+10/7/2022 13:25:18 INFO: Comando seek carregado.
+10/7/2022 13:25:18 INFO: Comando shuffle carregado.
+10/7/2022 13:25:18 INFO: Comando skip carregado.
+10/7/2022 13:25:18 INFO: Comando stop carregado.
+10/7/2022 13:25:18 INFO: Comando volume carregado.
+
+
+
+10/7/2022 13:25:47 INFO: Carregando eventos... 
+10/7/2022 13:25:47 INFO: Evento interactionCreate carregado. 
+10/7/2022 13:25:47 INFO: Evento messageCreate carregado. 
+10/7/2022 13:25:47 INFO: Evento ready carregado. 
+10/7/2022 13:25:47 INFO Carregando comandos...
+
+10/7/2022 13:25:47 INFO: Comando avatar carregado.
+10/7/2022 13:25:47 INFO: Comando eval carregado.
+10/7/2022 13:25:47 INFO: Comando football carregado.
+10/7/2022 13:25:47 INFO: Comando help carregado.
+10/7/2022 13:25:47 INFO: Comando modlog carregado.
+10/7/2022 13:25:47 INFO: Comando ping carregado.
+10/7/2022 13:25:47 INFO: Comando snake carregado.
+10/7/2022 13:25:47 INFO: Comando test carregado.
+10/7/2022 13:25:47 INFO: Comando test2 carregado.
+10/7/2022 13:25:47 INFO: Comando testbackup carregado.
+
+10/7/2022 13:25:47 INFO: Comando attack carregado.
+10/7/2022 13:25:47 INFO: Comando dance carregado.
+10/7/2022 13:25:47 INFO: Comando headpat carregado.
+10/7/2022 13:25:47 INFO: Comando hug carregado.
+10/7/2022 13:25:47 INFO: Comando justshiro carregado.
+10/7/2022 13:25:47 INFO: Comando kiss carregado.
+10/7/2022 13:25:47 INFO: Comando smile carregado.
+10/7/2022 13:25:47 INFO: Comando punch carregado.
+
+10/7/2022 13:25:47 INFO: Comando back carregado.
+10/7/2022 13:25:47 INFO: Comando clear carregado.
+10/7/2022 13:25:47 INFO: Comando filter carregado.
+10/7/2022 13:25:47 INFO: Comando loop carregado.
+10/7/2022 13:25:47 INFO: Comando nowplaying carregado.
+10/7/2022 13:25:47 INFO: Comando pause carregado.
+10/7/2022 13:25:47 INFO: Comando play carregado.
+10/7/2022 13:25:47 INFO: Comando playlist carregado.
+10/7/2022 13:25:47 INFO: Comando progress carregado.
+10/7/2022 13:25:47 INFO: Comando queue carregado.
+10/7/2022 13:25:47 INFO: Comando resume carregado.
+10/7/2022 13:25:47 INFO: Comando save carregado.
+10/7/2022 13:25:47 INFO: Comando search carregado.
+10/7/2022 13:25:47 INFO: Comando seek carregado.
+10/7/2022 13:25:47 INFO: Comando shuffle carregado.
+10/7/2022 13:25:47 INFO: Comando skip carregado.
+10/7/2022 13:25:47 INFO: Comando stop carregado.
+10/7/2022 13:25:47 INFO: Comando volume carregado.
+
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Californication by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Let There Be Rock by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Help! - Remastered 2009 by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Holiday / Boulevard of Broken Dreams by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Kung Fu Fighting by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Hotel California - 2013 Remaster by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Welcome To The Jungle by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Eighties - 2007 Digital Remaster by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Snow (Hey Oh) by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Highway to Hell by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica New Perspective by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Bad Liar by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica I Was Made For Lovin' You by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Sweet Dreams (Are Made of This) - Remastered by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica They Don't Care About Us by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Basket Case by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Walk This Way by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Dani California by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Whip It by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Girls Just Want to Have Fun by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica By the Way by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Why'd You Only Call Me When You're High? by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Take on Me by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Boulevard of Broken Dreams by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Yellow by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica They Don't Care About Us by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica The Trooper - 2015 Remaster by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Seven Nation Army by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Rock You Like A Hurricane by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica About A Girl by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Scar Tissue by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Radioactive by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica House of Memories by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Rock 'N' Roll All Nite - Live by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Rock and Roll - Remaster by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Smooth Criminal - 2012 Remaster by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Song 2 - 2012 Remaster by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Bad Medicine by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Do I Wanna Know? by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Paradise City by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Heaven's On Fire by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica You Shook Me All Night Long - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009 by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Can't Stop by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Stuck on the puzzle by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Another Brick in the Wall, Pt. 2 by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Paradise by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica It's My Life by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica American Idiot by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Hino Rio-Grandense by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Hymn for the Weekend by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica I Ain't Worried by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica João e Maria by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Live And Let Die by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica The Power Of Love by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Give It Away by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Apesar De Você by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Another One Bites The Dust - Remastered 2011 by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Thriller - Single Version by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Under the Bridge by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Dirty Deeds Done Dirt Cheap by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Que Tal um Samba? by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Here I Am (Rock You Like A Hurricane) by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Counting Stars by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Shoot to Thrill by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica High Hopes by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica I Write Sins Not Tragedies by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Hot Hot Hot by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Rock N Roll Train by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica (I Can't Get No) Satisfaction - Mono Version by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Hooked On A Feeling by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica T.N.T. by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Back In Black by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica You Shook Me All Night Long by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Otherside by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica The Scientist by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Wake Me up When September Ends by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Eye of the Tiger by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica It's a Long Way to the Top (If You Wanna Rock 'N' Roll) by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica We Are The Champions - Remastered 2011 by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Hells Bells by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Are You Gonna Be My Girl by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Stayin Alive by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Stairway to Heaven - Remaster by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Michael Jackson - Billie Jean by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Start Me Up - Remastered 2009 by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Billie Jean by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Psycho Killer by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Thunderstruck by temp disabled começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackAdd] musica Nea - Some Say - (Felix Jaehn Remix) foi adicionada na fila
+10/7/2022 13:25:49 INFO: [TrackAdd] musica Nea - Some Say - (Felix Jaehn Remix) foi adicionada na fila
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Nea - Some Say - (Felix Jaehn Remix) by Nea começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [TrackAdd] musica Blue Stahli - ULTRAnumb foi adicionada na fila
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Blue Stahli - ULTRAnumb by dylan37373 começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+10/7/2022 13:25:49 INFO: [TrackAdd] musica Nea - Some Say - (Felix Jaehn Remix) foi adicionada na fila
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Nea - Some Say - (Felix Jaehn Remix) by Nea começou a tocar no canal 🎮┇Jogos
+10/7/2022 13:25:49 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+10/7/2022 13:25:49 INFO: [TrackAdd] musica Michael Jackson - They Don’t Care About Us (Brazil Version) (Official Video) foi adicionada na fila
+10/7/2022 13:25:49 INFO: [TrackStart] Musica Michael Jackson - They Don’t Care About Us (Brazil Version) (Official Video) by Michael Jackson começou a tocar no canal 🎮┇Jogos 2
+10/7/2022 13:25:49 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+
+
+11/7/2022 13:6:52 INFO: Carregando eventos... 
+11/7/2022 13:6:52 INFO: Evento interactionCreate carregado. 
+11/7/2022 13:6:52 INFO: Evento messageCreate carregado. 
+11/7/2022 13:6:52 INFO: Evento ready carregado. 
+11/7/2022 13:6:52 INFO Carregando comandos...
+
+11/7/2022 13:6:52 INFO: Comando avatar carregado.
+11/7/2022 13:6:52 INFO: Comando eval carregado.
+11/7/2022 13:6:52 INFO: Comando football carregado.
+11/7/2022 13:6:52 INFO: Comando help carregado.
+11/7/2022 13:6:52 INFO: Comando modlog carregado.
+11/7/2022 13:6:52 INFO: Comando ping carregado.
+11/7/2022 13:6:52 INFO: Comando snake carregado.
+11/7/2022 13:6:52 INFO: Comando test carregado.
+11/7/2022 13:6:52 INFO: Comando test2 carregado.
+11/7/2022 13:6:52 INFO: Comando testbackup carregado.
+
+11/7/2022 13:6:52 INFO: Comando attack carregado.
+11/7/2022 13:6:52 INFO: Comando dance carregado.
+11/7/2022 13:6:52 INFO: Comando headpat carregado.
+11/7/2022 13:6:52 INFO: Comando hug carregado.
+11/7/2022 13:6:52 INFO: Comando justshiro carregado.
+11/7/2022 13:6:52 INFO: Comando kiss carregado.
+11/7/2022 13:6:52 INFO: Comando smile carregado.
+11/7/2022 13:6:52 INFO: Comando punch carregado.
+
+11/7/2022 13:6:52 INFO: Comando back carregado.
+11/7/2022 13:6:52 INFO: Comando clear carregado.
+11/7/2022 13:6:52 INFO: Comando filter carregado.
+11/7/2022 13:6:52 INFO: Comando loop carregado.
+11/7/2022 13:6:52 INFO: Comando nowplaying carregado.
+11/7/2022 13:6:52 INFO: Comando pause carregado.
+11/7/2022 13:6:52 INFO: Comando play carregado.
+11/7/2022 13:6:52 INFO: Comando playlist carregado.
+11/7/2022 13:6:52 INFO: Comando progress carregado.
+11/7/2022 13:6:52 INFO: Comando queue carregado.
+11/7/2022 13:6:52 INFO: Comando resume carregado.
+11/7/2022 13:6:52 INFO: Comando save carregado.
+11/7/2022 13:6:52 INFO: Comando search carregado.
+11/7/2022 13:6:52 INFO: Comando seek carregado.
+11/7/2022 13:6:52 INFO: Comando shuffle carregado.
+11/7/2022 13:6:52 INFO: Comando skip carregado.
+11/7/2022 13:6:52 INFO: Comando stop carregado.
+11/7/2022 13:6:52 INFO: Comando volume carregado.
+
+11/7/2022 13:7:19 INFO: [TrackAdd] musica Sessions: Star Guardian Taliyah | A Creator-Safe Collection | Riot Games Music foi adicionada na fila
+11/7/2022 13:7:19 INFO: [TrackStart] Musica Sessions: Star Guardian Taliyah | A Creator-Safe Collection | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on  error
+>> ERROR CHANNEL:  🎮┇Jogos
+>> ERROR MESSAGE:  aborted
+>> ERROR GENERAL:  Error: aborted
+
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on connection error
+>> ERROR CHANNEL:  🎮┇Jogos
+>> ERROR MESSAGE:  aborted
+>> ERROR GENERAL:  Error: aborted
+
+
+
+12/7/2022 12:59:24 INFO: Carregando eventos... 
+12/7/2022 12:59:24 INFO: Evento interactionCreate carregado. 
+12/7/2022 12:59:24 INFO: Evento messageCreate carregado. 
+12/7/2022 12:59:24 INFO: Evento ready carregado. 
+12/7/2022 12:59:24 INFO Carregando comandos...
+
+12/7/2022 12:59:24 INFO: Comando avatar carregado.
+12/7/2022 12:59:24 INFO: Comando eval carregado.
+12/7/2022 12:59:24 INFO: Comando football carregado.
+12/7/2022 12:59:24 INFO: Comando help carregado.
+12/7/2022 12:59:24 INFO: Comando modlog carregado.
+12/7/2022 12:59:24 INFO: Comando ping carregado.
+12/7/2022 12:59:24 INFO: Comando snake carregado.
+12/7/2022 12:59:24 INFO: Comando test carregado.
+12/7/2022 12:59:24 INFO: Comando test2 carregado.
+12/7/2022 12:59:24 INFO: Comando testbackup carregado.
+
+12/7/2022 12:59:24 INFO: Comando attack carregado.
+12/7/2022 12:59:24 INFO: Comando dance carregado.
+12/7/2022 12:59:24 INFO: Comando headpat carregado.
+12/7/2022 12:59:24 INFO: Comando hug carregado.
+12/7/2022 12:59:24 INFO: Comando justshiro carregado.
+12/7/2022 12:59:24 INFO: Comando kiss carregado.
+12/7/2022 12:59:24 INFO: Comando smile carregado.
+12/7/2022 12:59:24 INFO: Comando punch carregado.
+
+12/7/2022 12:59:24 INFO: Comando back carregado.
+12/7/2022 12:59:24 INFO: Comando clear carregado.
+12/7/2022 12:59:24 INFO: Comando filter carregado.
+12/7/2022 12:59:24 INFO: Comando loop carregado.
+12/7/2022 12:59:24 INFO: Comando nowplaying carregado.
+12/7/2022 12:59:24 INFO: Comando pause carregado.
+12/7/2022 12:59:24 INFO: Comando play carregado.
+12/7/2022 12:59:24 INFO: Comando playlist carregado.
+12/7/2022 12:59:24 INFO: Comando progress carregado.
+12/7/2022 12:59:24 INFO: Comando queue carregado.
+12/7/2022 12:59:24 INFO: Comando resume carregado.
+12/7/2022 12:59:24 INFO: Comando save carregado.
+12/7/2022 12:59:24 INFO: Comando search carregado.
+12/7/2022 12:59:24 INFO: Comando seek carregado.
+12/7/2022 12:59:24 INFO: Comando shuffle carregado.
+12/7/2022 12:59:24 INFO: Comando skip carregado.
+12/7/2022 12:59:24 INFO: Comando stop carregado.
+12/7/2022 12:59:24 INFO: Comando volume carregado.
+
+
+
+12/7/2022 19:39:0 INFO: Carregando eventos... 
+12/7/2022 19:39:0 INFO: Evento interactionCreate carregado. 
+12/7/2022 19:39:0 INFO: Evento messageCreate carregado. 
+12/7/2022 19:39:0 INFO: Evento ready carregado. 
+12/7/2022 19:39:0 INFO Carregando comandos...
+
+12/7/2022 19:39:0 INFO: Comando avatar carregado.
+12/7/2022 19:39:0 INFO: Comando eval carregado.
+12/7/2022 19:39:0 INFO: Comando football carregado.
+12/7/2022 19:39:0 INFO: Comando help carregado.
+12/7/2022 19:39:0 INFO: Comando modlog carregado.
+12/7/2022 19:39:0 INFO: Comando ping carregado.
+12/7/2022 19:39:0 INFO: Comando snake carregado.
+12/7/2022 19:39:0 INFO: Comando test carregado.
+12/7/2022 19:39:0 INFO: Comando test2 carregado.
+12/7/2022 19:39:0 INFO: Comando testbackup carregado.
+
+12/7/2022 19:39:0 INFO: Comando attack carregado.
+12/7/2022 19:39:0 INFO: Comando dance carregado.
+12/7/2022 19:39:0 INFO: Comando headpat carregado.
+12/7/2022 19:39:0 INFO: Comando hug carregado.
+12/7/2022 19:39:0 INFO: Comando justshiro carregado.
+12/7/2022 19:39:0 INFO: Comando kiss carregado.
+12/7/2022 19:39:0 INFO: Comando smile carregado.
+12/7/2022 19:39:0 INFO: Comando punch carregado.
+
+12/7/2022 19:39:0 INFO: Comando back carregado.
+12/7/2022 19:39:0 INFO: Comando clear carregado.
+12/7/2022 19:39:0 INFO: Comando filter carregado.
+12/7/2022 19:39:0 INFO: Comando loop carregado.
+12/7/2022 19:39:0 INFO: Comando nowplaying carregado.
+12/7/2022 19:39:0 INFO: Comando pause carregado.
+12/7/2022 19:39:0 INFO: Comando play carregado.
+12/7/2022 19:39:0 INFO: Comando playlist carregado.
+12/7/2022 19:39:0 INFO: Comando progress carregado.
+12/7/2022 19:39:0 INFO: Comando queue carregado.
+12/7/2022 19:39:0 INFO: Comando resume carregado.
+12/7/2022 19:39:0 INFO: Comando save carregado.
+12/7/2022 19:39:0 INFO: Comando search carregado.
+12/7/2022 19:39:0 INFO: Comando seek carregado.
+12/7/2022 19:39:0 INFO: Comando shuffle carregado.
+12/7/2022 19:39:0 INFO: Comando skip carregado.
+12/7/2022 19:39:0 INFO: Comando stop carregado.
+12/7/2022 19:39:0 INFO: Comando volume carregado.
+
+
+
+13/7/2022 19:9:42 INFO: Carregando eventos... 
+13/7/2022 19:9:42 INFO: Evento interactionCreate carregado. 
+13/7/2022 19:9:42 INFO: Evento messageCreate carregado. 
+13/7/2022 19:9:42 INFO: Evento ready carregado. 
+13/7/2022 19:9:42 INFO Carregando comandos...
+
+13/7/2022 19:9:42 INFO: Comando avatar carregado.
+13/7/2022 19:9:42 INFO: Comando eval carregado.
+13/7/2022 19:9:42 INFO: Comando football carregado.
+13/7/2022 19:9:42 INFO: Comando help carregado.
+13/7/2022 19:9:42 INFO: Comando modlog carregado.
+13/7/2022 19:9:42 INFO: Comando ping carregado.
+13/7/2022 19:9:42 INFO: Comando snake carregado.
+13/7/2022 19:9:42 INFO: Comando test carregado.
+13/7/2022 19:9:42 INFO: Comando test2 carregado.
+13/7/2022 19:9:42 INFO: Comando testbackup carregado.
+
+13/7/2022 19:9:42 INFO: Comando attack carregado.
+13/7/2022 19:9:42 INFO: Comando dance carregado.
+13/7/2022 19:9:42 INFO: Comando headpat carregado.
+13/7/2022 19:9:42 INFO: Comando hug carregado.
+13/7/2022 19:9:42 INFO: Comando justshiro carregado.
+13/7/2022 19:9:42 INFO: Comando kiss carregado.
+13/7/2022 19:9:42 INFO: Comando smile carregado.
+13/7/2022 19:9:42 INFO: Comando punch carregado.
+
+13/7/2022 19:9:42 INFO: Comando back carregado.
+13/7/2022 19:9:42 INFO: Comando clear carregado.
+13/7/2022 19:9:42 INFO: Comando filter carregado.
+13/7/2022 19:9:42 INFO: Comando loop carregado.
+13/7/2022 19:9:42 INFO: Comando nowplaying carregado.
+13/7/2022 19:9:42 INFO: Comando pause carregado.
+13/7/2022 19:9:42 INFO: Comando play carregado.
+13/7/2022 19:9:42 INFO: Comando playlist carregado.
+13/7/2022 19:9:42 INFO: Comando progress carregado.
+13/7/2022 19:9:42 INFO: Comando queue carregado.
+13/7/2022 19:9:42 INFO: Comando resume carregado.
+13/7/2022 19:9:42 INFO: Comando save carregado.
+13/7/2022 19:9:42 INFO: Comando search carregado.
+13/7/2022 19:9:42 INFO: Comando seek carregado.
+13/7/2022 19:9:42 INFO: Comando shuffle carregado.
+13/7/2022 19:9:42 INFO: Comando skip carregado.
+13/7/2022 19:9:42 INFO: Comando stop carregado.
+13/7/2022 19:9:42 INFO: Comando volume carregado.
+
+13/7/2022 19:9:50 INFO: [TrackAdd] musica The Neighbourhood - Sweater Weather (SrSider FUNK REMIX) foi adicionada na fila
+13/7/2022 19:9:50 INFO: [TrackStart] Musica The Neighbourhood - Sweater Weather (SrSider FUNK REMIX) by SrSider começou a tocar no canal 🎮┇Jogos
+13/7/2022 19:9:50 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+13/7/2022 19:9:50 INFO: [TrackAdd] musica BEAT FALLING - Set Fire To The Rain (SrSider & Sr Nescau FUNK REMIX) foi adicionada na fila
+13/7/2022 19:9:50 INFO: [TrackStart] Musica BEAT FALLING - Set Fire To The Rain (SrSider & Sr Nescau FUNK REMIX) by SrSider começou a tocar no canal 🎮┇Jogos
+13/7/2022 19:9:50 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+
+
+14/7/2022 13:34:23 INFO: Carregando eventos... 
+14/7/2022 13:34:23 INFO: Evento interactionCreate carregado. 
+14/7/2022 13:34:23 INFO: Evento messageCreate carregado. 
+14/7/2022 13:34:23 INFO: Evento ready carregado. 
+14/7/2022 13:34:23 INFO Carregando comandos...
+
+14/7/2022 13:34:23 INFO: Comando avatar carregado.
+14/7/2022 13:34:23 INFO: Comando eval carregado.
+14/7/2022 13:34:23 INFO: Comando football carregado.
+14/7/2022 13:34:23 INFO: Comando help carregado.
+14/7/2022 13:34:23 INFO: Comando modlog carregado.
+14/7/2022 13:34:23 INFO: Comando ping carregado.
+14/7/2022 13:34:23 INFO: Comando snake carregado.
+14/7/2022 13:34:23 INFO: Comando test carregado.
+14/7/2022 13:34:23 INFO: Comando test2 carregado.
+14/7/2022 13:34:23 INFO: Comando testbackup carregado.
+
+14/7/2022 13:34:23 INFO: Comando attack carregado.
+14/7/2022 13:34:23 INFO: Comando dance carregado.
+14/7/2022 13:34:23 INFO: Comando headpat carregado.
+14/7/2022 13:34:23 INFO: Comando hug carregado.
+14/7/2022 13:34:23 INFO: Comando justshiro carregado.
+14/7/2022 13:34:23 INFO: Comando kiss carregado.
+14/7/2022 13:34:23 INFO: Comando smile carregado.
+14/7/2022 13:34:23 INFO: Comando punch carregado.
+
+14/7/2022 13:34:23 INFO: Comando back carregado.
+14/7/2022 13:34:23 INFO: Comando clear carregado.
+14/7/2022 13:34:23 INFO: Comando filter carregado.
+14/7/2022 13:34:23 INFO: Comando loop carregado.
+14/7/2022 13:34:23 INFO: Comando nowplaying carregado.
+14/7/2022 13:34:23 INFO: Comando pause carregado.
+14/7/2022 13:34:23 INFO: Comando play carregado.
+14/7/2022 13:34:23 INFO: Comando playlist carregado.
+14/7/2022 13:34:23 INFO: Comando progress carregado.
+14/7/2022 13:34:23 INFO: Comando queue carregado.
+14/7/2022 13:34:23 INFO: Comando resume carregado.
+14/7/2022 13:34:23 INFO: Comando save carregado.
+14/7/2022 13:34:23 INFO: Comando search carregado.
+14/7/2022 13:34:23 INFO: Comando seek carregado.
+14/7/2022 13:34:23 INFO: Comando shuffle carregado.
+14/7/2022 13:34:23 INFO: Comando skip carregado.
+14/7/2022 13:34:23 INFO: Comando stop carregado.
+14/7/2022 13:34:23 INFO: Comando volume carregado.
+
+14/7/2022 13:35:42 INFO: [TrackStart] Musica 28 by bulma começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Three Days Grace - Riot (Audio) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Broken Glass by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackAdd] musica Avenged Sevenfold - A Little Piece Of Heaven [Official Music Video] foi adicionada na fila
+14/7/2022 13:35:42 INFO: [TrackAdd] musica Avenged Sevenfold - A Little Piece Of Heaven [Official Music Video] foi adicionada na fila
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Avenged Sevenfold - A Little Piece Of Heaven [Official Music Video] by Avenged Sevenfold começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+14/7/2022 13:35:42 INFO: [TrackAdd] musica Haikaiss - RAP LORD part. Jonas Bento (Prod. NeoBeats) [VIDEOCLIPE OFICIAL] foi adicionada na fila
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Haikaiss - RAP LORD part. Jonas Bento (Prod. NeoBeats) [VIDEOCLIPE OFICIAL] by HAIKAISS começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackAdd] musica LUCKHAOS - T0RTURA PENlANA DÓI DEMAIS (Prod. Haku) foi adicionada na fila
+14/7/2022 13:35:42 INFO: [TrackStart] Musica LUCKHAOS - T0RTURA PENlANA DÓI DEMAIS (Prod. Haku) by L U C K H A O S começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackAdd] musica LUCKHAOS - SIM, EU AMO NEGO NEY (Prod. Haku) foi adicionada na fila
+14/7/2022 13:35:42 INFO: [TrackStart] Musica LUCKHAOS - SIM, EU AMO NEGO NEY (Prod. Haku) by L U C K H A O S começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Three Days Grace - Riot (Audio) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Life Starts Now by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Break by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Before I Forget by Slipknot começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Three Days Grace - Explosions (Visualizer) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Breaking Benjamin - Angels Fall (Official Lyric Video) by Breaking Benjamin começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica The Devil in I by Slipknot começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Broken Glass by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Take It Out On Me by Thousand Foot Krutch começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica The Diary of Jane by Breaking Benjamin começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica The Diary of Jane by Breaking Benjamin começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica I Am Machine by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Ashes Remain - End Of Me (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Holiday / Boulevard of Broken Dreams by Green Day começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Thousand Foot Krutch: Let The Sparks Fly (Official Audio) by Thousand Foot Krutch começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Nickelback - How You Remind Me by Nickelback começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Skillet - "Feel Invincible" [Official Music Video] by Skillet começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Thousand Foot Krutch: We Are (Official Audio) by Thousand Foot Krutch começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica 21 Guns by Green Day começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Predator | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Unsainted by Slipknot começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Thousand Foot Krutch: Courtesy Call (Official Audio) by Thousand Foot Krutch começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Unbreakable Heart by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Ghost - Square Hammer (Official Music Video) by Ghost começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Painkiller by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica World so Cold by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Nero Forte by Slipknot começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Never Too Late by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Ashes Remain - Without You (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica World So Cold by 12stonesvideo começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica I Am The Weapon by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Icon for Hire - Make a Move (with lyrics) by Kim Reyes começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Lost Chapter | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Duality by Slipknot começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Let It Die by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Dance With The Devil by Breaking Benjamin começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Ashes Remain - On My Own (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Ashes Remain - Unbroken (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Three Days Grace - Champion (Visualizer) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Conqueror | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Ashes Remain - Right Here (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Gone Forever by Three Days Grace começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [TrackStart] Musica Pentakill - Lightbringer [OFFICIAL AUDIO] | League of Legends Music by League of Legends começou a tocar no canal 🎮┇Jogos
+14/7/2022 13:35:42 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+
+
+15/7/2022 14:54:13 INFO: Carregando eventos... 
+15/7/2022 14:54:13 INFO: Evento interactionCreate carregado. 
+15/7/2022 14:54:13 INFO: Evento messageCreate carregado. 
+15/7/2022 14:54:13 INFO: Evento ready carregado. 
+15/7/2022 14:54:13 INFO Carregando comandos...
+
+15/7/2022 14:54:13 INFO: Comando avatar carregado.
+15/7/2022 14:54:13 INFO: Comando eval carregado.
+15/7/2022 14:54:13 INFO: Comando football carregado.
+15/7/2022 14:54:13 INFO: Comando help carregado.
+15/7/2022 14:54:13 INFO: Comando modlog carregado.
+15/7/2022 14:54:13 INFO: Comando ping carregado.
+15/7/2022 14:54:13 INFO: Comando snake carregado.
+15/7/2022 14:54:13 INFO: Comando test carregado.
+15/7/2022 14:54:13 INFO: Comando test2 carregado.
+15/7/2022 14:54:13 INFO: Comando testbackup carregado.
+
+15/7/2022 14:54:13 INFO: Comando attack carregado.
+15/7/2022 14:54:13 INFO: Comando dance carregado.
+15/7/2022 14:54:13 INFO: Comando headpat carregado.
+15/7/2022 14:54:13 INFO: Comando hug carregado.
+15/7/2022 14:54:13 INFO: Comando justshiro carregado.
+15/7/2022 14:54:13 INFO: Comando kiss carregado.
+15/7/2022 14:54:13 INFO: Comando smile carregado.
+15/7/2022 14:54:13 INFO: Comando punch carregado.
+
+15/7/2022 14:54:13 INFO: Comando back carregado.
+15/7/2022 14:54:13 INFO: Comando clear carregado.
+15/7/2022 14:54:13 INFO: Comando filter carregado.
+15/7/2022 14:54:13 INFO: Comando loop carregado.
+15/7/2022 14:54:13 INFO: Comando nowplaying carregado.
+15/7/2022 14:54:13 INFO: Comando pause carregado.
+15/7/2022 14:54:13 INFO: Comando play carregado.
+15/7/2022 14:54:13 INFO: Comando playlist carregado.
+15/7/2022 14:54:13 INFO: Comando progress carregado.
+15/7/2022 14:54:13 INFO: Comando queue carregado.
+15/7/2022 14:54:13 INFO: Comando resume carregado.
+15/7/2022 14:54:13 INFO: Comando save carregado.
+15/7/2022 14:54:13 INFO: Comando search carregado.
+15/7/2022 14:54:13 INFO: Comando seek carregado.
+15/7/2022 14:54:13 INFO: Comando shuffle carregado.
+15/7/2022 14:54:13 INFO: Comando skip carregado.
+15/7/2022 14:54:13 INFO: Comando stop carregado.
+15/7/2022 14:54:13 INFO: Comando volume carregado.
+
+15/7/2022 14:54:31 INFO: [TrackAdd] musica Lynyrd Skynyrd - Sweet Home Alabama (Live At The Florida Theatre / 2015) foi adicionada na fila
+15/7/2022 14:54:31 INFO: [TrackStart] Musica Lynyrd Skynyrd - Sweet Home Alabama (Live At The Florida Theatre / 2015) by Lynyrd Skynyrd começou a tocar no canal 🎮┇Jogos
+15/7/2022 14:54:31 INFO: [TrackAdd] musica Outkast - Hey Ya! (Official HD Video) foi adicionada na fila
+15/7/2022 14:54:31 INFO: [TrackStart] Musica Outkast - Hey Ya! (Official HD Video) by Outkast começou a tocar no canal 🎮┇Jogos
+15/7/2022 14:54:31 INFO: [TrackAdd] musica Post Malone - Circles foi adicionada na fila
+15/7/2022 14:54:31 INFO: [TrackStart] Musica Post Malone - Circles by Post Malone começou a tocar no canal 🎮┇Jogos
+15/7/2022 14:54:31 INFO: [TrackAdd] musica Jessie J - Domino (Official Video) foi adicionada na fila
+15/7/2022 14:54:31 INFO: [TrackStart] Musica Jessie J - Domino (Official Video) by Jessie J começou a tocar no canal 🎮┇Jogos
+15/7/2022 14:54:31 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+
+
+16/7/2022 0:10:25 INFO: Carregando eventos... 
+16/7/2022 0:10:25 INFO: Evento interactionCreate carregado. 
+16/7/2022 0:10:25 INFO: Evento messageCreate carregado. 
+16/7/2022 0:10:25 INFO: Evento ready carregado. 
+16/7/2022 0:10:25 INFO Carregando comandos...
+
+16/7/2022 0:10:25 INFO: Comando avatar carregado.
+16/7/2022 0:10:25 INFO: Comando eval carregado.
+16/7/2022 0:10:25 INFO: Comando football carregado.
+16/7/2022 0:10:25 INFO: Comando help carregado.
+16/7/2022 0:10:25 INFO: Comando modlog carregado.
+16/7/2022 0:10:25 INFO: Comando ping carregado.
+16/7/2022 0:10:25 INFO: Comando snake carregado.
+16/7/2022 0:10:25 INFO: Comando test carregado.
+16/7/2022 0:10:25 INFO: Comando test2 carregado.
+16/7/2022 0:10:25 INFO: Comando testbackup carregado.
+
+16/7/2022 0:10:25 INFO: Comando attack carregado.
+16/7/2022 0:10:25 INFO: Comando dance carregado.
+16/7/2022 0:10:25 INFO: Comando headpat carregado.
+16/7/2022 0:10:25 INFO: Comando hug carregado.
+16/7/2022 0:10:25 INFO: Comando justshiro carregado.
+16/7/2022 0:10:25 INFO: Comando kiss carregado.
+16/7/2022 0:10:25 INFO: Comando smile carregado.
+16/7/2022 0:10:25 INFO: Comando punch carregado.
+
+16/7/2022 0:10:25 INFO: Comando back carregado.
+16/7/2022 0:10:25 INFO: Comando clear carregado.
+16/7/2022 0:10:25 INFO: Comando filter carregado.
+16/7/2022 0:10:25 INFO: Comando loop carregado.
+16/7/2022 0:10:25 INFO: Comando nowplaying carregado.
+16/7/2022 0:10:25 INFO: Comando pause carregado.
+16/7/2022 0:10:25 INFO: Comando play carregado.
+16/7/2022 0:10:25 INFO: Comando playlist carregado.
+16/7/2022 0:10:25 INFO: Comando progress carregado.
+16/7/2022 0:10:25 INFO: Comando queue carregado.
+16/7/2022 0:10:25 INFO: Comando resume carregado.
+16/7/2022 0:10:25 INFO: Comando save carregado.
+16/7/2022 0:10:25 INFO: Comando search carregado.
+16/7/2022 0:10:25 INFO: Comando seek carregado.
+16/7/2022 0:10:25 INFO: Comando shuffle carregado.
+16/7/2022 0:10:25 INFO: Comando skip carregado.
+16/7/2022 0:10:25 INFO: Comando stop carregado.
+16/7/2022 0:10:25 INFO: Comando volume carregado.
+
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Three Days Grace - Riot (Audio) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Nickelback - How You Remind Me by Nickelback começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Painkiller by Three Days Grace começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Predator | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Conqueror | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica I Am The Weapon by Three Days Grace começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Unsainted by Slipknot começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Ashes Remain - On My Own (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Before I Forget by Slipknot começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica World So Cold by 12stonesvideo começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Let It Die by Three Days Grace começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Gone Forever by Three Days Grace começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Breaking Benjamin - Angels Fall (Official Lyric Video) by Breaking Benjamin começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Life Starts Now by Three Days Grace começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Ashes Remain - End Of Me (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackStart] Musica Holiday / Boulevard of Broken Dreams by Green Day começou a tocar no canal 🎮┇Jogos
+16/7/2022 0:10:31 INFO: [TrackAdd] musica lofi hip hop radio - beats to relax/study to foi adicionada na fila
+
+
+16/7/2022 13:22:20 INFO: Carregando eventos... 
+16/7/2022 13:22:20 INFO Eventos carregados.
+16/7/2022 13:22:20 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:22:20 INFO: Configurando Intents
+16/7/2022 13:22:20 INFO: Logando...
+
+16/7/2022 13:24:13 INFO: Configurando Intents
+
+16/7/2022 13:24:13 INFO: Carregando eventos... 
+16/7/2022 13:24:13 INFO Eventos carregados.
+16/7/2022 13:24:13 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:24:13 INFO: Logando...
+
+16/7/2022 13:26:2 INFO: Configurando Intents
+
+16/7/2022 13:26:3 INFO: Carregando eventos... 
+16/7/2022 13:26:3 INFO Eventos carregados.
+16/7/2022 13:26:3 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:26:2 INFO: Logando...
+16/7/2022 13:27:5 INFO: Configurando Intents
+
+
+16/7/2022 13:27:5 INFO: Carregando eventos... 
+16/7/2022 13:27:5 INFO Eventos carregados.
+16/7/2022 13:27:5 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:27:5 INFO: Logando...
+16/7/2022 13:27:35 INFO: Configurando Intents
+
+
+16/7/2022 13:27:35 INFO: Carregando eventos... 
+16/7/2022 13:27:35 INFO Eventos carregados.
+16/7/2022 13:27:35 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:27:35 INFO: Logando...
+16/7/2022 13:29:10 INFO: Configurando Intents
+
+
+16/7/2022 13:29:10 INFO: Carregando eventos... 
+16/7/2022 13:29:10 INFO Eventos carregados.
+16/7/2022 13:29:10 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:29:10 INFO: Logando...
+16/7/2022 13:30:30 INFO: Configurando Intents
+
+
+16/7/2022 13:30:30 INFO: Carregando eventos... 
+16/7/2022 13:30:30 INFO Eventos carregados.
+16/7/2022 13:30:30 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:30:30 INFO: Logando...
+16/7/2022 13:32:31 INFO: Configurando Intents
+
+
+16/7/2022 13:32:31 INFO: Carregando eventos... 
+16/7/2022 13:32:31 INFO Eventos carregados.
+16/7/2022 13:32:31 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:32:31 INFO: Logando...
+16/7/2022 13:34:48 INFO: Configurando Intents
+
+
+16/7/2022 13:34:48 INFO: Carregando eventos... 
+16/7/2022 13:34:48 INFO Eventos carregados.
+16/7/2022 13:34:48 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:34:48 INFO: Logando...
+16/7/2022 13:36:28 INFO: Configurando Intents
+
+
+16/7/2022 13:36:28 INFO: Carregando eventos... 
+16/7/2022 13:36:28 INFO Eventos carregados.
+16/7/2022 13:36:28 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:36:28 INFO: Logando...
+16/7/2022 13:38:18 INFO: Configurando Intents
+
+
+16/7/2022 13:38:18 INFO: Carregando eventos... 
+16/7/2022 13:38:18 INFO Eventos carregados.
+16/7/2022 13:38:18 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:38:18 INFO: Logando...
+16/7/2022 13:41:18 INFO: Configurando Intents
+
+
+16/7/2022 13:41:19 INFO: Carregando eventos... 
+16/7/2022 13:41:19 INFO Eventos carregados.
+16/7/2022 13:41:19 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:41:18 INFO: Logando...
+16/7/2022 13:44:22 INFO: Configurando Intents
+
+
+16/7/2022 13:44:22 INFO: Carregando eventos... 
+16/7/2022 13:44:22 INFO Eventos carregados.
+16/7/2022 13:44:22 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:44:22 INFO: Logando...
+16/7/2022 13:45:55 INFO: Configurando Intents
+
+
+16/7/2022 13:45:55 INFO: Carregando eventos... 
+16/7/2022 13:45:55 INFO Eventos carregados.
+16/7/2022 13:45:55 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:45:55 INFO: Logando...
+16/7/2022 13:49:27 INFO: Configurando Intents
+
+
+16/7/2022 13:49:27 INFO: Carregando eventos... 
+16/7/2022 13:49:27 INFO Eventos carregados.
+16/7/2022 13:49:27 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:49:27 INFO: Logando...
+16/7/2022 13:51:27 INFO: Configurando Intents
+
+
+16/7/2022 13:51:27 INFO: Carregando eventos... 
+16/7/2022 13:51:27 INFO Eventos carregados.
+16/7/2022 13:51:27 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:51:27 INFO: Logando...
+16/7/2022 13:54:27 INFO: Configurando Intents
+
+
+16/7/2022 13:54:27 INFO: Carregando eventos... 
+16/7/2022 13:54:27 INFO Eventos carregados.
+16/7/2022 13:54:27 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:54:27 INFO: Logando...
+16/7/2022 13:58:16 INFO: Configurando Intents
+
+
+16/7/2022 13:58:17 INFO: Carregando eventos... 
+16/7/2022 13:58:17 INFO Eventos carregados.
+16/7/2022 13:58:17 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 13:58:16 INFO: Logando...
+16/7/2022 14:0:45 INFO: Configurando Intents
+
+
+16/7/2022 14:0:45 INFO: Carregando eventos... 
+16/7/2022 14:0:45 INFO Eventos carregados.
+16/7/2022 14:0:45 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:0:45 INFO: Logando...
+16/7/2022 14:4:55 INFO: Configurando Intents
+
+
+16/7/2022 14:4:55 INFO: Carregando eventos... 
+16/7/2022 14:4:55 INFO Eventos carregados.
+16/7/2022 14:4:55 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:4:55 INFO: Logando...
+16/7/2022 14:5:58 INFO: Configurando Intents
+
+
+16/7/2022 14:5:59 INFO: Carregando eventos... 
+16/7/2022 14:5:59 INFO Eventos carregados.
+16/7/2022 14:5:59 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:5:58 INFO: Logando...
+16/7/2022 14:8:12 INFO: Configurando Intents
+
+
+16/7/2022 14:8:12 INFO: Carregando eventos... 
+16/7/2022 14:8:12 INFO Eventos carregados.
+16/7/2022 14:8:12 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:8:12 INFO: Logando...
+16/7/2022 14:11:14 INFO: Configurando Intents
+
+
+16/7/2022 14:11:14 INFO: Carregando eventos... 
+16/7/2022 14:11:14 INFO Eventos carregados.
+16/7/2022 14:11:14 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:11:14 INFO: Logando...
+16/7/2022 14:12:31 INFO: Configurando Intents
+
+
+16/7/2022 14:12:32 INFO: Carregando eventos... 
+16/7/2022 14:12:32 INFO Eventos carregados.
+16/7/2022 14:12:32 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:12:31 INFO: Logando...
+16/7/2022 14:15:22 INFO: Configurando Intents
+
+
+16/7/2022 14:15:22 INFO: Carregando eventos... 
+16/7/2022 14:15:22 INFO Eventos carregados.
+16/7/2022 14:15:22 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:15:22 INFO: Logando...
+
+
+16/7/2022 14:17:19 INFO: Carregando eventos... 
+16/7/2022 14:17:19 INFO Eventos carregados.
+16/7/2022 14:17:19 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:17:19 INFO: Configurando Intents
+16/7/2022 14:17:19 INFO: Logando...
+
+
+16/7/2022 14:19:11 INFO: Carregando eventos... 
+16/7/2022 14:19:11 INFO Eventos carregados.
+16/7/2022 14:19:11 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:19:11 INFO: Configurando Intents
+16/7/2022 14:19:11 INFO: Logando...
+16/7/2022 14:19:50 INFO: Configurando Intents
+
+
+16/7/2022 14:19:50 INFO: Carregando eventos... 
+16/7/2022 14:19:50 INFO Eventos carregados.
+16/7/2022 14:19:50 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:19:50 INFO: Logando...
+16/7/2022 14:21:27 INFO: Configurando Intents
+
+
+16/7/2022 14:21:27 INFO: Carregando eventos... 
+16/7/2022 14:21:27 INFO Eventos carregados.
+16/7/2022 14:21:27 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:21:27 INFO: Logando...
+
+16/7/2022 14:23:14 INFO: Configurando Intents
+
+16/7/2022 14:23:14 INFO: Carregando eventos... 
+16/7/2022 14:23:14 INFO Eventos carregados.
+16/7/2022 14:23:14 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:23:14 INFO: Logando...
+
+16/7/2022 14:24:44 INFO: Configurando Intents
+
+16/7/2022 14:24:44 INFO: Carregando eventos... 
+16/7/2022 14:24:44 INFO Eventos carregados.
+16/7/2022 14:24:44 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:24:44 INFO: Logando...
+
+
+16/7/2022 14:28:29 INFO: Carregando eventos... 
+16/7/2022 14:28:29 INFO Eventos carregados.
+16/7/2022 14:28:29 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:28:29 INFO: Configurando Intents
+16/7/2022 14:28:29 INFO: Logando...
+16/7/2022 14:33:14 INFO: Configurando Intents
+
+
+16/7/2022 14:33:15 INFO: Carregando eventos... 
+16/7/2022 14:33:15 INFO Eventos carregados.
+16/7/2022 14:33:15 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:33:14 INFO: Logando...
+
+
+16/7/2022 14:36:1 INFO: Carregando eventos... 
+16/7/2022 14:36:1 INFO Eventos carregados.
+16/7/2022 14:36:1 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:36:1 INFO: Configurando Intents
+16/7/2022 14:36:1 INFO: Logando...
+16/7/2022 14:36:16 INFO: Configurando Intents
+
+
+16/7/2022 14:36:16 INFO: Carregando eventos... 
+16/7/2022 14:36:16 INFO Eventos carregados.
+16/7/2022 14:36:16 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:36:16 INFO: Logando...
+
+
+16/7/2022 14:36:37 INFO: Carregando eventos... 
+16/7/2022 14:36:37 INFO Eventos carregados.
+16/7/2022 14:36:37 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:36:37 INFO: Configurando Intents
+16/7/2022 14:36:37 INFO: Logando...
+16/7/2022 14:36:50 INFO: Configurando Intents
+
+
+16/7/2022 14:36:50 INFO: Carregando eventos... 
+16/7/2022 14:36:50 INFO Eventos carregados.
+16/7/2022 14:36:50 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:36:50 INFO: Logando...
+
+
+16/7/2022 14:37:38 INFO: Carregando eventos... 
+16/7/2022 14:37:38 INFO Eventos carregados.
+16/7/2022 14:37:38 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:37:38 INFO: Configurando Intents
+16/7/2022 14:37:38 INFO: Logando...
+16/7/2022 14:39:43 INFO: Configurando Intents
+
+
+16/7/2022 14:39:43 INFO: Carregando eventos... 
+16/7/2022 14:39:43 INFO Eventos carregados.
+16/7/2022 14:39:43 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:39:43 INFO: Logando...
+
+
+16/7/2022 14:44:13 INFO: Carregando eventos... 
+16/7/2022 14:44:13 INFO Eventos carregados.
+16/7/2022 14:44:13 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:44:13 INFO: Configurando Intents
+16/7/2022 14:44:13 INFO: Logando...
+16/7/2022 14:45:27 INFO: Configurando Intents
+
+
+16/7/2022 14:45:27 INFO: Carregando eventos... 
+16/7/2022 14:45:27 INFO Eventos carregados.
+16/7/2022 14:45:27 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:45:27 INFO: Logando...
+
+16/7/2022 14:51:9 INFO: Configurando Intents
+
+16/7/2022 14:51:10 INFO: Carregando eventos... 
+16/7/2022 14:51:10 INFO Eventos carregados.
+16/7/2022 14:51:10 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:51:9 INFO: Logando...
+16/7/2022 14:53:50 INFO: Configurando Intents
+
+
+16/7/2022 14:53:50 INFO: Carregando eventos... 
+16/7/2022 14:53:50 INFO Eventos carregados.
+16/7/2022 14:53:50 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:53:50 INFO: Logando...
+16/7/2022 14:54:9 INFO: Configurando Intents
+
+
+16/7/2022 14:54:9 INFO: Carregando eventos... 
+16/7/2022 14:54:9 INFO Eventos carregados.
+16/7/2022 14:54:9 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:54:9 INFO: Logando...
+16/7/2022 14:56:1 INFO: Configurando Intents
+
+
+16/7/2022 14:56:1 INFO: Carregando eventos... 
+16/7/2022 14:56:1 INFO Eventos carregados.
+16/7/2022 14:56:1 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 14:56:1 INFO: Logando...
+16/7/2022 15:0:3 INFO: Configurando Intents
+
+
+16/7/2022 15:0:3 INFO: Carregando eventos... 
+16/7/2022 15:0:3 INFO Eventos carregados.
+16/7/2022 15:0:3 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 15:0:3 INFO: Logando...
+
+
+16/7/2022 15:0:30 INFO: Carregando eventos... 
+16/7/2022 15:0:30 INFO Eventos carregados.
+16/7/2022 15:0:30 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 15:0:30 INFO: Configurando Intents
+16/7/2022 15:0:30 INFO: Logando...
+16/7/2022 15:13:5 INFO: Configurando Intents
+
+
+16/7/2022 15:13:5 INFO: Carregando eventos... 
+16/7/2022 15:13:5 INFO Eventos carregados.
+16/7/2022 15:13:5 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 15:13:5 INFO: Logando...
+16/7/2022 20:18:41 INFO: Configurando Intents
+
+
+16/7/2022 20:18:41 INFO: Carregando eventos... 
+16/7/2022 20:18:41 INFO Eventos carregados.
+16/7/2022 20:18:41 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 20:18:41 INFO: Logando...
+16/7/2022 20:19:10 INFO: Configurando Intents
+
+
+16/7/2022 20:19:10 INFO: Carregando eventos... 
+16/7/2022 20:19:10 INFO Eventos carregados.
+16/7/2022 20:19:10 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 20:19:10 INFO: Logando...
+16/7/2022 20:21:24 INFO: Configurando Intents
+
+
+16/7/2022 20:21:25 INFO: Carregando eventos... 
+16/7/2022 20:21:25 INFO Eventos carregados.
+16/7/2022 20:21:25 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 20:21:24 INFO: Logando...
+16/7/2022 20:22:12 INFO: Configurando Intents
+
+
+16/7/2022 20:22:12 INFO: Carregando eventos... 
+16/7/2022 20:22:12 INFO Eventos carregados.
+16/7/2022 20:22:12 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 20:22:12 INFO: Logando...
+16/7/2022 20:23:18 INFO: Configurando Intents
+
+
+16/7/2022 20:23:18 INFO: Carregando eventos... 
+16/7/2022 20:23:18 INFO Eventos carregados.
+16/7/2022 20:23:18 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 20:23:18 INFO: Logando...
+16/7/2022 20:26:8 INFO: Configurando Intents
+
+
+16/7/2022 20:26:8 INFO: Carregando eventos... 
+16/7/2022 20:26:8 INFO Eventos carregados.
+16/7/2022 20:26:8 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 20:26:8 INFO: Logando...
+16/7/2022 20:27:3 INFO: Configurando Intents
+
+
+16/7/2022 20:27:4 INFO: Carregando eventos... 
+16/7/2022 20:27:4 INFO Eventos carregados.
+16/7/2022 20:27:4 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 20:27:3 INFO: Logando...
+16/7/2022 20:28:11 INFO: Configurando Intents
+
+
+16/7/2022 20:28:11 INFO: Carregando eventos... 
+16/7/2022 20:28:11 INFO Eventos carregados.
+16/7/2022 20:28:11 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 20:28:11 INFO: Logando...
+16/7/2022 20:29:49 INFO: Configurando Intents
+
+
+16/7/2022 20:29:49 INFO: Carregando eventos... 
+16/7/2022 20:29:49 INFO Eventos carregados.
+16/7/2022 20:29:49 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+16/7/2022 20:29:49 INFO: Logando...
+16/7/2022 20:29:53 INFO: [TrackAdd] musica Gabriel O Pensador - 2345MEIA78 (Video Clip) foi adicionada na fila
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Gabriel O Pensador - 2345MEIA78 (Video Clip) by GabrielOPensadorVEVO começou a tocar no canal 🎮┇Jogos
+16/7/2022 20:29:53 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+16/7/2022 20:29:53 INFO: [TrackAdd] musica MC ANJIM - AQUELE TAL COMBINADO (CLIPE OFICIAL) Doug FIlmes Hits foi adicionada na fila
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on  error
+>> ERROR CHANNEL:  🎮┇Jogos
+>> ERROR MESSAGE:  Status code: 410
+>> ERROR GENERAL:  Error: Status code: 410
+
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on connection error
+>> ERROR CHANNEL:  🎮┇Jogos
+>> ERROR MESSAGE:  [PlayerError] Cannot play a resource that has already ended.
+>> ERROR GENERAL:  PlayerError: [PlayerError] Cannot play a resource that has already ended.
+    at new PlayerError (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\Structures\PlayerError.js:28:15)
+    at StreamDispatcher.<anonymous> (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\VoiceInterface\StreamDispatcher.js:178:48)
+    at Generator.next (<anonymous>)
+    at C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\tslib\tslib.js:118:75
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\tslib\tslib.js:114:16)
+    at StreamDispatcher.playStream (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\VoiceInterface\StreamDispatcher.js:174:38)
+    at Timeout._onTimeout (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\Structures\Queue.js:714:33)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+
+16/7/2022 20:29:53 INFO: [TrackAdd] musica MC ANJIM - AQUELE TAL COMBINADO (CLIPE OFICIAL) Doug FIlmes Hits foi adicionada na fila
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on  error
+>> ERROR CHANNEL:  🎮┇Jogos
+>> ERROR MESSAGE:  Status code: 410
+>> ERROR GENERAL:  Error: Status code: 410
+
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on connection error
+>> ERROR CHANNEL:  🎮┇Jogos
+>> ERROR MESSAGE:  [PlayerError] Cannot play a resource that has already ended.
+>> ERROR GENERAL:  PlayerError: [PlayerError] Cannot play a resource that has already ended.
+    at new PlayerError (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\Structures\PlayerError.js:28:15)
+    at StreamDispatcher.<anonymous> (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\VoiceInterface\StreamDispatcher.js:178:48)
+    at Generator.next (<anonymous>)
+    at C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\tslib\tslib.js:118:75
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\tslib\tslib.js:114:16)
+    at StreamDispatcher.playStream (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\VoiceInterface\StreamDispatcher.js:174:38)
+    at Timeout._onTimeout (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\Structures\Queue.js:714:33)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+
+16/7/2022 20:29:53 INFO: [TrackAdd] musica Imagine Dragons - Sharks (Official Lyric Video) foi adicionada na fila
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Imagine Dragons - Sharks (Official Lyric Video) by ImagineDragons começou a tocar no canal 🎮┇Jogos
+16/7/2022 20:29:53 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+16/7/2022 20:29:53 INFO: [TrackAdd] musica MC ANJIM - AQUELE TAL COMBINADO (CLIPE OFICIAL) Doug FIlmes Hits foi adicionada na fila
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on  error
+>> ERROR CHANNEL:  🎮┇Jogos
+>> ERROR MESSAGE:  Status code: 410
+>> ERROR GENERAL:  Error: Status code: 410
+
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on connection error
+>> ERROR CHANNEL:  🎮┇Jogos
+>> ERROR MESSAGE:  [PlayerError] Cannot play a resource that has already ended.
+>> ERROR GENERAL:  PlayerError: [PlayerError] Cannot play a resource that has already ended.
+    at new PlayerError (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\Structures\PlayerError.js:28:15)
+    at StreamDispatcher.<anonymous> (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\VoiceInterface\StreamDispatcher.js:178:48)
+    at Generator.next (<anonymous>)
+    at C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\tslib\tslib.js:118:75
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\tslib\tslib.js:114:16)
+    at StreamDispatcher.playStream (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\VoiceInterface\StreamDispatcher.js:174:38)
+    at Timeout._onTimeout (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\Structures\Queue.js:714:33)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+
+16/7/2022 20:29:53 INFO: [TrackAdd] musica MC ANJIM - AQUELE TAL COMBINADO (CLIPE OFICIAL) Doug FIlmes Hits foi adicionada na fila
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on  error
+>> ERROR CHANNEL:  🎮┇Jogos
+>> ERROR MESSAGE:  Status code: 410
+>> ERROR GENERAL:  Error: Status code: 410
+
+<<---------------- NEW ERROR ----------------->>
+>> ERROR TRIGGER:  player.on connection error
+>> ERROR CHANNEL:  🎮┇Jogos
+>> ERROR MESSAGE:  [PlayerError] Cannot play a resource that has already ended.
+>> ERROR GENERAL:  PlayerError: [PlayerError] Cannot play a resource that has already ended.
+    at new PlayerError (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\Structures\PlayerError.js:28:15)
+    at StreamDispatcher.<anonymous> (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\VoiceInterface\StreamDispatcher.js:178:48)
+    at Generator.next (<anonymous>)
+    at C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\tslib\tslib.js:118:75
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\tslib\tslib.js:114:16)
+    at StreamDispatcher.playStream (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\VoiceInterface\StreamDispatcher.js:174:38)
+    at Timeout._onTimeout (C:\Users\claud\Desktop\Bot\Music-bot-master\node_modules\discord-player\dist\Structures\Queue.js:714:33)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+
+16/7/2022 20:29:53 INFO: [TrackAdd] musica MC ANJIM - COLEÇÃOZINHA DE PUTA (CLIPE OFICIAL) Doug Filmes foi adicionada na fila
+16/7/2022 20:29:53 INFO: [TrackStart] Musica MC ANJIM - COLEÇÃOZINHA DE PUTA (CLIPE OFICIAL) Doug Filmes by Doug Hits começou a tocar no canal 🎮┇Jogos
+16/7/2022 20:29:53 INFO: [TrackAdd] musica Rave da Meduza (Remix) foi adicionada na fila
+16/7/2022 20:29:53 INFO: [TrackAdd] musica Avenged Sevenfold - A Little Piece Of Heaven [Official Music Video] foi adicionada na fila
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Rave da Meduza (Remix) by DJ W-BEATZ começou a tocar no canal 🎮┇Jogos
+16/7/2022 20:29:53 INFO: [TrackAdd] musica Eu sou 157 - Racionais Mcs foi adicionada na fila
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Avenged Sevenfold - A Little Piece Of Heaven [Official Music Video] by Avenged Sevenfold começou a tocar no canal 🎮┇Jogos
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Eu sou 157 - Racionais Mcs by Andre Coutinho começou a tocar no canal 🎮┇Jogos
+16/7/2022 20:29:53 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+16/7/2022 20:29:53 INFO: [TrackAdd] musica Gabriel o Pensador - 2345meia78 foi adicionada na fila
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Gabriel o Pensador - 2345meia78 by Gabriel o Pensador começou a tocar no canal 🎮┇Jogos
+16/7/2022 20:29:53 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+16/7/2022 20:29:53 INFO: [TrackAdd] musica Gabriel O Pensador - 2345MEIA78 (Video Clip) foi adicionada na fila
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Gabriel O Pensador - 2345MEIA78 (Video Clip) by GabrielOPensadorVEVO começou a tocar no canal 🎮┇Jogos
+16/7/2022 20:29:53 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Three Days Grace - Riot (Audio) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Three Days Grace - Riot (Audio) by Three Days Grace começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Ashes Remain - Unbroken (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackAdd] musica suck a nigga dick meme foi adicionada na fila
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Ghost - Square Hammer (Official Music Video) by Ghost começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackAdd] musica LUCKHAOS - Não-binários me amam (Clipe Oficial) foi adicionada na fila
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Nickelback - How You Remind Me by Nickelback começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Thousand Foot Krutch: We Are (Official Audio) by Thousand Foot Krutch começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Icon for Hire - Make a Move (with lyrics) by Kim Reyes começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Unsainted by Slipknot começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica 21 Guns by Green Day começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Broken Glass by Three Days Grace começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica The Diary of Jane by Breaking Benjamin começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Painkiller by Three Days Grace começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Ashes Remain - Without You (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Predator | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica I Am The Weapon by Three Days Grace começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Three Days Grace - Explosions (Visualizer) by Three Days Grace começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica World so Cold by Three Days Grace começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Pentakill - Lightbringer [OFFICIAL AUDIO] | League of Legends Music by League of Legends começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Never Too Late by Three Days Grace começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Before I Forget by Slipknot começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Break by Three Days Grace começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Life Starts Now by Three Days Grace começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Duality by Slipknot começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Thousand Foot Krutch: Courtesy Call (Official Audio) by Thousand Foot Krutch começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Three Days Grace - Champion (Visualizer) by Three Days Grace começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica World So Cold by 12stonesvideo começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Lost Chapter | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica The Devil in I by Slipknot começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Thousand Foot Krutch: Let The Sparks Fly (Official Audio) by Thousand Foot Krutch começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Holiday / Boulevard of Broken Dreams by Green Day começou a tocar no canal 🥵┇GF
+16/7/2022 20:29:53 INFO: [TrackStart] Musica Gone Forever by Three Days Grace começou a tocar no canal 🥵┇GF
+
+17/7/2022 12:50:56 INFO: Configurando Intents
+
+17/7/2022 12:50:56 INFO: Carregando eventos... 
+17/7/2022 12:50:56 INFO Eventos carregados.
+17/7/2022 12:50:56 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+17/7/2022 12:50:56 INFO: Logando...
+18/7/2022 13:17:57 INFO: Configurando Intents
+
+
+18/7/2022 13:17:57 INFO: Carregando eventos... 
+18/7/2022 13:17:57 INFO Eventos carregados.
+18/7/2022 13:17:57 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+18/7/2022 13:17:57 INFO: Logando...
+19/7/2022 12:47:46 INFO: Configurando Intents
+
+
+19/7/2022 12:47:47 INFO: Carregando eventos... 
+19/7/2022 12:47:47 INFO Eventos carregados.
+19/7/2022 12:47:47 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+19/7/2022 12:47:46 INFO: Logando...
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Three Days Grace - Riot (Audio) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica I Am Machine by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica I Am The Weapon by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Unbreakable Heart by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ashes Remain - On My Own (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ashes Remain - End Of Me (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Take It Out On Me by Thousand Foot Krutch começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Unsainted by Slipknot começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Breaking Benjamin - Angels Fall (Official Lyric Video) by Breaking Benjamin começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Thousand Foot Krutch: Let The Sparks Fly (Official Audio) by Thousand Foot Krutch começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Holiday / Boulevard of Broken Dreams by Green Day começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Predator | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Break by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica World So Cold by 12stonesvideo começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Conqueror | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Nero Forte by Slipknot começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Broken Glass by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ghost - Square Hammer (Official Music Video) by Ghost começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Dance With The Devil by Breaking Benjamin começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Three Days Grace - Explosions (Visualizer) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica World so Cold by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ashes Remain - Without You (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Duality by Slipknot começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackAdd] musica Redemption | Pentakill III: Lost Chapter | Riot Games Music foi adicionada na fila
+19/7/2022 12:47:58 INFO: [TrackAdd] musica Redemption | Pentakill III: Lost Chapter | Riot Games Music foi adicionada na fila
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Redemption | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Three Days Grace - Riot (Audio) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ashes Remain - End Of Me (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ashes Remain - Right Here (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ashes Remain - Without You (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ashes Remain - Unbroken (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ashes Remain - On My Own (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Thousand Foot Krutch: Courtesy Call (Official Audio) by Thousand Foot Krutch começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Lost Chapter | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Predator | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Conqueror | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Dance With The Devil by Breaking Benjamin começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackAdd] musica Bleed It Out [Official Music Video] - Linkin Park foi adicionada na fila
+19/7/2022 12:47:58 INFO: [TrackAdd] musica Breaking The Habit [Official Music Video] - Linkin Park foi adicionada na fila
+19/7/2022 12:47:58 INFO: [TrackStart] Musica The Diary of Jane by Breaking Benjamin começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Broken Glass by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Three Days Grace - Champion (Visualizer) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ghost - Square Hammer (Official Music Video) by Ghost começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Icon for Hire - Make a Move (with lyrics) by Kim Reyes começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Breaking Benjamin - Angels Fall (Official Lyric Video) by Breaking Benjamin começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Take It Out On Me by Thousand Foot Krutch começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Life Starts Now by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Unbreakable Heart by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Broken Glass by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Unsainted by Slipknot começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Life Starts Now by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Skillet - "Feel Invincible" [Official Music Video] by Skillet começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Painkiller by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica World So Cold by 12stonesvideo começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Let It Die by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Breaking Benjamin - Angels Fall (Official Lyric Video) by Breaking Benjamin começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ashes Remain - Without You (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Three Days Grace - Riot (Audio) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica World So Cold by 12stonesvideo começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ashes Remain - Unbroken (Pseudo Video) by AshesRemainvideos começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica I Am Machine by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Ghost - Square Hammer (Official Music Video) by Ghost começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Never Too Late by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Holiday / Boulevard of Broken Dreams by Green Day começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Painkiller by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Skillet - "Feel Invincible" [Official Music Video] by Skillet começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Thousand Foot Krutch: Let The Sparks Fly (Official Audio) by Thousand Foot Krutch começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Before I Forget by Slipknot começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica I Am Machine by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Before I Forget by Slipknot começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Three Days Grace - Champion (Visualizer) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Thousand Foot Krutch: Courtesy Call (Official Audio) by Thousand Foot Krutch começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Gone Forever by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica I Am The Weapon by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Three Days Grace - Explosions (Visualizer) by Three Days Grace começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Unsainted by Slipknot começou a tocar no canal 🎮┇Jogos
+19/7/2022 12:47:58 INFO: [TrackStart] Musica Conqueror | Pentakill III: Lost Chapter | Riot Games Music by Riot Games Music começou a tocar no canal 🎮┇Jogos
+20/7/2022 13:11:47 INFO: Configurando Intents
+
+
+20/7/2022 13:11:47 INFO: Carregando eventos... 
+20/7/2022 13:11:47 INFO Eventos carregados.
+20/7/2022 13:11:47 INFO Carregando comandos...
+
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+${data} INFO Comandos carregados.
+20/7/2022 13:11:47 INFO: Logando...
+
+20/7/2022 23:26:36 INFO: Configurando Intents
+
+20/7/2022 23:26:36 INFO: Carregando eventos... 
+20/7/2022 23:26:36 INFO Eventos carregados.
+20/7/2022 23:26:36 INFO Carregando comandos...
+
+20/7/2022 23:26:36 INFO Comandos carregados.
+20/7/2022 23:26:36 INFO: Logando...
+20/7/2022 23:27:25 INFO: Configurando Intents
+
+
+20/7/2022 23:27:25 INFO: Carregando eventos... 
+20/7/2022 23:27:25 INFO Eventos carregados.
+20/7/2022 23:27:25 INFO Carregando comandos...
+
+20/7/2022 23:27:25 INFO Comandos carregados.
+20/7/2022 23:27:25 INFO: Logando...
+
+
+20/7/2022 23:35:48 INFO: Carregando eventos... 
+20/7/2022 23:35:48 INFO Eventos carregados.
+20/7/2022 23:35:48 INFO Carregando comandos...
+
+20/7/2022 23:35:48 INFO Comandos carregados.
+20/7/2022 23:35:47 INFO: Configurando Intents
+20/7/2022 23:35:47 INFO: Logando...
+20/7/2022 23:36:28 INFO: Configurando Intents
+20/7/2022 23:36:28 INFO: Logando...
+
+
+20/7/2022 23:36:28 INFO: Carregando eventos... 
+20/7/2022 23:36:28 INFO Eventos carregados.
+20/7/2022 23:36:28 INFO Carregando comandos...
+
+20/7/2022 23:36:28 INFO Comandos carregados.
+
+20/7/2022 23:36:42 INFO: Configurando Intents
+20/7/2022 23:36:42 INFO: Logando...
+
+20/7/2022 23:36:42 INFO: Carregando eventos... 
+20/7/2022 23:36:42 INFO Eventos carregados.
+20/7/2022 23:36:42 INFO Carregando comandos...
+
+20/7/2022 23:36:42 INFO Comandos carregados.
+20/7/2022 23:37:22 INFO: Configurando Intents
+
+
+20/7/2022 23:37:22 INFO: Carregando eventos... 
+20/7/2022 23:37:22 INFO Eventos carregados.
+20/7/2022 23:37:22 INFO Carregando comandos...
+
+20/7/2022 23:37:22 INFO Comandos carregados.
+20/7/2022 23:37:22 INFO: Logando...
+20/7/2022 23:37:48 INFO: Configurando Intents
+
+
+20/7/2022 23:37:48 INFO: Carregando eventos... 
+20/7/2022 23:37:48 INFO Eventos carregados.
+20/7/2022 23:37:48 INFO Carregando comandos...
+
+20/7/2022 23:37:48 INFO Comandos carregados.
+20/7/2022 23:37:48 INFO: Logando...
+20/7/2022 23:38:0 INFO: Configurando Intents
+
+
+20/7/2022 23:38:0 INFO: Carregando eventos... 
+20/7/2022 23:38:0 INFO Eventos carregados.
+20/7/2022 23:38:0 INFO Carregando comandos...
+
+20/7/2022 23:38:0 INFO Comandos carregados.
+20/7/2022 23:38:0 INFO: Logando...
+20/7/2022 23:38:25 INFO: Configurando Intents
+
+
+20/7/2022 23:38:25 INFO: Carregando eventos... 
+20/7/2022 23:38:25 INFO Eventos carregados.
+20/7/2022 23:38:25 INFO Carregando comandos...
+
+20/7/2022 23:38:25 INFO Comandos carregados.
+20/7/2022 23:38:25 INFO: Logando...
+20/7/2022 23:38:36 INFO: Configurando Intents
+
+
+20/7/2022 23:38:36 INFO: Carregando eventos... 
+20/7/2022 23:38:36 INFO Eventos carregados.
+20/7/2022 23:38:36 INFO Carregando comandos...
+
+20/7/2022 23:38:36 INFO Comandos carregados.
+20/7/2022 23:38:36 INFO: Logando...
+20/7/2022 23:38:45 INFO: Configurando Intents
+
+
+20/7/2022 23:38:45 INFO: Carregando eventos... 
+20/7/2022 23:38:45 INFO Eventos carregados.
+20/7/2022 23:38:45 INFO Carregando comandos...
+
+20/7/2022 23:38:45 INFO Comandos carregados.
+20/7/2022 23:38:45 INFO: Logando...
+
+
+20/7/2022 23:39:0 INFO: Carregando eventos... 
+20/7/2022 23:39:0 INFO Eventos carregados.
+20/7/2022 23:39:0 INFO Carregando comandos...
+
+20/7/2022 23:39:0 INFO Comandos carregados.
+20/7/2022 23:39:0 INFO: Configurando Intents
+20/7/2022 23:39:0 INFO: Logando...
+20/7/2022 23:39:35 INFO: Configurando Intents
+
+
+20/7/2022 23:39:35 INFO: Carregando eventos... 
+20/7/2022 23:39:35 INFO Eventos carregados.
+20/7/2022 23:39:35 INFO Carregando comandos...
+
+20/7/2022 23:39:35 INFO Comandos carregados.
+20/7/2022 23:39:35 INFO: Logando...
+20/7/2022 23:39:45 INFO: Configurando Intents
+
+
+20/7/2022 23:39:45 INFO: Carregando eventos... 
+20/7/2022 23:39:45 INFO Eventos carregados.
+20/7/2022 23:39:45 INFO Carregando comandos...
+
+20/7/2022 23:39:45 INFO Comandos carregados.
+20/7/2022 23:39:45 INFO: Logando...
+20/7/2022 23:40:53 INFO: Configurando Intents
+
+
+20/7/2022 23:40:53 INFO: Carregando eventos... 
+20/7/2022 23:40:53 INFO Eventos carregados.
+20/7/2022 23:40:53 INFO Carregando comandos...
+
+20/7/2022 23:40:53 INFO Comandos carregados.
+20/7/2022 23:40:53 INFO: Logando...
+
+
+20/7/2022 23:41:4 INFO: Carregando eventos... 
+20/7/2022 23:41:4 INFO Eventos carregados.
+20/7/2022 23:41:4 INFO Carregando comandos...
+
+20/7/2022 23:41:4 INFO Comandos carregados.
+20/7/2022 23:41:3 INFO: Configurando Intents
+20/7/2022 23:41:3 INFO: Logando...
+
+
+20/7/2022 23:42:57 INFO: Carregando eventos... 
+20/7/2022 23:42:57 INFO Eventos carregados.
+20/7/2022 23:42:57 INFO Carregando comandos...
+
+20/7/2022 23:42:57 INFO Comandos carregados.
+20/7/2022 23:42:57 INFO: Configurando Intents
+20/7/2022 23:42:57 INFO: Logando...
+20/7/2022 23:43:22 INFO: Configurando Intents
+
+
+20/7/2022 23:43:22 INFO: Carregando eventos... 
+20/7/2022 23:43:22 INFO Eventos carregados.
+20/7/2022 23:43:22 INFO Carregando comandos...
+
+20/7/2022 23:43:22 INFO Comandos carregados.
+20/7/2022 23:43:22 INFO: Logando...
+20/7/2022 23:43:42 INFO: Configurando Intents
+
+
+20/7/2022 23:43:42 INFO: Carregando eventos... 
+20/7/2022 23:43:42 INFO Eventos carregados.
+20/7/2022 23:43:42 INFO Carregando comandos...
+
+20/7/2022 23:43:42 INFO Comandos carregados.
+20/7/2022 23:43:42 INFO: Logando...
+
+
+20/7/2022 23:44:34 INFO: Carregando eventos... 
+20/7/2022 23:44:34 INFO Eventos carregados.
+20/7/2022 23:44:34 INFO Carregando comandos...
+
+20/7/2022 23:44:34 INFO Comandos carregados.
+20/7/2022 23:44:34 INFO: Configurando Intents
+20/7/2022 23:44:34 INFO: Logando...
+20/7/2022 23:45:11 INFO: Configurando Intents
+
+
+20/7/2022 23:45:11 INFO: Carregando eventos... 
+20/7/2022 23:45:11 INFO Eventos carregados.
+20/7/2022 23:45:11 INFO Carregando comandos...
+
+20/7/2022 23:45:11 INFO Comandos carregados.
+20/7/2022 23:45:11 INFO: Logando...
+20/7/2022 23:45:50 INFO: Configurando Intents
+
+
+20/7/2022 23:45:50 INFO: Carregando eventos... 
+20/7/2022 23:45:50 INFO Eventos carregados.
+20/7/2022 23:45:50 INFO Carregando comandos...
+
+20/7/2022 23:45:50 INFO Comandos carregados.
+20/7/2022 23:45:50 INFO: Logando...
+
+
+20/7/2022 23:46:8 INFO: Carregando eventos... 
+20/7/2022 23:46:8 INFO Eventos carregados.
+20/7/2022 23:46:8 INFO Carregando comandos...
+
+20/7/2022 23:46:8 INFO Comandos carregados.
+20/7/2022 23:46:8 INFO: Configurando Intents
+20/7/2022 23:46:8 INFO: Logando...
+
+
+20/7/2022 23:46:28 INFO: Carregando eventos... 
+20/7/2022 23:46:28 INFO Eventos carregados.
+20/7/2022 23:46:28 INFO Carregando comandos...
+
+20/7/2022 23:46:28 INFO Comandos carregados.
+20/7/2022 23:46:28 INFO: Configurando Intents
+20/7/2022 23:46:28 INFO: Logando...
+
+20/7/2022 23:47:48 INFO: Configurando Intents
+
+20/7/2022 23:47:48 INFO: Carregando eventos... 
+20/7/2022 23:47:48 INFO Eventos carregados.
+20/7/2022 23:47:48 INFO Carregando comandos...
+
+20/7/2022 23:47:48 INFO Comandos carregados.
+20/7/2022 23:47:48 INFO: Logando...
+20/7/2022 23:49:29 INFO: Configurando Intents
+
+
+20/7/2022 23:49:29 INFO: Carregando eventos... 
+20/7/2022 23:49:29 INFO Eventos carregados.
+20/7/2022 23:49:29 INFO Carregando comandos...
+
+20/7/2022 23:49:29 INFO Comandos carregados.
+20/7/2022 23:49:29 INFO: Logando...
+20/7/2022 23:49:39 INFO: Configurando Intents
+
+
+20/7/2022 23:49:39 INFO: Carregando eventos... 
+20/7/2022 23:49:39 INFO Eventos carregados.
+20/7/2022 23:49:39 INFO Carregando comandos...
+
+20/7/2022 23:49:39 INFO Comandos carregados.
+20/7/2022 23:49:39 INFO: Logando...
+
+
+20/7/2022 23:51:35 INFO: Carregando eventos... 
+20/7/2022 23:51:35 INFO Eventos carregados.
+20/7/2022 23:51:35 INFO Carregando comandos...
+
+20/7/2022 23:51:35 INFO Comandos carregados.
+20/7/2022 23:51:35 INFO: Configurando Intents
+20/7/2022 23:51:35 INFO: Logando...
+20/7/2022 23:52:13 INFO: Configurando Intents
+
+
+20/7/2022 23:52:13 INFO: Carregando eventos... 
+20/7/2022 23:52:13 INFO Eventos carregados.
+20/7/2022 23:52:13 INFO Carregando comandos...
+
+20/7/2022 23:52:13 INFO Comandos carregados.
+20/7/2022 23:52:13 INFO: Logando...
+
+20/7/2022 23:52:31 INFO: Configurando Intents
+
+20/7/2022 23:52:32 INFO: Carregando eventos... 
+20/7/2022 23:52:32 INFO Eventos carregados.
+20/7/2022 23:52:32 INFO Carregando comandos...
+
+20/7/2022 23:52:32 INFO Comandos carregados.
+20/7/2022 23:52:31 INFO: Logando...
+
+21/7/2022 0:0:2 INFO: Configurando Intents
+
+21/7/2022 0:0:2 INFO: Carregando eventos... 
+21/7/2022 0:0:2 INFO Eventos carregados.
+21/7/2022 0:0:2 INFO Carregando comandos...
+
+21/7/2022 0:0:2 INFO Comandos carregados.
+21/7/2022 0:0:2 INFO: Logando...
+21/7/2022 0:1:8 INFO: Configurando Intents
+
+
+21/7/2022 0:1:8 INFO: Carregando eventos... 
+21/7/2022 0:1:8 INFO Eventos carregados.
+21/7/2022 0:1:8 INFO Carregando comandos...
+
+21/7/2022 0:1:8 INFO Comandos carregados.
+21/7/2022 0:1:8 INFO: Logando...
+
+
+21/7/2022 0:4:53 INFO: Carregando eventos... 
+21/7/2022 0:4:53 INFO Eventos carregados.
+21/7/2022 0:4:53 INFO Carregando comandos...
+
+21/7/2022 0:4:53 INFO Comandos carregados.
+21/7/2022 0:4:53 INFO: Configurando Intents
+21/7/2022 0:4:53 INFO: Logando...
+21/7/2022 0:4:57 INFO: [TrackAdd] musica Fly Me To The Moon but it's jazzier \|\| Cover by Reinaeiry foi adicionada na fila
+21/7/2022 0:4:57 INFO: [TrackStart] Musica Fly Me To The Moon but it's jazzier \|\| Cover by Reinaeiry by Reinaeiry começou a tocar no canal 🔊Teste Voz
+21/7/2022 0:4:57 INFO: [QueueEnd] FILA FINALIZADA PELO USUARIO.
+
+21/7/2022 0:11:10 INFO: Configurando Intents
+
+21/7/2022 0:11:10 INFO: Carregando eventos... 
+21/7/2022 0:11:10 INFO Eventos carregados.
+21/7/2022 0:11:10 INFO Carregando comandos...
+
+21/7/2022 0:11:10 INFO Comandos carregados.
+21/7/2022 0:11:10 INFO: Logando...
+
+21/7/2022 0:11:48 INFO: Configurando Intents
+
+21/7/2022 0:11:48 INFO: Carregando eventos... 
+21/7/2022 0:11:48 INFO Eventos carregados.
+21/7/2022 0:11:48 INFO Carregando comandos...
+
+21/7/2022 0:11:48 INFO Comandos carregados.
+21/7/2022 0:11:48 INFO: Logando...
+21/7/2022 0:11:52 INFO: [TrackStart] Musica Sweet Child O' Mine by temp disabled começou a tocar no canal 🔊Teste Voz
+21/7/2022 0:14:4 INFO: Configurando Intents
+
+
+21/7/2022 0:14:4 INFO: Carregando eventos... 
+21/7/2022 0:14:4 INFO Eventos carregados.
+21/7/2022 0:14:4 INFO Carregando comandos...
+
+21/7/2022 0:14:4 INFO Comandos carregados.
+21/7/2022 0:14:4 INFO: Logando...
+21/7/2022 0:14:12 INFO: Configurando Intents
+
+
+21/7/2022 0:14:12 INFO: Carregando eventos... 
+21/7/2022 0:14:12 INFO Eventos carregados.
+21/7/2022 0:14:12 INFO Carregando comandos...
+
+21/7/2022 0:14:12 INFO Comandos carregados.
+21/7/2022 0:14:12 INFO: Logando...
+
+
+21/7/2022 0:14:40 INFO: Carregando eventos... 
+21/7/2022 0:14:40 INFO Eventos carregados.
+21/7/2022 0:14:40 INFO Carregando comandos...
+
+21/7/2022 0:14:40 INFO Comandos carregados.
+21/7/2022 0:14:40 INFO: Configurando Intents
+21/7/2022 0:14:40 INFO: Logando...
+21/7/2022 0:15:18 INFO: Configurando Intents
+
+
+21/7/2022 0:15:18 INFO: Carregando eventos... 
+21/7/2022 0:15:18 INFO Eventos carregados.
+21/7/2022 0:15:18 INFO Carregando comandos...
+
+21/7/2022 0:15:18 INFO Comandos carregados.
+21/7/2022 0:15:18 INFO: Logando...
+21/7/2022 0:15:49 INFO: Configurando Intents
+
+
+21/7/2022 0:15:49 INFO: Carregando eventos... 
+21/7/2022 0:15:49 INFO Eventos carregados.
+21/7/2022 0:15:49 INFO Carregando comandos...
+
+21/7/2022 0:15:49 INFO Comandos carregados.
+21/7/2022 0:15:49 INFO: Logando...
+
+
+21/7/2022 0:16:15 INFO: Carregando eventos... 
+21/7/2022 0:16:15 INFO Eventos carregados.
+21/7/2022 0:16:15 INFO Carregando comandos...
+
+21/7/2022 0:16:15 INFO Comandos carregados.
+21/7/2022 0:16:15 INFO: Configurando Intents
+21/7/2022 0:16:15 INFO: Logando...
+21/7/2022 0:16:58 INFO: Configurando Intents
+
+
+21/7/2022 0:16:58 INFO: Carregando eventos... 
+21/7/2022 0:16:58 INFO Eventos carregados.
+21/7/2022 0:16:58 INFO Carregando comandos...
+
+21/7/2022 0:16:58 INFO Comandos carregados.
+21/7/2022 0:16:58 INFO: Logando...
+21/7/2022 0:17:22 INFO: Configurando Intents
+
+
+21/7/2022 0:17:23 INFO: Carregando eventos... 
+21/7/2022 0:17:23 INFO Eventos carregados.
+21/7/2022 0:17:23 INFO Carregando comandos...
+
+21/7/2022 0:17:23 INFO Comandos carregados.
+21/7/2022 0:17:22 INFO: Logando...
+21/7/2022 0:23:54 INFO: Configurando Intents
+
+
+21/7/2022 0:23:54 INFO: Carregando eventos... 
+21/7/2022 0:23:54 INFO Eventos carregados.
+21/7/2022 0:23:54 INFO Carregando comandos...
+
+21/7/2022 0:23:54 INFO Comandos carregados.
+21/7/2022 0:23:54 INFO: Logando...
+21/7/2022 0:27:10 INFO: Configurando Intents
+
+
+21/7/2022 0:27:10 INFO: Carregando eventos... 
+21/7/2022 0:27:10 INFO Eventos carregados.
+21/7/2022 0:27:10 INFO Carregando comandos...
+
+21/7/2022 0:27:10 INFO Comandos carregados.
+21/7/2022 0:27:10 INFO: Logando...
+21/7/2022 0:28:15 INFO: Configurando Intents
+
+
+21/7/2022 0:28:15 INFO: Carregando eventos... 
+21/7/2022 0:28:15 INFO Eventos carregados.
+21/7/2022 0:28:15 INFO Carregando comandos...
+
+21/7/2022 0:28:15 INFO Comandos carregados.
+21/7/2022 0:28:15 INFO: Logando...
+21/7/2022 12:47:25 INFO: Configurando Intents
+
+
+21/7/2022 12:47:28 INFO: Carregando eventos... 
+21/7/2022 12:47:28 INFO Eventos carregados.
+21/7/2022 12:47:28 INFO Carregando comandos...
+
+21/7/2022 12:47:28 INFO Comandos carregados.
+21/7/2022 12:47:25 INFO: Logando...
+21/7/2022 16:51:3 INFO: Configurando Intents
+
+
+21/7/2022 16:51:4 INFO: Carregando eventos... 
+21/7/2022 16:51:4 INFO Eventos carregados.
+21/7/2022 16:51:4 INFO Carregando comandos...
+
+21/7/2022 16:51:4 INFO Comandos carregados.
+21/7/2022 16:51:3 INFO: Logando...
+21/7/2022 16:52:26 INFO: Configurando Intents
+
+
+21/7/2022 16:52:26 INFO: Carregando eventos... 
+21/7/2022 16:52:26 INFO Eventos carregados.
+21/7/2022 16:52:26 INFO Carregando comandos...
+
+21/7/2022 16:52:26 INFO Comandos carregados.
+21/7/2022 16:52:26 INFO: Logando...
+21/7/2022 16:53:52 INFO: Configurando Intents
+
+
+21/7/2022 16:53:52 INFO: Carregando eventos... 
+21/7/2022 16:53:52 INFO Eventos carregados.
+21/7/2022 16:53:52 INFO Carregando comandos...
+
+21/7/2022 16:53:52 INFO Comandos carregados.
+21/7/2022 16:53:52 INFO: Logando...
+21/7/2022 16:54:59 INFO: Configurando Intents
+
+
+21/7/2022 16:54:59 INFO: Carregando eventos... 
+21/7/2022 16:54:59 INFO Eventos carregados.
+21/7/2022 16:54:59 INFO Carregando comandos...
+
+21/7/2022 16:54:59 INFO Comandos carregados.
+21/7/2022 16:54:59 INFO: Logando...
+21/7/2022 16:56:10 INFO: Configurando Intents
+
+
+21/7/2022 16:56:10 INFO: Carregando eventos... 
+21/7/2022 16:56:10 INFO Eventos carregados.
+21/7/2022 16:56:10 INFO Carregando comandos...
+
+21/7/2022 16:56:10 INFO Comandos carregados.
+21/7/2022 16:56:10 INFO: Logando...
+21/7/2022 16:57:20 INFO: Configurando Intents
+
+
+21/7/2022 16:57:20 INFO: Carregando eventos... 
+21/7/2022 16:57:20 INFO Eventos carregados.
+21/7/2022 16:57:20 INFO Carregando comandos...
+
+21/7/2022 16:57:20 INFO Comandos carregados.
+21/7/2022 16:57:20 INFO: Logando...
+21/7/2022 16:57:34 INFO: Configurando Intents
+
+
+21/7/2022 16:57:34 INFO: Carregando eventos... 
+21/7/2022 16:57:34 INFO Eventos carregados.
+21/7/2022 16:57:34 INFO Carregando comandos...
+
+21/7/2022 16:57:34 INFO Comandos carregados.
+21/7/2022 16:57:34 INFO: Logando...
+
+
+21/7/2022 16:58:15 INFO: Carregando eventos... 
+21/7/2022 16:58:15 INFO Eventos carregados.
+21/7/2022 16:58:15 INFO Carregando comandos...
+
+21/7/2022 16:58:15 INFO Comandos carregados.
+21/7/2022 16:58:15 INFO: Configurando Intents
+21/7/2022 16:58:15 INFO: Logando...
+
+
+21/7/2022 17:2:14 INFO: Carregando eventos... 
+21/7/2022 17:2:14 INFO Eventos carregados.
+21/7/2022 17:2:14 INFO Carregando comandos...
+
+21/7/2022 17:2:14 INFO Comandos carregados.
+21/7/2022 17:2:13 INFO: Configurando Intents
+21/7/2022 17:2:13 INFO: Logando...
+
+
+21/7/2022 17:2:28 INFO: Carregando eventos... 
+21/7/2022 17:2:28 INFO Eventos carregados.
+21/7/2022 17:2:28 INFO Carregando comandos...
+
+21/7/2022 17:2:28 INFO Comandos carregados.
+21/7/2022 17:2:28 INFO: Configurando Intents
+21/7/2022 17:2:28 INFO: Logando...
+
+
+21/7/2022 17:15:50 INFO: Carregando eventos... 
+21/7/2022 17:15:50 INFO Eventos carregados.
+21/7/2022 17:15:50 INFO Carregando comandos...
+
+21/7/2022 17:15:50 INFO Comandos carregados.
+21/7/2022 17:15:50 INFO: Configurando Intents
+21/7/2022 17:15:50 INFO: Logando...
+
+
+21/7/2022 17:39:14 INFO: Carregando eventos... 
+21/7/2022 17:39:14 INFO Eventos carregados.
+21/7/2022 17:39:14 INFO Carregando comandos...
+
+21/7/2022 17:39:14 INFO Comandos carregados.
+21/7/2022 17:39:14 INFO: Configurando Intents
+21/7/2022 17:39:14 INFO: Logando...
+
+
+21/7/2022 17:39:31 INFO: Carregando eventos... 
+21/7/2022 17:39:31 INFO Eventos carregados.
+21/7/2022 17:39:31 INFO Carregando comandos...
+
+21/7/2022 17:39:31 INFO Comandos carregados.
+21/7/2022 17:39:31 INFO: Configurando Intents
+21/7/2022 17:39:31 INFO: Logando...
+21/7/2022 17:40:10 INFO: Configurando Intents
+
+
+21/7/2022 17:40:10 INFO: Carregando eventos... 
+21/7/2022 17:40:10 INFO Eventos carregados.
+21/7/2022 17:40:10 INFO Carregando comandos...
+
+21/7/2022 17:40:10 INFO Comandos carregados.
+21/7/2022 17:40:10 INFO: Logando...
+
+
+21/7/2022 17:44:7 INFO: Carregando eventos... 
+21/7/2022 17:44:7 INFO Eventos carregados.
+21/7/2022 17:44:7 INFO Carregando comandos...
+
+21/7/2022 17:44:7 INFO Comandos carregados.
+21/7/2022 17:44:7 INFO: Configurando Intents
+21/7/2022 17:44:7 INFO: Logando...
+21/7/2022 17:44:33 INFO: Configurando Intents
+
+
+21/7/2022 17:44:33 INFO: Carregando eventos... 
+21/7/2022 17:44:33 INFO Eventos carregados.
+21/7/2022 17:44:33 INFO Carregando comandos...
+
+21/7/2022 17:44:33 INFO Comandos carregados.
+21/7/2022 17:44:33 INFO: Logando...
+21/7/2022 17:45:56 INFO: Configurando Intents
+
+
+21/7/2022 17:45:56 INFO: Carregando eventos... 
+21/7/2022 17:45:56 INFO Eventos carregados.
+21/7/2022 17:45:56 INFO Carregando comandos...
+
+21/7/2022 17:45:56 INFO Comandos carregados.
+21/7/2022 17:45:56 INFO: Logando...
+21/7/2022 17:48:58 INFO: Configurando Intents
+
+
+21/7/2022 17:48:58 INFO: Carregando eventos... 
+21/7/2022 17:48:58 INFO Eventos carregados.
+21/7/2022 17:48:58 INFO Carregando comandos...
+
+21/7/2022 17:48:58 INFO Comandos carregados.
+21/7/2022 17:48:58 INFO: Logando...
+21/7/2022 17:51:13 INFO: Configurando Intents
+
+
+21/7/2022 17:51:13 INFO: Carregando eventos... 
+21/7/2022 17:51:13 INFO Eventos carregados.
+21/7/2022 17:51:13 INFO Carregando comandos...
+
+21/7/2022 17:51:13 INFO Comandos carregados.
+21/7/2022 17:51:13 INFO: Logando...
+21/7/2022 17:52:24 INFO: Configurando Intents
+
+
+21/7/2022 17:52:24 INFO: Carregando eventos... 
+21/7/2022 17:52:24 INFO Eventos carregados.
+21/7/2022 17:52:24 INFO Carregando comandos...
+
+21/7/2022 17:52:24 INFO Comandos carregados.
+21/7/2022 17:52:24 INFO: Logando...
+21/7/2022 17:56:49 INFO: Configurando Intents
+
+
+21/7/2022 17:56:50 INFO: Carregando eventos... 
+21/7/2022 17:56:50 INFO Eventos carregados.
+21/7/2022 17:56:50 INFO Carregando comandos...
+
+21/7/2022 17:56:50 INFO Comandos carregados.
+21/7/2022 17:56:49 INFO: Logando...
+21/7/2022 17:58:46 INFO: Configurando Intents
+
+
+21/7/2022 17:58:46 INFO: Carregando eventos... 
+21/7/2022 17:58:46 INFO Eventos carregados.
+21/7/2022 17:58:46 INFO Carregando comandos...
+
+21/7/2022 17:58:46 INFO Comandos carregados.
+21/7/2022 17:58:46 INFO: Logando...
+21/7/2022 18:11:0 INFO: Configurando Intents
+
+
+21/7/2022 18:11:0 INFO: Carregando eventos... 
+21/7/2022 18:11:0 INFO Eventos carregados.
+21/7/2022 18:11:0 INFO Carregando comandos...
+
+21/7/2022 18:11:0 INFO Comandos carregados.
+21/7/2022 18:11:0 INFO: Logando...
+21/7/2022 18:12:15 INFO: Configurando Intents
+
+
+21/7/2022 18:12:15 INFO: Carregando eventos... 
+21/7/2022 18:12:15 INFO Eventos carregados.
+21/7/2022 18:12:15 INFO Carregando comandos...
+
+21/7/2022 18:12:15 INFO Comandos carregados.
+21/7/2022 18:12:15 INFO: Logando...
+21/7/2022 18:13:2 INFO: Configurando Intents
+
+
+21/7/2022 18:13:2 INFO: Carregando eventos... 
+21/7/2022 18:13:2 INFO Eventos carregados.
+21/7/2022 18:13:2 INFO Carregando comandos...
+
+21/7/2022 18:13:2 INFO Comandos carregados.
+21/7/2022 18:13:2 INFO: Logando...
+21/7/2022 18:13:5 INFO: [TrackStart] Musica Bad Apple!! (English Remaster) by RichaadEB começou a tocar no canal 🎮┇Jogos
+21/7/2022 18:14:44 INFO: Configurando Intents
+
+
+21/7/2022 18:14:44 INFO: Carregando eventos... 
+21/7/2022 18:14:44 INFO Eventos carregados.
+21/7/2022 18:14:44 INFO Carregando comandos...
+
+21/7/2022 18:14:44 INFO Comandos carregados.
+21/7/2022 18:14:44 INFO: Logando...
+21/7/2022 18:14:47 INFO: [TrackStart] Musica Bad Apple!! (English Remaster) by RichaadEB começou a tocar no canal 🎮┇Jogos
+21/7/2022 18:14:47 INFO: [TrackStart] Musica Walk Em Down (feat. Roddy Ricch) by temp disabled começou a tocar no canal 🎮┇Jogos
+
+21/7/2022 18:17:55 INFO: Configurando Intents
+
+21/7/2022 18:17:55 INFO: Carregando eventos... 
+21/7/2022 18:17:55 INFO Eventos carregados.
+21/7/2022 18:17:55 INFO Carregando comandos...
+
+21/7/2022 18:17:55 INFO Comandos carregados.
+21/7/2022 18:17:55 INFO: Logando...
+21/7/2022 18:17:58 INFO: [TrackStart] Musica Walk Em Down (feat. Roddy Ricch) by temp disabled começou a tocar no canal 🎮┇Jogos
+21/7/2022 18:17:58 INFO: [TrackStart] Musica Jumpin' Jack by temp disabled começou a tocar no canal 🎮┇Jogos
+21/7/2022 18:23:22 INFO: Configurando Intents
+
+
+21/7/2022 18:23:22 INFO: Carregando eventos... 
+21/7/2022 18:23:22 INFO Eventos carregados.
+21/7/2022 18:23:22 INFO Carregando comandos...
+
+21/7/2022 18:23:22 INFO Comandos carregados.
+21/7/2022 18:23:22 INFO: Logando...
+21/7/2022 18:23:30 INFO: [TrackStart] Musica Walk Em Down (feat. Roddy Ricch) by temp disabled começou a tocar no canal 🎮┇Jogos
+21/7/2022 18:59:56 INFO: Configurando Intents
+
+
+21/7/2022 18:59:56 INFO: Carregando eventos... 
+21/7/2022 18:59:56 INFO Eventos carregados.
+21/7/2022 18:59:56 INFO Carregando comandos...
+
+21/7/2022 18:59:56 INFO Comandos carregados.
+21/7/2022 18:59:56 INFO: Logando...
+21/7/2022 19:0:51 INFO: Configurando Intents
+
+
+21/7/2022 19:0:51 INFO: Carregando eventos... 
+21/7/2022 19:0:51 INFO Eventos carregados.
+21/7/2022 19:0:51 INFO Carregando comandos...
+
+21/7/2022 19:0:51 INFO Comandos carregados.
+21/7/2022 19:0:51 INFO: Logando...
+
+
+21/7/2022 19:1:15 INFO: Carregando eventos... 
+21/7/2022 19:1:15 INFO Eventos carregados.
+21/7/2022 19:1:15 INFO Carregando comandos...
+
+21/7/2022 19:1:15 INFO Comandos carregados.
+21/7/2022 19:1:15 INFO: Configurando Intents
+21/7/2022 19:1:15 INFO: Logando...
+
+21/7/2022 19:14:8 INFO: Configurando Intents
+
+21/7/2022 19:14:8 INFO: Carregando eventos... 
+21/7/2022 19:14:8 INFO Eventos carregados.
+21/7/2022 19:14:8 INFO Carregando comandos...
+
+21/7/2022 19:14:8 INFO Comandos carregados.
+21/7/2022 19:14:8 INFO: Logando...
+21/7/2022 19:14:44 INFO: Configurando Intents
+
+
+21/7/2022 19:14:44 INFO: Carregando eventos... 
+21/7/2022 19:14:44 INFO Eventos carregados.
+21/7/2022 19:14:44 INFO Carregando comandos...
+
+21/7/2022 19:14:44 INFO Comandos carregados.
+21/7/2022 19:14:44 INFO: Logando...
+
+
+21/7/2022 19:15:4 INFO: Carregando eventos... 
+21/7/2022 19:15:4 INFO Eventos carregados.
+21/7/2022 19:15:4 INFO Carregando comandos...
+
+21/7/2022 19:15:4 INFO Comandos carregados.
+21/7/2022 19:15:4 INFO: Configurando Intents
+21/7/2022 19:15:4 INFO: Logando...
+21/7/2022 19:18:43 INFO: Configurando Intents
+
+
+21/7/2022 19:18:43 INFO: Carregando eventos... 
+21/7/2022 19:18:43 INFO Eventos carregados.
+21/7/2022 19:18:43 INFO Carregando comandos...
+
+21/7/2022 19:18:43 INFO Comandos carregados.
+21/7/2022 19:18:43 INFO: Logando...
+21/7/2022 19:22:51 INFO: Configurando Intents
+
+
+21/7/2022 19:22:51 INFO: Carregando eventos... 
+21/7/2022 19:22:51 INFO Eventos carregados.
+21/7/2022 19:22:51 INFO Carregando comandos...
+
+21/7/2022 19:22:51 INFO Comandos carregados.
+21/7/2022 19:22:51 INFO: Logando...
+21/7/2022 19:23:51 INFO: Configurando Intents
+
+
+21/7/2022 19:23:52 INFO: Carregando eventos... 
+21/7/2022 19:23:52 INFO Eventos carregados.
+21/7/2022 19:23:52 INFO Carregando comandos...
+
+21/7/2022 19:23:52 INFO Comandos carregados.
+21/7/2022 19:23:51 INFO: Logando...
+
+
+21/7/2022 19:24:52 INFO: Carregando eventos... 
+21/7/2022 19:24:52 INFO Eventos carregados.
+21/7/2022 19:24:52 INFO Carregando comandos...
+
+21/7/2022 19:24:52 INFO Comandos carregados.
+21/7/2022 19:24:52 INFO: Configurando Intents
+21/7/2022 19:24:52 INFO: Logando...
+21/7/2022 19:26:30 INFO: Configurando Intents
+
+
+21/7/2022 19:26:30 INFO: Carregando eventos... 
+21/7/2022 19:26:30 INFO Eventos carregados.
+21/7/2022 19:26:30 INFO Carregando comandos...
+
+21/7/2022 19:26:30 INFO Comandos carregados.
+21/7/2022 19:26:30 INFO: Logando...
+21/7/2022 19:29:4 INFO: Configurando Intents
+
+
+21/7/2022 19:29:4 INFO: Carregando eventos... 
+21/7/2022 19:29:4 INFO Eventos carregados.
+21/7/2022 19:29:4 INFO Carregando comandos...
+
+21/7/2022 19:29:4 INFO Comandos carregados.
+21/7/2022 19:29:4 INFO: Logando...
+21/7/2022 19:30:8 INFO: Configurando Intents
+
+
+21/7/2022 19:30:8 INFO: Carregando eventos... 
+21/7/2022 19:30:8 INFO Eventos carregados.
+21/7/2022 19:30:8 INFO Carregando comandos...
+
+21/7/2022 19:30:8 INFO Comandos carregados.
+21/7/2022 19:30:8 INFO: Logando...
+
+
+21/7/2022 19:30:48 INFO: Carregando eventos... 
+21/7/2022 19:30:48 INFO Eventos carregados.
+21/7/2022 19:30:48 INFO Carregando comandos...
+
+21/7/2022 19:30:48 INFO Comandos carregados.
+21/7/2022 19:30:48 INFO: Configurando Intents
+21/7/2022 19:30:48 INFO: Logando...
+21/7/2022 19:37:59 INFO: Configurando Intents
+
+
+21/7/2022 19:37:59 INFO: Carregando eventos... 
+21/7/2022 19:37:59 INFO Eventos carregados.
+21/7/2022 19:37:59 INFO Carregando comandos...
+
+21/7/2022 19:37:59 INFO Comandos carregados.
+21/7/2022 19:37:59 INFO: Logando...
+
+
+21/7/2022 19:40:23 INFO: Carregando eventos... 
+21/7/2022 19:40:23 INFO Eventos carregados.
+21/7/2022 19:40:23 INFO Carregando comandos...
+
+21/7/2022 19:40:23 INFO Comandos carregados.
+21/7/2022 19:40:23 INFO: Configurando Intents
+21/7/2022 19:40:23 INFO: Logando...
+21/7/2022 19:42:21 INFO: Configurando Intents
+
+
+21/7/2022 19:42:21 INFO: Carregando eventos... 
+21/7/2022 19:42:21 INFO Eventos carregados.
+21/7/2022 19:42:21 INFO Carregando comandos...
+
+21/7/2022 19:42:21 INFO Comandos carregados.
+21/7/2022 19:42:21 INFO: Logando...
+21/7/2022 19:43:3 INFO: Configurando Intents
+
+
+21/7/2022 19:43:3 INFO: Carregando eventos... 
+21/7/2022 19:43:3 INFO Eventos carregados.
+21/7/2022 19:43:3 INFO Carregando comandos...
+
+21/7/2022 19:43:3 INFO Comandos carregados.
+21/7/2022 19:43:3 INFO: Logando...
+
+
+21/7/2022 19:43:34 INFO: Carregando eventos... 
+21/7/2022 19:43:34 INFO Eventos carregados.
+21/7/2022 19:43:34 INFO Carregando comandos...
+
+21/7/2022 19:43:34 INFO Comandos carregados.
+21/7/2022 19:43:34 INFO: Configurando Intents
+21/7/2022 19:43:34 INFO: Logando...
+
+
+21/7/2022 19:45:44 INFO: Carregando eventos... 
+21/7/2022 19:45:44 INFO Eventos carregados.
+21/7/2022 19:45:44 INFO Carregando comandos...
+
+21/7/2022 19:45:44 INFO Comandos carregados.
+21/7/2022 19:45:44 INFO: Configurando Intents
+21/7/2022 19:45:44 INFO: Logando...
+21/7/2022 19:47:3 INFO: Configurando Intents
+
+
+21/7/2022 19:47:3 INFO: Carregando eventos... 
+21/7/2022 19:47:3 INFO Eventos carregados.
+21/7/2022 19:47:3 INFO Carregando comandos...
+
+21/7/2022 19:47:3 INFO Comandos carregados.
+21/7/2022 19:47:3 INFO: Logando...
+
+
+21/7/2022 19:48:2 INFO: Carregando eventos... 
+21/7/2022 19:48:2 INFO Eventos carregados.
+21/7/2022 19:48:2 INFO Carregando comandos...
+
+21/7/2022 19:48:2 INFO Comandos carregados.
+21/7/2022 19:48:2 INFO: Configurando Intents
+21/7/2022 19:48:2 INFO: Logando...
+
+
+21/7/2022 19:51:29 INFO: Carregando eventos... 
+21/7/2022 19:51:29 INFO Eventos carregados.
+21/7/2022 19:51:29 INFO Carregando comandos...
+
+21/7/2022 19:51:29 INFO Comandos carregados.
+21/7/2022 19:51:29 INFO: Configurando Intents
+21/7/2022 19:51:29 INFO: Logando...
+
+21/7/2022 19:52:44 INFO: Configurando Intents
+
+21/7/2022 19:52:44 INFO: Carregando eventos... 
+21/7/2022 19:52:44 INFO Eventos carregados.
+21/7/2022 19:52:44 INFO Carregando comandos...
+
+21/7/2022 19:52:44 INFO Comandos carregados.
+21/7/2022 19:52:44 INFO: Logando...
+21/7/2022 19:53:37 INFO: Configurando Intents
+
+
+21/7/2022 19:53:37 INFO: Carregando eventos... 
+21/7/2022 19:53:37 INFO Eventos carregados.
+21/7/2022 19:53:37 INFO Carregando comandos...
+
+21/7/2022 19:53:37 INFO Comandos carregados.
+21/7/2022 19:53:37 INFO: Logando...
+
+
+21/7/2022 20:2:30 INFO: Carregando eventos... 
+21/7/2022 20:2:30 INFO Eventos carregados.
+21/7/2022 20:2:30 INFO Carregando comandos...
+
+21/7/2022 20:2:30 INFO Comandos carregados.
+21/7/2022 20:2:30 INFO: Configurando Intents
+21/7/2022 20:2:30 INFO: Logando...
+
+
+21/7/2022 20:3:17 INFO: Carregando eventos... 
+21/7/2022 20:3:17 INFO Eventos carregados.
+21/7/2022 20:3:17 INFO Carregando comandos...
+
+21/7/2022 20:3:17 INFO Comandos carregados.
+21/7/2022 20:3:17 INFO: Configurando Intents
+21/7/2022 20:3:17 INFO: Logando...
+
+21/7/2022 20:3:56 INFO: Configurando Intents
+
+21/7/2022 20:3:56 INFO: Carregando eventos... 
+21/7/2022 20:3:56 INFO Eventos carregados.
+21/7/2022 20:3:56 INFO Carregando comandos...
+
+21/7/2022 20:3:56 INFO Comandos carregados.
+21/7/2022 20:3:56 INFO: Logando...
+21/7/2022 20:4:50 INFO: Configurando Intents
+
+
+21/7/2022 20:4:50 INFO: Carregando eventos... 
+21/7/2022 20:4:50 INFO Eventos carregados.
+21/7/2022 20:4:50 INFO Carregando comandos...
+
+21/7/2022 20:4:50 INFO Comandos carregados.
+21/7/2022 20:4:50 INFO: Logando...
+
+
+21/7/2022 20:5:36 INFO: Carregando eventos... 
+21/7/2022 20:5:36 INFO Eventos carregados.
+21/7/2022 20:5:36 INFO Carregando comandos...
+
+21/7/2022 20:5:36 INFO Comandos carregados.
+21/7/2022 20:5:36 INFO: Configurando Intents
+21/7/2022 20:5:36 INFO: Logando...
+21/7/2022 20:6:10 INFO: Configurando Intents
+
+
+21/7/2022 20:6:10 INFO: Carregando eventos... 
+21/7/2022 20:6:10 INFO Eventos carregados.
+21/7/2022 20:6:10 INFO Carregando comandos...
+
+21/7/2022 20:6:10 INFO Comandos carregados.
+21/7/2022 20:6:10 INFO: Logando...
+
+
+21/7/2022 20:7:14 INFO: Carregando eventos... 
+21/7/2022 20:7:14 INFO Eventos carregados.
+21/7/2022 20:7:14 INFO Carregando comandos...
+
+21/7/2022 20:7:14 INFO Comandos carregados.
+21/7/2022 20:7:14 INFO: Configurando Intents
+21/7/2022 20:7:14 INFO: Logando...
+
+
+21/7/2022 20:8:13 INFO: Carregando eventos... 
+21/7/2022 20:8:13 INFO Eventos carregados.
+21/7/2022 20:8:13 INFO Carregando comandos...
+
+21/7/2022 20:8:13 INFO Comandos carregados.
+21/7/2022 20:8:13 INFO: Configurando Intents
+21/7/2022 20:8:13 INFO: Logando...
+21/7/2022 20:9:12 INFO: Configurando Intents
+
+
+21/7/2022 20:9:12 INFO: Carregando eventos... 
+21/7/2022 20:9:12 INFO Eventos carregados.
+21/7/2022 20:9:12 INFO Carregando comandos...
+
+21/7/2022 20:9:12 INFO Comandos carregados.
+21/7/2022 20:9:12 INFO: Logando...
+21/7/2022 20:25:27 INFO: Configurando Intents
+
+
+21/7/2022 20:25:27 INFO: Carregando eventos... 
+21/7/2022 20:25:27 INFO Eventos carregados.
+21/7/2022 20:25:27 INFO Carregando comandos...
+
+21/7/2022 20:25:27 INFO Comandos carregados.
+21/7/2022 20:25:27 INFO: Logando...
+21/7/2022 20:26:33 INFO: Configurando Intents
+
+
+21/7/2022 20:26:33 INFO: Carregando eventos... 
+21/7/2022 20:26:33 INFO Eventos carregados.
+21/7/2022 20:26:33 INFO Carregando comandos...
+
+21/7/2022 20:26:33 INFO Comandos carregados.
+21/7/2022 20:26:33 INFO: Logando...
+
+
+21/7/2022 20:28:28 INFO: Carregando eventos... 
+21/7/2022 20:28:28 INFO Eventos carregados.
+21/7/2022 20:28:28 INFO Carregando comandos...
+
+21/7/2022 20:28:28 INFO Comandos carregados.
+21/7/2022 20:28:28 INFO: Configurando Intents
+21/7/2022 20:28:28 INFO: Logando...
+21/7/2022 22:57:52 INFO: Configurando Intents
+
+
+21/7/2022 22:57:52 INFO: Carregando eventos... 
+21/7/2022 22:57:52 INFO Eventos carregados.
+21/7/2022 22:57:52 INFO Carregando comandos...
+
+21/7/2022 22:57:52 INFO Comandos carregados.
+21/7/2022 22:57:52 INFO: Logando...
+21/7/2022 23:1:17 INFO: Configurando Intents
+
+
+21/7/2022 23:1:17 INFO: Carregando eventos... 
+21/7/2022 23:1:17 INFO Eventos carregados.
+21/7/2022 23:1:17 INFO Carregando comandos...
+
+21/7/2022 23:1:17 INFO Comandos carregados.
+21/7/2022 23:1:17 INFO: Logando...
+21/7/2022 23:3:27 INFO: Configurando Intents
+
+
+21/7/2022 23:3:27 INFO: Carregando eventos... 
+21/7/2022 23:3:27 INFO Eventos carregados.
+21/7/2022 23:3:27 INFO Carregando comandos...
+
+21/7/2022 23:3:27 INFO Comandos carregados.
+21/7/2022 23:3:27 INFO: Logando...
+21/7/2022 23:11:27 INFO: Configurando Intents
+
+
+21/7/2022 23:11:28 INFO: Carregando eventos... 
+21/7/2022 23:11:28 INFO Eventos carregados.
+21/7/2022 23:11:28 INFO Carregando comandos...
+
+21/7/2022 23:11:28 INFO Comandos carregados.
+21/7/2022 23:11:27 INFO: Logando...
+
+21/7/2022 23:15:58 INFO: Configurando Intents
+
+21/7/2022 23:15:58 INFO: Carregando eventos... 
+21/7/2022 23:15:58 INFO Eventos carregados.
+21/7/2022 23:15:58 INFO Carregando comandos...
+
+21/7/2022 23:15:58 INFO Comandos carregados.
+21/7/2022 23:15:58 INFO: Logando...
+21/7/2022 23:23:33 INFO: Configurando Intents
+
+
+21/7/2022 23:23:33 INFO: Carregando eventos... 
+21/7/2022 23:23:33 INFO Eventos carregados.
+21/7/2022 23:23:33 INFO Carregando comandos...
+
+21/7/2022 23:23:33 INFO Comandos carregados.
+21/7/2022 23:23:33 INFO: Logando...
+22/7/2022 0:30:3 INFO: Configurando Intents
+
+
+22/7/2022 0:30:3 INFO: Carregando eventos... 
+22/7/2022 0:30:3 INFO Eventos carregados.
+22/7/2022 0:30:3 INFO Carregando comandos...
+
+22/7/2022 0:30:3 INFO Comandos carregados.
+22/7/2022 0:30:3 INFO: Logando...
+22/7/2022 0:31:47 INFO: Configurando Intents
+
+
+22/7/2022 0:31:48 INFO: Carregando eventos... 
+22/7/2022 0:31:48 INFO Eventos carregados.
+22/7/2022 0:31:48 INFO Carregando comandos...
+
+22/7/2022 0:31:48 INFO Comandos carregados.
+22/7/2022 0:31:47 INFO: Logando...
+
+
+22/7/2022 0:33:5 INFO: Carregando eventos... 
+22/7/2022 0:33:5 INFO Eventos carregados.
+22/7/2022 0:33:5 INFO Carregando comandos...
+
+22/7/2022 0:33:5 INFO Comandos carregados.
+22/7/2022 0:33:5 INFO: Configurando Intents
+22/7/2022 0:33:5 INFO: Logando...
+22/7/2022 0:40:33 INFO: Configurando Intents
+
+
+22/7/2022 0:40:34 INFO: Carregando eventos... 
+22/7/2022 0:40:34 INFO Eventos carregados.
+22/7/2022 0:40:34 INFO Carregando comandos...
+
+22/7/2022 0:40:34 INFO Comandos carregados.
+22/7/2022 0:40:33 INFO: Logando...
+22/7/2022 0:41:48 INFO: Configurando Intents
+
+
+22/7/2022 0:41:48 INFO: Carregando eventos... 
+22/7/2022 0:41:48 INFO Eventos carregados.
+22/7/2022 0:41:48 INFO Carregando comandos...
+
+22/7/2022 0:41:48 INFO Comandos carregados.
+22/7/2022 0:41:48 INFO: Logando...
+22/7/2022 0:42:7 INFO: Configurando Intents
+
+
+22/7/2022 0:42:7 INFO: Carregando eventos... 
+22/7/2022 0:42:7 INFO Eventos carregados.
+22/7/2022 0:42:7 INFO Carregando comandos...
+
+22/7/2022 0:42:7 INFO Comandos carregados.
+22/7/2022 0:42:7 INFO: Logando...
+22/7/2022 0:45:22 INFO: Configurando Intents
+
+
+22/7/2022 0:45:22 INFO: Carregando eventos... 
+22/7/2022 0:45:22 INFO Eventos carregados.
+22/7/2022 0:45:22 INFO Carregando comandos...
+
+22/7/2022 0:45:22 INFO Comandos carregados.
+22/7/2022 0:45:22 INFO: Logando...
+22/7/2022 0:46:17 INFO: Configurando Intents
+
+
+22/7/2022 0:46:17 INFO: Carregando eventos... 
+22/7/2022 0:46:17 INFO Eventos carregados.
+22/7/2022 0:46:17 INFO Carregando comandos...
+
+22/7/2022 0:46:17 INFO Comandos carregados.
+22/7/2022 0:46:17 INFO: Logando...
+22/7/2022 0:46:48 INFO: Configurando Intents
+
+
+22/7/2022 0:46:48 INFO: Carregando eventos... 
+22/7/2022 0:46:48 INFO Eventos carregados.
+22/7/2022 0:46:48 INFO Carregando comandos...
+
+22/7/2022 0:46:48 INFO Comandos carregados.
+22/7/2022 0:46:48 INFO: Logando...
+22/7/2022 0:47:25 INFO: Configurando Intents
+
+
+22/7/2022 0:47:25 INFO: Carregando eventos... 
+22/7/2022 0:47:25 INFO Eventos carregados.
+22/7/2022 0:47:25 INFO Carregando comandos...
+
+22/7/2022 0:47:25 INFO Comandos carregados.
+22/7/2022 0:47:25 INFO: Logando...
+22/7/2022 0:49:42 INFO: Configurando Intents
+
+
+22/7/2022 0:49:42 INFO: Carregando eventos... 
+22/7/2022 0:49:42 INFO Eventos carregados.
+22/7/2022 0:49:42 INFO Carregando comandos...
+
+22/7/2022 0:49:42 INFO Comandos carregados.
+22/7/2022 0:49:42 INFO: Logando...
+22/7/2022 0:52:33 INFO: Configurando Intents
+
+
+22/7/2022 0:52:33 INFO: Carregando eventos... 
+22/7/2022 0:52:33 INFO Eventos carregados.
+22/7/2022 0:52:33 INFO Carregando comandos...
+
+22/7/2022 0:52:33 INFO Comandos carregados.
+22/7/2022 0:52:33 INFO: Logando...
+22/7/2022 0:54:19 INFO: Configurando Intents
+
+
+22/7/2022 0:54:19 INFO: Carregando eventos... 
+22/7/2022 0:54:19 INFO Eventos carregados.
+22/7/2022 0:54:19 INFO Carregando comandos...
+
+22/7/2022 0:54:19 INFO Comandos carregados.
+22/7/2022 0:54:19 INFO: Logando...
+22/7/2022 0:55:0 INFO: Configurando Intents
+
+
+22/7/2022 0:55:0 INFO: Carregando eventos... 
+22/7/2022 0:55:0 INFO Eventos carregados.
+22/7/2022 0:55:0 INFO Carregando comandos...
+
+22/7/2022 0:55:0 INFO Comandos carregados.
+22/7/2022 0:55:0 INFO: Logando...
+
+
+22/7/2022 0:55:36 INFO: Carregando eventos... 
+22/7/2022 0:55:36 INFO Eventos carregados.
+22/7/2022 0:55:36 INFO Carregando comandos...
+
+22/7/2022 0:55:36 INFO Comandos carregados.
+22/7/2022 0:55:36 INFO: Configurando Intents
+22/7/2022 0:55:36 INFO: Logando...
+
+
+22/7/2022 0:56:4 INFO: Carregando eventos... 
+22/7/2022 0:56:4 INFO Eventos carregados.
+22/7/2022 0:56:4 INFO Carregando comandos...
+
+22/7/2022 0:56:4 INFO Comandos carregados.
+22/7/2022 0:56:4 INFO: Configurando Intents
+22/7/2022 0:56:4 INFO: Logando...
+22/7/2022 0:59:2 INFO: Configurando Intents
+
+
+22/7/2022 0:59:3 INFO: Carregando eventos... 
+22/7/2022 0:59:3 INFO Eventos carregados.
+22/7/2022 0:59:3 INFO Carregando comandos...
+
+22/7/2022 0:59:3 INFO Comandos carregados.
+22/7/2022 0:59:2 INFO: Logando...
+22/7/2022 13:14:45 INFO: Configurando Intents
+
+
+22/7/2022 13:14:45 INFO: Carregando eventos... 
+22/7/2022 13:14:45 INFO Eventos carregados.
+22/7/2022 13:14:45 INFO Carregando comandos...
+
+22/7/2022 13:14:45 INFO Comandos carregados.
+22/7/2022 13:14:45 INFO: Logando...

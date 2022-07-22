@@ -14,7 +14,6 @@ module.exports = {
                 return;
             }
             var user = message.mentions.members.first();
-
             var randomgif = list[Math.floor(Math.random()*list.length)]
             
             if(!user) {

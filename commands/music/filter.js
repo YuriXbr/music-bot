@@ -1,3 +1,11 @@
+const { QueryType } = require('discord-player');
+const { discord } = require('discord.js');
+const { MessageEmbed } = require('discord.js');
+
+const embednmusic = new MessageEmbed()
+    .setTitle('FILTER')
+    .setColor('DARK_RED')
+    .setDescription('❌ | Não existe musicas tocando.')
 module.exports = {
     name: 'filter',
     aliases: ['filtro', 'filtrar'],
@@ -7,11 +15,15 @@ module.exports = {
     async execute(client, message, args) {
         const queue = player.getQueue(message.guild.id);
 
-        if (!queue || !queue.playing) return message.channel.send(`Não tem musicas tocando ${message.author}. ❌`);
+        if (!queue || !queue.playing) return message.channel.send({embeds:[embednmusic]});
 
         const actualFilter = queue.getFiltersEnabled()[0];
 
-        if (!args[0]) return message.channel.send(`por favor escolha um filtro valido ${message.author}. ❌\n${actualFilter ? `Filtro ativo ${actualFilter} (${client.config.app.px}filter ${actualFilter} para desativa-lo).\n` : ''}`);
+        const embedinvfilter = new MessageEmbed()
+         .setTitle('FILTER')
+         .setColor('DARK_RED')
+         .setDescription(`❌ | Filtro Invalido, por favor escolha um filtro disponivel: **bassboost_low, bassboost, bassboost_high, 8D, vaporwave, nightcore, phaser, tremolo, vibrato, reverse, treble, normalizer, normalizer2, surrounding, pulsator, subboost, karaoke, flanger, gate, haas, mcompand, mono, mstlr, mstrr, compressor, expander, softlimiter, chorus, chorus2d, chorus3d, fadein, dim, earrape.** `)
+        if (!args[0]) return message.channel.send({embeds:[embedinvfilter]});
 
         const filters = [];
 
@@ -20,7 +32,7 @@ module.exports = {
 
         const filter = filters.find((x) => x.toLowerCase() === args[0].toLowerCase());
 
-        if (!filter) return message.channel.send(`Esse filtro não existe ${message.author}... tente novamente ? ❌\n${actualFilter ? `Filtro ativo ${actualFilter}.\n` : ''}lista de filtros disponiveis: ${filters.map(x => `**${x}**`).join(', ')}.`);
+        if (!filter) return message.channel.send({embeds:[embedinvfilter]});
 
         const filtersUpdated = {};
 
@@ -28,6 +40,11 @@ module.exports = {
 
         await queue.setFilters(filtersUpdated);
 
-        message.channel.send(`O filtro ${filter} esta agora **${queue.getFiltersEnabled().includes(filter) ? 'ativo' : 'desativo'}** ✅\n*Lembre-se, quanto maior a musica maior sera o filtro`);
+        const embedsuccessful = new MessageEmbed()
+        .setTitle('FILTER')
+        .setColor('GREEN')
+        .setDescription(`✅ | O filtro ${filter} esta agora **${queue.getFiltersEnabled().includes(filter) ? 'ativo' : 'desativo'}**.  Lembre-se, quanto maior a musica mais tempo demora para o filtro ser aplicado.`)
+
+        message.channel.send({embeds:[embedsuccessful]});
     },
 };

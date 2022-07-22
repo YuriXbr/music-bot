@@ -1,11 +1,11 @@
 const { discord } = require('discord.js');
 const { MessageEmbed } = require('discord.js');
-const list = require('./listas/listhug.json');
 module.exports = {
     name: 'hug',
     aliases: ['abracar', 'abraçar', 'abraco', 'abraço'],
     utilisation: '{prefix}hug',
         async execute(client, message, args) {
+            const list = require('./listas/listhug.json');
             if (message.author.id == "755853297507631249" || message.author.id == "412752258665807872" || message.author.id == "300635904308150272" || message.author.id == "828679012079108107") {
                 message.reply("Em Desenvolvimento"); 
                 return;

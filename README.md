@@ -1,4 +1,5 @@
 # Music-bot
+[![CodeFactor](https://www.codefactor.io/repository/github/yurixbr/music-bot-master/badge)](https://www.codefactor.io/repository/github/yurixbr/music-bot-master)
 
 Bot completo focado em musica para discord.js V13 🎧
 
@@ -8,9 +9,9 @@ Bot completo focado em musica para discord.js V13 🎧
 
 Dependencias e ferramentas que você precisará para fazer o bot funcionar corretamente
 
-[FFmpeg](https://www.ffmpeg.org) (para processamento de audio)
+[FFmpeg](https://www.ffmpeg.org) to process audio
 
-[Node JS](https://nodejs.org/en/) (v16)
+[Node JS](https://nodejs.org/en/) (v16) for environment
 
 
 ### ⚙ Configuração

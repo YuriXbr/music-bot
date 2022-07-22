@@ -7,7 +7,7 @@ module.exports = {
     execute(client, message) {
         const queue = player.getQueue(message.guild.id);
 
-        if (!queue || !queue.playing) return message.channel.send(`Não tem musicas tocando ${message.author}. ❌`);
+        if (!queue) return message.channel.send(`Não tem musicas tocando ${message.author}. ❌`);
 
         queue.destroy();
 

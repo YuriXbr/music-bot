@@ -1,8 +1,11 @@
 module.exports = {
     app: {
-        px: 'XXX',
-        token: 'SEU TOKEN AQUI',
-        playing: 'prefixo: XXX Versão: 2.1.6'
+        px: '!',
+        token: '', //token do bot
+        playing: 'prefixo: !', //status do bot
+        startalert: '', //canal para o bot enviar alertas automaticos
+        errorsalert: '', // canal para o bot enviar os erros
+        logsalert: ''  // canal para o bot enviar registro dos logs
     },
 
     opt: {
@@ -21,3 +24,4 @@ module.exports = {
         }
     }
 };
+

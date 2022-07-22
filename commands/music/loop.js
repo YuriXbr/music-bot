@@ -1,4 +1,16 @@
 const { QueueRepeatMode } = require('discord-player');
+const { QueryType } = require('discord-player');
+const { discord } = require('discord.js');
+const { MessageEmbed } = require('discord.js');
+
+const embednmusic = new MessageEmbed()
+    .setTitle('CLEAR')
+    .setColor('DARK_RED')
+    .setDescription('❌ | Não existe musicas tocando.')
+    
+// vvvvvvvvvvvvvvvvvvvvvvvvv
+// EMBEDS EM DESENVOLVIMENTO
+// ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 module.exports = {
     name: 'loop',
@@ -9,10 +21,10 @@ module.exports = {
     execute(client, message, args) {
         const queue = player.getQueue(message.guild.id);
 
-        if (!queue || !queue.playing) return message.channel.send(`Não tem musicas tocando ${message.author}. ❌`);
+        if (!queue || !queue.playing) return message.channel.send({embeds:[embednmusic]});
 
         if (args.join('').toLowerCase() === 'queue') {
-            if (queue.repeatMode === 1) return message.channel.send(`Você precisa rimeiro desativar a musica atual do loop (${client.config.app.px}loop) ${message.author}. ❌`);
+            if (queue.repeatMode === 1) return message.channel.send(`Você precisa primeiro desativar a modo de loop atual (${client.config.app.px}loop) ${message.author}. ❌`);
 
             const success = queue.setRepeatMode(queue.repeatMode === 0 ? QueueRepeatMode.QUEUE : QueueRepeatMode.OFF);
 

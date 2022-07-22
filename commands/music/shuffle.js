@@ -12,7 +12,7 @@ module.exports = {
         if (!queue.tracks[0]) return message.channel.send(`Não tem outras musicas tocando ${message.author}. ❌`);
 
         await queue.shuffle();
-
+        
         return message.channel.send(`Fila embaralhada **${queue.tracks.length}** musicas! ✅`);
     },
 };
