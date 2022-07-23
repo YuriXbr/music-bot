@@ -2,9 +2,9 @@
   "name": "music-bot",
   "main": "main.js",
   "author": "YuriXbr",
-  "version": "2.1.6",
-  "repository": "https://github.com/YuriXbr/Music-bot-master/",
-  "description": "Discord Music Bot par adiscord.js V13",
+  "version": "2.4.0",
+  "repository": "https://github.com/YuriXbr/Music-bot/",
+  "description": "Discord Music Bot para adiscord.js V13",
   "scripts": {
     "start": "node main.js",
     "build": "nexe --build"
