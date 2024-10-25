@@ -1,5 +1,8 @@
 # Music-bot
-[![CodeFactor](https://www.codefactor.io/repository/github/yurixbr/music-bot-master/badge)](https://www.codefactor.io/repository/github/yurixbr/music-bot-master)
+
+> [!IMPORTANT]
+> Projeto Descontinuado, uma nova versão está sendo criada em https://github.com/YuriXbr/public-lumina-bot
+> Note que esse é um projeto privado e nem todas as novas atualizações são públicas.
 
 Bot completo focado em musica para discord.js V13 🎧
 
